@@ -16,8 +16,8 @@
       "shares": 10.582,
       "openedAt": "2026-06-14T19:10:01.497Z",
       "dteAtOpen": 16,
-      "markPrice": 0.9855,
-      "unrealized": 0.4286
+      "markPrice": 0.9885,
+      "unrealized": 0.4603
     },
     {
       "hypothesis": "H-GEO-1",
@@ -34,8 +34,8 @@
       "shares": 10.5263,
       "openedAt": "2026-06-14T19:10:01.497Z",
       "dteAtOpen": 16,
-      "markPrice": 0.9905,
-      "unrealized": 0.4263
+      "markPrice": 0.9865,
+      "unrealized": 0.3842
     },
     {
       "hypothesis": "H-GEO-1",
@@ -52,8 +52,8 @@
       "shares": 10.2987,
       "openedAt": "2026-06-14T19:10:01.497Z",
       "dteAtOpen": 16,
-      "markPrice": 0.9775,
-      "unrealized": 0.067
+      "markPrice": 0.993,
+      "unrealized": 0.2266
     },
     {
       "hypothesis": "H-GEO-1",
@@ -70,8 +70,8 @@
       "shares": 10.6383,
       "openedAt": "2026-06-14T19:10:01.497Z",
       "dteAtOpen": 16,
-      "markPrice": 0.94,
-      "unrealized": 0
+      "markPrice": 0.959,
+      "unrealized": 0.2021
     },
     {
       "hypothesis": "H-GEO-1",
@@ -88,8 +88,8 @@
       "shares": 10.6383,
       "openedAt": "2026-06-14T19:10:01.497Z",
       "dteAtOpen": 15,
-      "markPrice": 0.715,
-      "unrealized": -2.3936
+      "markPrice": 0.69,
+      "unrealized": -2.6596
     },
     {
       "hypothesis": "H-GEO-1",
@@ -106,8 +106,8 @@
       "shares": 10.4987,
       "openedAt": "2026-06-14T19:10:01.497Z",
       "dteAtOpen": 16,
-      "markPrice": 0.9605,
-      "unrealized": 0.084
+      "markPrice": 0.975,
+      "unrealized": 0.2362
     },
     {
       "hypothesis": "H-GEO-1",
@@ -124,8 +124,8 @@
       "shares": 10.5263,
       "openedAt": "2026-06-14T19:10:01.497Z",
       "dteAtOpen": 15,
-      "markPrice": 0.735,
-      "unrealized": -2.2632
+      "markPrice": 0.795,
+      "unrealized": -1.6316
     },
     {
       "hypothesis": "H-GEO-1",
@@ -142,8 +142,8 @@
       "shares": 10.3681,
       "openedAt": "2026-06-14T19:10:01.497Z",
       "dteAtOpen": 15,
-      "markPrice": 0.8925,
-      "unrealized": -0.7465
+      "markPrice": 0.9845,
+      "unrealized": 0.2074
     },
     {
       "hypothesis": "H-GEO-1",
@@ -160,8 +160,8 @@
       "shares": 10.6383,
       "openedAt": "2026-06-14T19:10:01.497Z",
       "dteAtOpen": 15,
-      "markPrice": 0.983,
-      "unrealized": 0.4574
+      "markPrice": 0.986,
+      "unrealized": 0.4894
     },
     {
       "hypothesis": "H-GEO-1",
@@ -178,8 +178,8 @@
       "shares": 10.2564,
       "openedAt": "2026-06-14T19:10:01.497Z",
       "dteAtOpen": 15,
-      "markPrice": 0.9705,
-      "unrealized": -0.0462
+      "markPrice": 0.974,
+      "unrealized": -0.0103
     },
     {
       "hypothesis": "H-GEO-1",
@@ -196,8 +196,8 @@
       "shares": 10.6383,
       "openedAt": "2026-06-14T19:10:01.497Z",
       "dteAtOpen": 15,
-      "markPrice": 0.935,
-      "unrealized": -0.0532
+      "markPrice": 0.96,
+      "unrealized": 0.2128
     },
     {
       "hypothesis": "H-GEO-1",
@@ -214,8 +214,8 @@
       "shares": 10.5097,
       "openedAt": "2026-06-14T19:10:01.497Z",
       "dteAtOpen": 15,
-      "markPrice": 0.9745,
-      "unrealized": 0.2417
+      "markPrice": 0.9775,
+      "unrealized": 0.2732
     },
     {
       "hypothesis": "H-GEO-1",
@@ -232,8 +232,8 @@
       "shares": 10.3627,
       "openedAt": "2026-06-14T19:10:01.497Z",
       "dteAtOpen": 15,
-      "markPrice": 0.9525,
-      "unrealized": -0.1295
+      "markPrice": 0.9485,
+      "unrealized": -0.171
     },
     {
       "hypothesis": "H-GEO-1",
@@ -250,8 +250,8 @@
       "shares": 10.2828,
       "openedAt": "2026-06-14T19:10:01.497Z",
       "dteAtOpen": 16,
-      "markPrice": 0.9935,
-      "unrealized": 0.216
+      "markPrice": 0.9925,
+      "unrealized": 0.2057
     },
     {
       "hypothesis": "H-GEO-1",
@@ -268,8 +268,8 @@
       "shares": 10.4275,
       "openedAt": "2026-06-14T19:10:01.497Z",
       "dteAtOpen": 15,
-      "markPrice": 0.9775,
-      "unrealized": 0.1929
+      "markPrice": 0.98,
+      "unrealized": 0.2189
     },
     {
       "hypothesis": "H-GEO-1",
@@ -286,8 +286,8 @@
       "shares": 10.6383,
       "openedAt": "2026-06-14T19:10:01.497Z",
       "dteAtOpen": 15,
-      "markPrice": 0.969,
-      "unrealized": 0.3085
+      "markPrice": 0.9685,
+      "unrealized": 0.3032
     },
     {
       "hypothesis": "H-GEO-1",
@@ -304,8 +304,8 @@
       "shares": 10.2564,
       "openedAt": "2026-06-14T19:10:01.497Z",
       "dteAtOpen": 15,
-      "markPrice": 0.953,
-      "unrealized": -0.2257
+      "markPrice": 0.97,
+      "unrealized": -0.0513
     },
     {
       "hypothesis": "H-GEO-1",
@@ -322,8 +322,8 @@
       "shares": 10.6157,
       "openedAt": "2026-06-14T19:10:01.497Z",
       "dteAtOpen": 15,
-      "markPrice": 0.979,
-      "unrealized": 0.3928
+      "markPrice": 0.9705,
+      "unrealized": 0.3025
     },
     {
       "hypothesis": "H-GEO-1",
@@ -340,8 +340,8 @@
       "shares": 10.4384,
       "openedAt": "2026-06-14T19:10:01.497Z",
       "dteAtOpen": 15,
-      "markPrice": 0.9765,
-      "unrealized": 0.1931
+      "markPrice": 0.986,
+      "unrealized": 0.2923
     },
     {
       "hypothesis": "H-GEO-1",
@@ -358,8 +358,8 @@
       "shares": 10.4439,
       "openedAt": "2026-06-14T19:10:01.497Z",
       "dteAtOpen": 15,
-      "markPrice": 0.9605,
-      "unrealized": 0.0314
+      "markPrice": 0.967,
+      "unrealized": 0.0993
     },
     {
       "hypothesis": "H-GEO-1",
@@ -376,8 +376,8 @@
       "shares": 10.2828,
       "openedAt": "2026-06-14T19:10:01.497Z",
       "dteAtOpen": 44,
-      "markPrice": 0.9665,
-      "unrealized": -0.0617
+      "markPrice": 0.9855,
+      "unrealized": 0.1337
     },
     {
       "hypothesis": "H-GEO-1",
@@ -394,8 +394,8 @@
       "shares": 10.6383,
       "openedAt": "2026-06-14T19:10:01.497Z",
       "dteAtOpen": 15,
-      "markPrice": 0.968,
-      "unrealized": 0.2979
+      "markPrice": 0.9685,
+      "unrealized": 0.3032
     },
     {
       "hypothesis": "H-GEO-1",
@@ -412,8 +412,8 @@
       "shares": 10.4932,
       "openedAt": "2026-06-14T19:10:01.497Z",
       "dteAtOpen": 15,
-      "markPrice": 0.9525,
-      "unrealized": -0.0052
+      "markPrice": 0.949,
+      "unrealized": -0.042
     },
     {
       "hypothesis": "H-GEO-1",
@@ -430,8 +430,8 @@
       "shares": 10.5042,
       "openedAt": "2026-06-14T19:10:01.497Z",
       "dteAtOpen": 31,
-      "markPrice": 0.708,
-      "unrealized": -2.563
+      "markPrice": 0.71,
+      "unrealized": -2.542
     },
     {
       "hypothesis": "H-GEO-1",
@@ -448,8 +448,8 @@
       "shares": 10.4548,
       "openedAt": "2026-06-14T19:10:01.497Z",
       "dteAtOpen": 16,
-      "markPrice": 0.9735,
-      "unrealized": 0.1777
+      "markPrice": 0.9565,
+      "unrealized": 0
     },
     {
       "hypothesis": "H-GEO-1",
@@ -466,8 +466,8 @@
       "shares": 10.582,
       "openedAt": "2026-06-14T19:10:01.497Z",
       "dteAtOpen": 0,
-      "markPrice": 0.9975,
-      "unrealized": 0.5555
+      "markPrice": 0.9995,
+      "unrealized": 0.5767
     },
     {
       "hypothesis": "H-GEO-1",
@@ -484,8 +484,8 @@
       "shares": 10.3252,
       "openedAt": "2026-06-14T19:10:01.497Z",
       "dteAtOpen": 16,
-      "markPrice": 0.946,
-      "unrealized": -0.2324
+      "markPrice": 0.979,
+      "unrealized": 0.1084
     },
     {
       "hypothesis": "H-GEO-1",
@@ -502,8 +502,8 @@
       "shares": 10.2564,
       "openedAt": "2026-06-14T19:10:01.497Z",
       "dteAtOpen": 16,
-      "markPrice": 0.949,
-      "unrealized": -0.2667
+      "markPrice": 0.981,
+      "unrealized": 0.0615
     },
     {
       "hypothesis": "H-GEO-1",
@@ -520,8 +520,8 @@
       "shares": 10.4712,
       "openedAt": "2026-06-14T19:10:01.497Z",
       "dteAtOpen": 17,
-      "markPrice": 0.976,
-      "unrealized": 0.2199
+      "markPrice": 0.9775,
+      "unrealized": 0.2356
     },
     {
       "hypothesis": "H-GEO-1",
@@ -538,8 +538,8 @@
       "shares": 10.6895,
       "openedAt": "2026-06-14T19:10:01.497Z",
       "dteAtOpen": 15,
-      "markPrice": 0.8435,
-      "unrealized": -0.9834
+      "markPrice": 0.9015,
+      "unrealized": -0.3634
     },
     {
       "hypothesis": "H-GEO-2",
@@ -620,8 +620,8 @@
       "shares": 11.236,
       "openedAt": "2026-06-14T19:10:01.503Z",
       "dteAtOpen": 16,
-      "markPrice": 0.987,
-      "unrealized": 1.0899
+      "markPrice": 0.9885,
+      "unrealized": 1.1068
     },
     {
       "hypothesis": "H-GEO-2",
@@ -656,8 +656,8 @@
       "shares": 15.2672,
       "openedAt": "2026-06-14T19:10:01.503Z",
       "dteAtOpen": 15,
-      "markPrice": 0.705,
-      "unrealized": 0.7634
+      "markPrice": 0.76,
+      "unrealized": 1.6031
     },
     {
       "hypothesis": "H-GEO-2",
@@ -692,8 +692,8 @@
       "shares": 11.9048,
       "openedAt": "2026-06-14T19:10:01.503Z",
       "dteAtOpen": 15,
-      "markPrice": 0.835,
-      "unrealized": -0.0595
+      "markPrice": 0.83,
+      "unrealized": -0.119
     },
     {
       "hypothesis": "H-GEO-2",
@@ -710,8 +710,8 @@
       "shares": 13.7931,
       "openedAt": "2026-06-14T19:10:01.503Z",
       "dteAtOpen": 31,
-      "markPrice": 0.79,
-      "unrealized": 0.8965
+      "markPrice": 0.815,
+      "unrealized": 1.2414
     },
     {
       "hypothesis": "H-GEO-2",
@@ -728,8 +728,8 @@
       "shares": 10.9529,
       "openedAt": "2026-06-14T19:10:01.503Z",
       "dteAtOpen": 16,
-      "markPrice": 0.942,
-      "unrealized": 0.3176
+      "markPrice": 0.952,
+      "unrealized": 0.4272
     },
     {
       "hypothesis": "H-GEO-2",
@@ -746,8 +746,8 @@
       "shares": 11.1732,
       "openedAt": "2026-06-14T19:10:01.503Z",
       "dteAtOpen": 38,
-      "markPrice": 0.94,
-      "unrealized": 0.5028
+      "markPrice": 0.945,
+      "unrealized": 0.5587
     },
     {
       "hypothesis": "H-GEO-2",
@@ -764,8 +764,8 @@
       "shares": 10.6383,
       "openedAt": "2026-06-14T19:10:01.503Z",
       "dteAtOpen": 15,
-      "markPrice": 0.715,
-      "unrealized": -2.3936
+      "markPrice": 0.69,
+      "unrealized": -2.6596
     },
     {
       "hypothesis": "H-GEO-2",
@@ -782,8 +782,8 @@
       "shares": 11.2994,
       "openedAt": "2026-06-14T19:10:01.503Z",
       "dteAtOpen": 15,
-      "markPrice": 0.84,
-      "unrealized": -0.5085
+      "markPrice": 0.865,
+      "unrealized": -0.226
     },
     {
       "hypothesis": "H-GEO-2",
@@ -800,8 +800,8 @@
       "shares": 12.7389,
       "openedAt": "2026-06-14T19:10:01.503Z",
       "dteAtOpen": 31,
-      "markPrice": 0.645,
-      "unrealized": -1.7834
+      "markPrice": 0.655,
+      "unrealized": -1.656
     },
     {
       "hypothesis": "H-GEO-2",
@@ -906,8 +906,8 @@
       "shares": 10.101,
       "openedAt": "2026-06-14T19:10:01.507Z",
       "dteAtOpen": 16,
-      "markPrice": 0.9925,
-      "unrealized": 0.0252
+      "markPrice": 0.9955,
+      "unrealized": 0.0555
     },
     {
       "hypothesis": "H-GEO-2",
@@ -924,8 +924,8 @@
       "shares": 10.3681,
       "openedAt": "2026-06-14T19:10:01.507Z",
       "dteAtOpen": 15,
-      "markPrice": 0.8925,
-      "unrealized": -0.7465
+      "markPrice": 0.9845,
+      "unrealized": 0.2074
     },
     {
       "hypothesis": "H-GEO-2",
@@ -942,8 +942,8 @@
       "shares": 44.3459,
       "openedAt": "2026-06-14T19:10:01.507Z",
       "dteAtOpen": 15,
-      "markPrice": 0.1605,
-      "unrealized": -2.8825
+      "markPrice": 0.099,
+      "unrealized": -5.6098
     },
     {
       "hypothesis": "H-GEO-2",
@@ -960,8 +960,8 @@
       "shares": 10.989,
       "openedAt": "2026-06-14T19:10:01.507Z",
       "dteAtOpen": 15,
-      "markPrice": 0.905,
-      "unrealized": -0.055
+      "markPrice": 0.84,
+      "unrealized": -0.7692
     },
     {
       "hypothesis": "H-GEO-2",
@@ -978,8 +978,8 @@
       "shares": 11.2994,
       "openedAt": "2026-06-14T19:10:01.507Z",
       "dteAtOpen": 15,
-      "markPrice": 0.845,
-      "unrealized": -0.452
+      "markPrice": 0.85,
+      "unrealized": -0.3955
     },
     {
       "hypothesis": "H-GEO-2",
@@ -996,8 +996,8 @@
       "shares": 10.8696,
       "openedAt": "2026-06-14T19:10:01.507Z",
       "dteAtOpen": 15,
-      "markPrice": 0.966,
-      "unrealized": 0.5
+      "markPrice": 0.9665,
+      "unrealized": 0.5055
     },
     {
       "hypothesis": "H-GEO-2",
@@ -1032,8 +1032,8 @@
       "shares": 12.5,
       "openedAt": "2026-06-14T19:10:01.507Z",
       "dteAtOpen": 15,
-      "markPrice": 0.833,
-      "unrealized": 0.4125
+      "markPrice": 0.939,
+      "unrealized": 1.7375
     },
     {
       "hypothesis": "H-GEO-2",
@@ -1068,8 +1068,8 @@
       "shares": 11.0497,
       "openedAt": "2026-06-14T19:10:01.507Z",
       "dteAtOpen": 15,
-      "markPrice": 0.96,
-      "unrealized": 0.6077
+      "markPrice": 0.964,
+      "unrealized": 0.6519
     },
     {
       "hypothesis": "H-GEO-3",
@@ -1150,8 +1150,8 @@
       "shares": 83.3333,
       "openedAt": "2026-06-14T19:10:01.508Z",
       "dteAtOpen": 16,
-      "markPrice": 0.013,
-      "unrealized": -8.9167
+      "markPrice": 0.0115,
+      "unrealized": -9.0417
     },
     {
       "hypothesis": "H-GEO-3",
@@ -1186,8 +1186,8 @@
       "shares": 28.169,
       "openedAt": "2026-06-14T19:10:01.508Z",
       "dteAtOpen": 15,
-      "markPrice": 0.295,
-      "unrealized": -1.6901
+      "markPrice": 0.24,
+      "unrealized": -3.2394
     },
     {
       "hypothesis": "H-GEO-3",
@@ -1222,8 +1222,8 @@
       "shares": 58.8235,
       "openedAt": "2026-06-14T19:10:01.508Z",
       "dteAtOpen": 15,
-      "markPrice": 0.165,
-      "unrealized": -0.2941
+      "markPrice": 0.17,
+      "unrealized": 0
     },
     {
       "hypothesis": "H-GEO-3",
@@ -1240,8 +1240,8 @@
       "shares": 35.0877,
       "openedAt": "2026-06-14T19:10:01.508Z",
       "dteAtOpen": 31,
-      "markPrice": 0.21,
-      "unrealized": -2.6316
+      "markPrice": 0.185,
+      "unrealized": -3.5088
     },
     {
       "hypothesis": "H-GEO-3",
@@ -1258,8 +1258,8 @@
       "shares": 103.0928,
       "openedAt": "2026-06-14T19:10:01.508Z",
       "dteAtOpen": 16,
-      "markPrice": 0.058,
-      "unrealized": -4.0206
+      "markPrice": 0.048,
+      "unrealized": -5.0515
     },
     {
       "hypothesis": "H-GEO-3",
@@ -1276,8 +1276,8 @@
       "shares": 86.9565,
       "openedAt": "2026-06-14T19:10:01.508Z",
       "dteAtOpen": 38,
-      "markPrice": 0.06,
-      "unrealized": -4.7826
+      "markPrice": 0.055,
+      "unrealized": -5.2174
     },
     {
       "hypothesis": "H-GEO-3",
@@ -1294,8 +1294,8 @@
       "shares": 142.8571,
       "openedAt": "2026-06-14T19:10:01.508Z",
       "dteAtOpen": 15,
-      "markPrice": 0.285,
-      "unrealized": 30.7143
+      "markPrice": 0.31,
+      "unrealized": 34.2857
     },
     {
       "hypothesis": "H-GEO-3",
@@ -1312,8 +1312,8 @@
       "shares": 80,
       "openedAt": "2026-06-14T19:10:01.508Z",
       "dteAtOpen": 15,
-      "markPrice": 0.16,
-      "unrealized": 2.8
+      "markPrice": 0.135,
+      "unrealized": 0.8
     },
     {
       "hypothesis": "H-GEO-3",
@@ -1330,8 +1330,8 @@
       "shares": 44.4444,
       "openedAt": "2026-06-14T19:10:01.508Z",
       "dteAtOpen": 31,
-      "markPrice": 0.355,
-      "unrealized": 5.7778
+      "markPrice": 0.345,
+      "unrealized": 5.3333
     },
     {
       "hypothesis": "H-GEO-3",
@@ -1436,8 +1436,8 @@
       "shares": 689.6552,
       "openedAt": "2026-06-14T19:10:01.508Z",
       "dteAtOpen": 16,
-      "markPrice": 0.0075,
-      "unrealized": -4.8276
+      "markPrice": 0.0045,
+      "unrealized": -6.8966
     },
     {
       "hypothesis": "H-GEO-3",
@@ -1454,8 +1454,8 @@
       "shares": 219.7802,
       "openedAt": "2026-06-14T19:10:01.508Z",
       "dteAtOpen": 15,
-      "markPrice": 0.1075,
-      "unrealized": 13.6264
+      "markPrice": 0.0155,
+      "unrealized": -6.5934
     },
     {
       "hypothesis": "H-GEO-3",
@@ -1472,8 +1472,8 @@
       "shares": 12.747,
       "openedAt": "2026-06-14T19:10:01.508Z",
       "dteAtOpen": 15,
-      "markPrice": 0.8395,
-      "unrealized": 0.7011
+      "markPrice": 0.901,
+      "unrealized": 1.485
     },
     {
       "hypothesis": "H-GEO-3",
@@ -1490,8 +1490,8 @@
       "shares": 100,
       "openedAt": "2026-06-14T19:10:01.508Z",
       "dteAtOpen": 15,
-      "markPrice": 0.095,
-      "unrealized": -0.5
+      "markPrice": 0.16,
+      "unrealized": 6
     },
     {
       "hypothesis": "H-GEO-3",
@@ -1508,8 +1508,8 @@
       "shares": 80,
       "openedAt": "2026-06-14T19:10:01.508Z",
       "dteAtOpen": 15,
-      "markPrice": 0.155,
-      "unrealized": 2.4
+      "markPrice": 0.15,
+      "unrealized": 2
     },
     {
       "hypothesis": "H-GEO-3",
@@ -1526,8 +1526,8 @@
       "shares": 111.1111,
       "openedAt": "2026-06-14T19:10:01.508Z",
       "dteAtOpen": 15,
-      "markPrice": 0.034,
-      "unrealized": -6.2222
+      "markPrice": 0.0335,
+      "unrealized": -6.2778
     },
     {
       "hypothesis": "H-GEO-3",
@@ -1562,8 +1562,8 @@
       "shares": 47.619,
       "openedAt": "2026-06-14T19:10:01.508Z",
       "dteAtOpen": 15,
-      "markPrice": 0.167,
-      "unrealized": -2.0476
+      "markPrice": 0.061,
+      "unrealized": -7.0952
     },
     {
       "hypothesis": "H-GEO-3",
@@ -1598,8 +1598,8 @@
       "shares": 95.2381,
       "openedAt": "2026-06-14T19:10:01.508Z",
       "dteAtOpen": 15,
-      "markPrice": 0.04,
-      "unrealized": -6.1905
+      "markPrice": 0.036,
+      "unrealized": -6.5714
     },
     {
       "hypothesis": "H-GEO-4",
@@ -1616,8 +1616,8 @@
       "shares": 10.582,
       "openedAt": "2026-06-14T19:10:01.512Z",
       "dteAtOpen": 16,
-      "markPrice": 0.9855,
-      "unrealized": 0.4286
+      "markPrice": 0.9885,
+      "unrealized": 0.4603
     },
     {
       "hypothesis": "H-GEO-4",
@@ -1688,8 +1688,8 @@
       "shares": 10.989,
       "openedAt": "2026-06-14T19:10:01.512Z",
       "dteAtOpen": 15,
-      "markPrice": 0.905,
-      "unrealized": -0.055
+      "markPrice": 0.84,
+      "unrealized": -0.7692
     },
     {
       "hypothesis": "H-GEO-4",
@@ -1706,8 +1706,8 @@
       "shares": 11.0619,
       "openedAt": "2026-06-14T19:10:01.512Z",
       "dteAtOpen": 15,
-      "markPrice": 0.84,
-      "unrealized": -0.708
+      "markPrice": 0.897,
+      "unrealized": -0.0775
     },
     {
       "hypothesis": "H-GEO-4",
@@ -1724,8 +1724,8 @@
       "shares": 27.3973,
       "openedAt": "2026-06-14T19:10:01.512Z",
       "dteAtOpen": 16,
-      "markPrice": 0.225,
-      "unrealized": -3.8356
+      "markPrice": 0.265,
+      "unrealized": -2.7397
     },
     {
       "hypothesis": "H-GEO-4",
@@ -1760,8 +1760,8 @@
       "shares": 10.101,
       "openedAt": "2026-06-14T19:10:01.512Z",
       "dteAtOpen": 16,
-      "markPrice": 0.9985,
-      "unrealized": 0.0858
+      "markPrice": 0.9925,
+      "unrealized": 0.0252
     },
     {
       "hypothesis": "H-GEO-4",
@@ -1778,8 +1778,8 @@
       "shares": 10.582,
       "openedAt": "2026-06-14T19:10:01.512Z",
       "dteAtOpen": 15,
-      "markPrice": 0.9625,
-      "unrealized": 0.1852
+      "markPrice": 0.9585,
+      "unrealized": 0.1428
     },
     {
       "hypothesis": "H-GEO-4",
@@ -1796,8 +1796,8 @@
       "shares": 10.101,
       "openedAt": "2026-06-14T19:10:01.512Z",
       "dteAtOpen": 15,
-      "markPrice": 0.976,
-      "unrealized": -0.1414
+      "markPrice": 0.952,
+      "unrealized": -0.3838
     },
     {
       "hypothesis": "H-GEO-4",
@@ -1814,8 +1814,8 @@
       "shares": 10.1266,
       "openedAt": "2026-06-14T19:10:01.512Z",
       "dteAtOpen": 16,
-      "markPrice": 0.988,
-      "unrealized": 0.0051
+      "markPrice": 0.99,
+      "unrealized": 0.0253
     },
     {
       "hypothesis": "H-GEO-4",
@@ -1832,8 +1832,8 @@
       "shares": 10.101,
       "openedAt": "2026-06-14T19:10:01.512Z",
       "dteAtOpen": 15,
-      "markPrice": 0.962,
-      "unrealized": -0.2828
+      "markPrice": 0.987,
+      "unrealized": -0.0303
     },
     {
       "hypothesis": "H-GEO-4",
@@ -1850,8 +1850,8 @@
       "shares": 10.101,
       "openedAt": "2026-06-14T19:10:01.512Z",
       "dteAtOpen": 15,
-      "markPrice": 0.9945,
-      "unrealized": 0.0454
+      "markPrice": 0.994,
+      "unrealized": 0.0404
     },
     {
       "hypothesis": "H-GEO-4",
@@ -1868,8 +1868,8 @@
       "shares": 10.101,
       "openedAt": "2026-06-14T19:10:01.512Z",
       "dteAtOpen": 15,
-      "markPrice": 0.9925,
-      "unrealized": 0.0252
+      "markPrice": 0.993,
+      "unrealized": 0.0303
     },
     {
       "hypothesis": "H-GEO-4",
@@ -1886,8 +1886,8 @@
       "shares": 17.8571,
       "openedAt": "2026-06-14T19:10:01.512Z",
       "dteAtOpen": 15,
-      "markPrice": 0.53,
-      "unrealized": -0.5357
+      "markPrice": 0.515,
+      "unrealized": -0.8036
     },
     {
       "hypothesis": "H-GEO-4",
@@ -1958,8 +1958,8 @@
       "shares": 10.101,
       "openedAt": "2026-06-14T19:10:01.512Z",
       "dteAtOpen": 15,
-      "markPrice": 0.9985,
-      "unrealized": 0.0858
+      "markPrice": 0.999,
+      "unrealized": 0.0909
     },
     {
       "hypothesis": "H-GEO-4",
@@ -1994,8 +1994,8 @@
       "shares": 10.1368,
       "openedAt": "2026-06-14T19:10:01.512Z",
       "dteAtOpen": 15,
-      "markPrice": 0.9825,
-      "unrealized": -0.0406
+      "markPrice": 0.9835,
+      "unrealized": -0.0305
     },
     {
       "hypothesis": "H-GEO-4",
@@ -2030,8 +2030,8 @@
       "shares": 10.101,
       "openedAt": "2026-06-14T19:10:01.512Z",
       "dteAtOpen": 15,
-      "markPrice": 0.999,
-      "unrealized": 0.0909
+      "markPrice": 0.9995,
+      "unrealized": 0.0959
     },
     {
       "hypothesis": "H-GEO-4",
@@ -2048,8 +2048,8 @@
       "shares": 68.9655,
       "openedAt": "2026-06-14T19:22:31.405Z",
       "dteAtOpen": 15,
-      "markPrice": 0.17,
-      "unrealized": 1.7241
+      "markPrice": 0.113,
+      "unrealized": -2.2069
     },
     {
       "hypothesis": "H-GEO-4",
@@ -2066,8 +2066,8 @@
       "shares": 303.0303,
       "openedAt": "2026-06-14T19:39:36.171Z",
       "dteAtOpen": 15,
-      "markPrice": 0.0215,
-      "unrealized": -3.4848
+      "markPrice": 0.01,
+      "unrealized": -6.9697
     },
     {
       "hypothesis": "H-GEO-4",
@@ -2084,8 +2084,8 @@
       "shares": 11.0497,
       "openedAt": "2026-06-15T13:00:26.741Z",
       "dteAtOpen": 14,
-      "markPrice": 0.91,
-      "unrealized": 0.0552
+      "markPrice": 0.9,
+      "unrealized": -0.0553
     },
     {
       "hypothesis": "H-GEO-4",
@@ -2102,8 +2102,8 @@
       "shares": 10.4712,
       "openedAt": "2026-06-15T13:00:26.741Z",
       "dteAtOpen": 15,
-      "markPrice": 0.94,
-      "unrealized": -0.1571
+      "markPrice": 0.955,
+      "unrealized": 0
     },
     {
       "hypothesis": "H-GEO-4",
@@ -2120,8 +2120,8 @@
       "shares": 10.101,
       "openedAt": "2026-06-15T13:00:26.741Z",
       "dteAtOpen": 14,
-      "markPrice": 0.9895,
-      "unrealized": -0.0051
+      "markPrice": 0.989,
+      "unrealized": -0.0101
     },
     {
       "hypothesis": "H-GEO-4",
@@ -2138,8 +2138,8 @@
       "shares": 122.6994,
       "openedAt": "2026-06-15T13:00:26.743Z",
       "dteAtOpen": 30,
-      "markPrice": 0.017,
-      "unrealized": -7.9141
+      "markPrice": 0.0125,
+      "unrealized": -8.4663
     }
   ],
   "closed": []
