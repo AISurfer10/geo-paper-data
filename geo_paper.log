@@ -856,3 +856,23 @@ TOTAL realized $-742.87 (291 closed) | unrealized $8.59 (107 open)
 [telegram] report sent
 
 State saved to /root/geo_engine/geo_paper_state.json
+[publish] pushed (remote up to date)
+geo_paper — non-sports resolution-hold paper engine (PAPER ONLY)
+
+Loaded state: 107 open, 291 closed
+Settling open positions against resolution...
+  settled 3 resolved position(s)
+Scanning non-sports universe...
+  666 non-sports events, 2371 tradeable candidates
+  opened 2 new paper position(s)
+
+===================== PER-HYPOTHESIS =====================
+H-GEO-1: open 30 | closed 52 | WR 92% | realized $-17.17 | unreal $-6.74
+H-GEO-2: open 30 | closed 98 | WR 93% | realized $-26.01 | unreal $49.6
+H-GEO-3: open 16 | closed 92 | WR 8% | realized $-640.58 | unreal $-71.65
+H-GEO-4: open 30 | closed 52 | WR 75% | realized $-59.71 | unreal $34.94
+
+TOTAL realized $-743.46 (294 closed) | unrealized $6.15 (106 open)
+[telegram] report sent
+
+State saved to /root/geo_engine/geo_paper_state.json
