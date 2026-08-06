@@ -16,8 +16,8 @@
       "shares": 17.8571,
       "openedAt": "2026-06-14T19:10:01.512Z",
       "dteAtOpen": 15,
-      "markPrice": 0.68,
-      "unrealized": 2.1428
+      "markPrice": 0.64,
+      "unrealized": 1.4285
     },
     {
       "hypothesis": "H-GEO-1",
@@ -39,24 +39,6 @@
     },
     {
       "hypothesis": "H-GEO-1",
-      "marketId": "2118272",
-      "eventId": "431896",
-      "question": "Will the Bank of Brazil decrease the target for the Selic rate by 50+ bps at the August meeting?",
-      "category": "Economy",
-      "clusterKey": "evt:431896",
-      "sideIdx": 1,
-      "sideLabel": "No",
-      "token": "32081313835696383264790852443146214737469410707418657089501403594221253203873",
-      "entryPrice": 0.9475,
-      "costUsd": 10,
-      "shares": 10.5541,
-      "openedAt": "2026-07-01T13:00:25.267Z",
-      "dteAtOpen": 33,
-      "markPrice": 0.9945,
-      "unrealized": 0.4961
-    },
-    {
-      "hypothesis": "H-GEO-1",
       "marketId": "2641010",
       "eventId": "386812",
       "question": "Israel withdraws from Lebanon by August 31, 2026?",
@@ -70,8 +52,8 @@
       "shares": 10.6383,
       "openedAt": "2026-07-01T13:00:25.267Z",
       "dteAtOpen": 60,
-      "markPrice": 0.9895,
-      "unrealized": 0.5266
+      "markPrice": 0.989,
+      "unrealized": 0.5213
     },
     {
       "hypothesis": "H-GEO-2",
@@ -110,24 +92,6 @@
       "unrealized": -7.2222
     },
     {
-      "hypothesis": "H-GEO-4",
-      "marketId": "2118271",
-      "eventId": "431896",
-      "question": "Will the Bank of Brazil decrease the target for the Selic rate by 25 bps at the August meeting?",
-      "category": "Economy",
-      "clusterKey": "evt:431896",
-      "sideIdx": 0,
-      "sideLabel": "Yes",
-      "token": "92627738454088898681124217233222155368027889520652411825112064915412845139298",
-      "entryPrice": 0.65,
-      "costUsd": 10,
-      "shares": 15.3846,
-      "openedAt": "2026-07-01T13:00:25.269Z",
-      "dteAtOpen": 33,
-      "markPrice": 0.9865,
-      "unrealized": 5.1769
-    },
-    {
       "hypothesis": "H-GEO-1",
       "marketId": "1038567",
       "eventId": "127082",
@@ -142,8 +106,8 @@
       "shares": 10.582,
       "openedAt": "2026-07-02T13:00:20.390Z",
       "dteAtOpen": 90,
-      "markPrice": 0.9495,
-      "unrealized": 0.0476
+      "markPrice": 0.9685,
+      "unrealized": 0.2487
     },
     {
       "hypothesis": "H-GEO-2",
@@ -160,8 +124,8 @@
       "shares": 11.976,
       "openedAt": "2026-07-02T13:00:20.391Z",
       "dteAtOpen": 90,
-      "markPrice": 0.9815,
-      "unrealized": 1.7544
+      "markPrice": 0.9845,
+      "unrealized": 1.7904
     },
     {
       "hypothesis": "H-GEO-2",
@@ -196,26 +160,8 @@
       "shares": 10.3306,
       "openedAt": "2026-07-02T13:00:20.391Z",
       "dteAtOpen": 89,
-      "markPrice": 0.9675,
-      "unrealized": -0.0051
-    },
-    {
-      "hypothesis": "H-GEO-2",
-      "marketId": "2118271",
-      "eventId": "431896",
-      "question": "Will the Bank of Brazil decrease the target for the Selic rate by 25 bps at the August meeting?",
-      "category": "Economy",
-      "clusterKey": "evt:431896",
-      "sideIdx": 0,
-      "sideLabel": "Yes",
-      "token": "92627738454088898681124217233222155368027889520652411825112064915412845139298",
-      "entryPrice": 0.695,
-      "costUsd": 10,
-      "shares": 14.3885,
-      "openedAt": "2026-07-02T13:00:20.391Z",
-      "dteAtOpen": 32,
-      "markPrice": 0.9865,
-      "unrealized": 4.1943
+      "markPrice": 0.9645,
+      "unrealized": -0.0361
     },
     {
       "hypothesis": "H-GEO-2",
@@ -232,8 +178,8 @@
       "shares": 10.929,
       "openedAt": "2026-07-02T13:00:20.391Z",
       "dteAtOpen": 90,
-      "markPrice": 0.9695,
-      "unrealized": 0.5957
+      "markPrice": 0.9715,
+      "unrealized": 0.6175
     },
     {
       "hypothesis": "H-GEO-2",
@@ -250,8 +196,8 @@
       "shares": 25.641,
       "openedAt": "2026-07-02T13:00:20.391Z",
       "dteAtOpen": 90,
-      "markPrice": 0.39,
-      "unrealized": 0
+      "markPrice": 0.375,
+      "unrealized": -0.3846
     },
     {
       "hypothesis": "H-GEO-3",
@@ -268,8 +214,8 @@
       "shares": 57.1429,
       "openedAt": "2026-07-02T13:00:20.392Z",
       "dteAtOpen": 90,
-      "markPrice": 0.0185,
-      "unrealized": -8.9429
+      "markPrice": 0.0155,
+      "unrealized": -9.1143
     },
     {
       "hypothesis": "H-GEO-3",
@@ -304,26 +250,8 @@
       "shares": 238.0952,
       "openedAt": "2026-07-02T13:00:20.392Z",
       "dteAtOpen": 89,
-      "markPrice": 0.0325,
-      "unrealized": -2.2619
-    },
-    {
-      "hypothesis": "H-GEO-3",
-      "marketId": "2118271",
-      "eventId": "431896",
-      "question": "Will the Bank of Brazil decrease the target for the Selic rate by 25 bps at the August meeting?",
-      "category": "Economy",
-      "clusterKey": "evt:431896",
-      "sideIdx": 1,
-      "sideLabel": "No",
-      "token": "43128178005270252659574085247591314630407673044711059182157767015328834733270",
-      "entryPrice": 0.315,
-      "costUsd": 10,
-      "shares": 31.746,
-      "openedAt": "2026-07-02T13:00:20.392Z",
-      "dteAtOpen": 32,
-      "markPrice": 0.0135,
-      "unrealized": -9.5714
+      "markPrice": 0.0355,
+      "unrealized": -1.5476
     },
     {
       "hypothesis": "H-GEO-3",
@@ -340,8 +268,8 @@
       "shares": 105.2632,
       "openedAt": "2026-07-02T13:00:20.392Z",
       "dteAtOpen": 90,
-      "markPrice": 0.0305,
-      "unrealized": -6.7895
+      "markPrice": 0.0285,
+      "unrealized": -7
     },
     {
       "hypothesis": "H-GEO-3",
@@ -358,8 +286,8 @@
       "shares": 16.129,
       "openedAt": "2026-07-02T13:00:20.392Z",
       "dteAtOpen": 90,
-      "markPrice": 0.61,
-      "unrealized": -0.1613
+      "markPrice": 0.625,
+      "unrealized": 0.0806
     },
     {
       "hypothesis": "H-GEO-4",
@@ -376,8 +304,8 @@
       "shares": 11.976,
       "openedAt": "2026-07-02T13:00:20.392Z",
       "dteAtOpen": 90,
-      "markPrice": 0.9815,
-      "unrealized": 1.7544
+      "markPrice": 0.9845,
+      "unrealized": 1.7904
     },
     {
       "hypothesis": "H-GEO-4",
@@ -394,8 +322,8 @@
       "shares": 25.641,
       "openedAt": "2026-07-02T13:00:20.392Z",
       "dteAtOpen": 90,
-      "markPrice": 0.39,
-      "unrealized": 0
+      "markPrice": 0.375,
+      "unrealized": -0.3846
     },
     {
       "hypothesis": "H-GEO-1",
@@ -412,8 +340,8 @@
       "shares": 10.4987,
       "openedAt": "2026-07-03T13:00:22.083Z",
       "dteAtOpen": 89,
-      "markPrice": 0.975,
-      "unrealized": 0.2362
+      "markPrice": 0.976,
+      "unrealized": 0.2467
     },
     {
       "hypothesis": "H-GEO-1",
@@ -430,8 +358,8 @@
       "shares": 10.3627,
       "openedAt": "2026-07-03T13:00:22.083Z",
       "dteAtOpen": 90,
-      "markPrice": 0.986,
-      "unrealized": 0.2176
+      "markPrice": 0.988,
+      "unrealized": 0.2383
     },
     {
       "hypothesis": "H-GEO-2",
@@ -502,8 +430,8 @@
       "shares": 10.1368,
       "openedAt": "2026-07-03T13:00:22.085Z",
       "dteAtOpen": 90,
-      "markPrice": 0.9725,
-      "unrealized": -0.142
+      "markPrice": 0.9735,
+      "unrealized": -0.1318
     },
     {
       "hypothesis": "H-GEO-3",
@@ -574,8 +502,8 @@
       "shares": 425.5319,
       "openedAt": "2026-07-03T13:00:22.086Z",
       "dteAtOpen": 90,
-      "markPrice": 0.0275,
-      "unrealized": 1.7021
+      "markPrice": 0.0265,
+      "unrealized": 1.2766
     },
     {
       "hypothesis": "H-GEO-4",
@@ -610,8 +538,8 @@
       "shares": 11.8343,
       "openedAt": "2026-07-03T13:00:22.086Z",
       "dteAtOpen": 89,
-      "markPrice": 0.9695,
-      "unrealized": 1.4734
+      "markPrice": 0.9715,
+      "unrealized": 1.497
     },
     {
       "hypothesis": "H-GEO-4",
@@ -628,8 +556,8 @@
       "shares": 11.1732,
       "openedAt": "2026-07-03T13:00:22.086Z",
       "dteAtOpen": 90,
-      "markPrice": 0.925,
-      "unrealized": 0.3352
+      "markPrice": 0.93,
+      "unrealized": 0.3911
     },
     {
       "hypothesis": "H-GEO-2",
@@ -646,8 +574,8 @@
       "shares": 10.989,
       "openedAt": "2026-07-04T13:00:23.435Z",
       "dteAtOpen": 89,
-      "markPrice": 0.925,
-      "unrealized": 0.1648
+      "markPrice": 0.93,
+      "unrealized": 0.2198
     },
     {
       "hypothesis": "H-GEO-3",
@@ -664,8 +592,8 @@
       "shares": 100,
       "openedAt": "2026-07-04T13:00:23.436Z",
       "dteAtOpen": 89,
-      "markPrice": 0.075,
-      "unrealized": -2.5
+      "markPrice": 0.07,
+      "unrealized": -3
     },
     {
       "hypothesis": "H-GEO-4",
@@ -700,8 +628,8 @@
       "shares": 31.9489,
       "openedAt": "2026-07-04T13:00:23.436Z",
       "dteAtOpen": 88,
-      "markPrice": 0.1925,
-      "unrealized": -3.8498
+      "markPrice": 0.242,
+      "unrealized": -2.2684
     },
     {
       "hypothesis": "H-GEO-4",
@@ -736,8 +664,8 @@
       "shares": 10.3842,
       "openedAt": "2026-07-10T13:00:28.597Z",
       "dteAtOpen": 37,
-      "markPrice": 0.976,
-      "unrealized": 0.135
+      "markPrice": 0.9915,
+      "unrealized": 0.2959
     },
     {
       "hypothesis": "H-GEO-2",
@@ -772,8 +700,8 @@
       "shares": 10.1885,
       "openedAt": "2026-07-10T13:00:28.599Z",
       "dteAtOpen": 37,
-      "markPrice": 0.9435,
-      "unrealized": -0.3872
+      "markPrice": 0.943,
+      "unrealized": -0.3922
     },
     {
       "hypothesis": "H-GEO-4",
@@ -844,8 +772,8 @@
       "shares": 10.4167,
       "openedAt": "2026-07-15T13:00:29.430Z",
       "dteAtOpen": 29,
-      "markPrice": 0.972,
-      "unrealized": 0.125
+      "markPrice": 0.991,
+      "unrealized": 0.3229
     },
     {
       "hypothesis": "H-GEO-4",
@@ -862,8 +790,8 @@
       "shares": 11.1111,
       "openedAt": "2026-07-15T13:00:29.432Z",
       "dteAtOpen": 76,
-      "markPrice": 0.9515,
-      "unrealized": 0.5722
+      "markPrice": 0.9495,
+      "unrealized": 0.55
     },
     {
       "hypothesis": "H-GEO-1",
@@ -880,8 +808,8 @@
       "shares": 10.2775,
       "openedAt": "2026-07-16T13:00:28.614Z",
       "dteAtOpen": 77,
-      "markPrice": 0.9725,
-      "unrealized": -0.0051
+      "markPrice": 0.9735,
+      "unrealized": 0.0051
     },
     {
       "hypothesis": "H-GEO-2",
@@ -916,8 +844,8 @@
       "shares": 11.8343,
       "openedAt": "2026-07-16T13:00:28.615Z",
       "dteAtOpen": 77,
-      "markPrice": 0.9605,
-      "unrealized": 1.3668
+      "markPrice": 0.969,
+      "unrealized": 1.4674
     },
     {
       "hypothesis": "H-GEO-4",
@@ -934,8 +862,8 @@
       "shares": 11.7233,
       "openedAt": "2026-07-16T13:00:28.617Z",
       "dteAtOpen": 77,
-      "markPrice": 0.7945,
-      "unrealized": -0.6858
+      "markPrice": 0.8535,
+      "unrealized": 0.0058
     },
     {
       "hypothesis": "H-GEO-1",
@@ -952,8 +880,8 @@
       "shares": 10.6383,
       "openedAt": "2026-07-19T13:00:25.251Z",
       "dteAtOpen": 61,
-      "markPrice": 0.61,
-      "unrealized": -3.5106
+      "markPrice": 0.595,
+      "unrealized": -3.6702
     },
     {
       "hypothesis": "H-GEO-2",
@@ -970,8 +898,8 @@
       "shares": 11.4286,
       "openedAt": "2026-07-19T13:00:25.251Z",
       "dteAtOpen": 53,
-      "markPrice": 0.865,
-      "unrealized": -0.1143
+      "markPrice": 0.855,
+      "unrealized": -0.2285
     },
     {
       "hypothesis": "H-GEO-4",
@@ -1006,8 +934,8 @@
       "shares": 10.3734,
       "openedAt": "2026-07-20T13:00:25.345Z",
       "dteAtOpen": 72,
-      "markPrice": 0.9815,
-      "unrealized": 0.1815
+      "markPrice": 0.9845,
+      "unrealized": 0.2126
     },
     {
       "hypothesis": "H-GEO-2",
@@ -1024,8 +952,8 @@
       "shares": 12.0482,
       "openedAt": "2026-07-21T13:00:24.851Z",
       "dteAtOpen": 71,
-      "markPrice": 0.675,
-      "unrealized": -1.8675
+      "markPrice": 0.62,
+      "unrealized": -2.5301
     },
     {
       "hypothesis": "H-GEO-2",
@@ -1042,8 +970,8 @@
       "shares": 18.1488,
       "openedAt": "2026-07-23T13:00:24.794Z",
       "dteAtOpen": 54,
-      "markPrice": 0.833,
-      "unrealized": 5.118
+      "markPrice": 0.7875,
+      "unrealized": 4.2922
     },
     {
       "hypothesis": "H-GEO-4",
@@ -1060,8 +988,8 @@
       "shares": 10.2617,
       "openedAt": "2026-07-23T13:00:24.794Z",
       "dteAtOpen": 38,
-      "markPrice": 0.9895,
-      "unrealized": 0.154
+      "markPrice": 0.989,
+      "unrealized": 0.1488
     },
     {
       "hypothesis": "H-GEO-4",
@@ -1078,8 +1006,8 @@
       "shares": 11.9048,
       "openedAt": "2026-07-24T13:00:25.261Z",
       "dteAtOpen": 48,
-      "markPrice": 0.875,
-      "unrealized": 0.4167
+      "markPrice": 0.87,
+      "unrealized": 0.3572
     },
     {
       "hypothesis": "H-GEO-1",
@@ -1096,8 +1024,8 @@
       "shares": 10.6101,
       "openedAt": "2026-08-01T13:00:24.609Z",
       "dteAtOpen": 60,
-      "markPrice": 0.8395,
-      "unrealized": -1.0928
+      "markPrice": 0.928,
+      "unrealized": -0.1538
     },
     {
       "hypothesis": "H-GEO-1",
@@ -1114,8 +1042,8 @@
       "shares": 10.4275,
       "openedAt": "2026-08-01T13:00:24.609Z",
       "dteAtOpen": 60,
-      "markPrice": 0.9585,
-      "unrealized": -0.0052
+      "markPrice": 0.9655,
+      "unrealized": 0.0678
     },
     {
       "hypothesis": "H-GEO-1",
@@ -1150,8 +1078,8 @@
       "shares": 10.5097,
       "openedAt": "2026-08-01T13:00:24.609Z",
       "dteAtOpen": 60,
-      "markPrice": 0.971,
-      "unrealized": 0.2049
+      "markPrice": 0.944,
+      "unrealized": -0.0788
     },
     {
       "hypothesis": "H-GEO-1",
@@ -1168,8 +1096,8 @@
       "shares": 10.3093,
       "openedAt": "2026-08-01T13:00:24.609Z",
       "dteAtOpen": 60,
-      "markPrice": 0.9635,
-      "unrealized": -0.067
+      "markPrice": 0.9625,
+      "unrealized": -0.0773
     },
     {
       "hypothesis": "H-GEO-1",
@@ -1186,8 +1114,8 @@
       "shares": 10.304,
       "openedAt": "2026-08-01T13:00:24.609Z",
       "dteAtOpen": 60,
-      "markPrice": 0.9945,
-      "unrealized": 0.2473
+      "markPrice": 0.995,
+      "unrealized": 0.2525
     },
     {
       "hypothesis": "H-GEO-1",
@@ -1204,8 +1132,8 @@
       "shares": 10.3252,
       "openedAt": "2026-08-01T13:00:24.609Z",
       "dteAtOpen": 10,
-      "markPrice": 0.9745,
-      "unrealized": 0.0619
+      "markPrice": 0.979,
+      "unrealized": 0.1084
     },
     {
       "hypothesis": "H-GEO-1",
@@ -1240,8 +1168,8 @@
       "shares": 10.101,
       "openedAt": "2026-08-01T13:00:24.611Z",
       "dteAtOpen": 60,
-      "markPrice": 0.9705,
-      "unrealized": -0.197
+      "markPrice": 0.971,
+      "unrealized": -0.1919
     },
     {
       "hypothesis": "H-GEO-4",
@@ -1258,8 +1186,8 @@
       "shares": 10.1626,
       "openedAt": "2026-08-01T13:00:24.611Z",
       "dteAtOpen": 60,
-      "markPrice": 0.981,
-      "unrealized": -0.0305
+      "markPrice": 0.9795,
+      "unrealized": -0.0457
     },
     {
       "hypothesis": "H-GEO-4",
@@ -1276,8 +1204,8 @@
       "shares": 10.101,
       "openedAt": "2026-08-01T13:00:24.611Z",
       "dteAtOpen": 29,
-      "markPrice": 0.985,
-      "unrealized": -0.0505
+      "markPrice": 0.98,
+      "unrealized": -0.101
     },
     {
       "hypothesis": "H-GEO-1",
@@ -1294,8 +1222,8 @@
       "shares": 10.3093,
       "openedAt": "2026-08-02T13:00:24.986Z",
       "dteAtOpen": 5,
-      "markPrice": 0.93,
-      "unrealized": -0.4124
+      "markPrice": 0.8845,
+      "unrealized": -0.8814
     },
     {
       "hypothesis": "H-GEO-1",
@@ -1312,8 +1240,8 @@
       "shares": 10.3627,
       "openedAt": "2026-08-02T13:00:24.986Z",
       "dteAtOpen": 5,
-      "markPrice": 0.9515,
-      "unrealized": -0.1399
+      "markPrice": 0.9605,
+      "unrealized": -0.0466
     },
     {
       "hypothesis": "H-GEO-1",
@@ -1330,8 +1258,8 @@
       "shares": 10.6383,
       "openedAt": "2026-08-02T13:00:24.986Z",
       "dteAtOpen": 59,
-      "markPrice": 0.85,
-      "unrealized": -0.9574
+      "markPrice": 0.9325,
+      "unrealized": -0.0798
     },
     {
       "hypothesis": "H-GEO-1",
@@ -1348,8 +1276,8 @@
       "shares": 10.5319,
       "openedAt": "2026-08-02T13:00:24.986Z",
       "dteAtOpen": 59,
-      "markPrice": 0.9695,
-      "unrealized": 0.2107
+      "markPrice": 0.9715,
+      "unrealized": 0.2317
     },
     {
       "hypothesis": "H-GEO-1",
@@ -1366,8 +1294,8 @@
       "shares": 10.3788,
       "openedAt": "2026-08-02T13:00:24.986Z",
       "dteAtOpen": 58,
-      "markPrice": 0.9515,
-      "unrealized": -0.1246
+      "markPrice": 0.9495,
+      "unrealized": -0.1453
     },
     {
       "hypothesis": "H-GEO-1",
@@ -1402,8 +1330,8 @@
       "shares": 10.5988,
       "openedAt": "2026-08-02T13:00:24.987Z",
       "dteAtOpen": 89,
-      "markPrice": 0.939,
-      "unrealized": -0.0477
+      "markPrice": 0.9465,
+      "unrealized": 0.0318
     },
     {
       "hypothesis": "H-GEO-2",
@@ -1420,8 +1348,8 @@
       "shares": 10.101,
       "openedAt": "2026-08-02T13:00:24.988Z",
       "dteAtOpen": 59,
-      "markPrice": 0.997,
-      "unrealized": 0.0707
+      "markPrice": 0.9965,
+      "unrealized": 0.0656
     },
     {
       "hypothesis": "H-GEO-2",
@@ -1438,8 +1366,8 @@
       "shares": 10.2145,
       "openedAt": "2026-08-02T13:00:24.988Z",
       "dteAtOpen": 59,
-      "markPrice": 0.9855,
-      "unrealized": 0.0664
+      "markPrice": 0.9725,
+      "unrealized": -0.0664
     },
     {
       "hypothesis": "H-GEO-2",
@@ -1456,8 +1384,8 @@
       "shares": 15.8353,
       "openedAt": "2026-08-02T13:00:24.988Z",
       "dteAtOpen": 59,
-      "markPrice": 0.613,
-      "unrealized": -0.293
+      "markPrice": 0.555,
+      "unrealized": -1.2114
     },
     {
       "hypothesis": "H-GEO-2",
@@ -1474,8 +1402,8 @@
       "shares": 10.3093,
       "openedAt": "2026-08-02T13:00:24.988Z",
       "dteAtOpen": 5,
-      "markPrice": 0.93,
-      "unrealized": -0.4124
+      "markPrice": 0.8845,
+      "unrealized": -0.8814
     },
     {
       "hypothesis": "H-GEO-2",
@@ -1492,8 +1420,8 @@
       "shares": 16.3934,
       "openedAt": "2026-08-02T13:00:24.988Z",
       "dteAtOpen": 44,
-      "markPrice": 0.465,
-      "unrealized": -2.3771
+      "markPrice": 0.455,
+      "unrealized": -2.541
     },
     {
       "hypothesis": "H-GEO-2",
@@ -1510,8 +1438,8 @@
       "shares": 13.4228,
       "openedAt": "2026-08-02T13:00:24.988Z",
       "dteAtOpen": 28,
-      "markPrice": 0.73,
-      "unrealized": -0.2014
+      "markPrice": 0.75,
+      "unrealized": 0.0671
     },
     {
       "hypothesis": "H-GEO-2",
@@ -1528,26 +1456,8 @@
       "shares": 10.3627,
       "openedAt": "2026-08-02T13:00:24.988Z",
       "dteAtOpen": 5,
-      "markPrice": 0.9515,
-      "unrealized": -0.1399
-    },
-    {
-      "hypothesis": "H-GEO-2",
-      "marketId": "2750289",
-      "eventId": "653438",
-      "question": "Will the Reserve Bank of India make no change to the policy repo rate after the August Meeting?",
-      "category": "RBI",
-      "clusterKey": "evt:653438",
-      "sideIdx": 0,
-      "sideLabel": "Yes",
-      "token": "49480175473250850952170652944799901959991820111075761311925395341255717228730",
-      "entryPrice": 0.9865,
-      "costUsd": 10,
-      "shares": 10.1368,
-      "openedAt": "2026-08-02T13:00:24.988Z",
-      "dteAtOpen": 2,
-      "markPrice": 0.9995,
-      "unrealized": 0.1317
+      "markPrice": 0.9605,
+      "unrealized": -0.0466
     },
     {
       "hypothesis": "H-GEO-2",
@@ -1564,8 +1474,8 @@
       "shares": 12.6582,
       "openedAt": "2026-08-02T13:00:24.988Z",
       "dteAtOpen": 29,
-      "markPrice": 0.9,
-      "unrealized": 1.3924
+      "markPrice": 0.895,
+      "unrealized": 1.3291
     },
     {
       "hypothesis": "H-GEO-4",
@@ -1582,8 +1492,8 @@
       "shares": 10.7469,
       "openedAt": "2026-08-02T13:00:24.989Z",
       "dteAtOpen": 5,
-      "markPrice": 0.993,
-      "unrealized": 0.6717
+      "markPrice": 0.9945,
+      "unrealized": 0.6878
     },
     {
       "hypothesis": "H-GEO-4",
@@ -1600,8 +1510,8 @@
       "shares": 10.3627,
       "openedAt": "2026-08-02T13:00:24.989Z",
       "dteAtOpen": 5,
-      "markPrice": 0.9515,
-      "unrealized": -0.1399
+      "markPrice": 0.9605,
+      "unrealized": -0.0466
     },
     {
       "hypothesis": "H-GEO-4",
@@ -1618,8 +1528,8 @@
       "shares": 11.7647,
       "openedAt": "2026-08-02T13:00:24.989Z",
       "dteAtOpen": 59,
-      "markPrice": 0.85,
-      "unrealized": 0
+      "markPrice": 0.785,
+      "unrealized": -0.7647
     },
     {
       "hypothesis": "H-GEO-4",
@@ -1636,8 +1546,8 @@
       "shares": 12.6582,
       "openedAt": "2026-08-02T13:00:24.989Z",
       "dteAtOpen": 29,
-      "markPrice": 0.9,
-      "unrealized": 1.3924
+      "markPrice": 0.895,
+      "unrealized": 1.3291
     },
     {
       "hypothesis": "H-GEO-4",
@@ -1654,8 +1564,8 @@
       "shares": 14.3885,
       "openedAt": "2026-08-02T13:00:24.989Z",
       "dteAtOpen": 29,
-      "markPrice": 0.705,
-      "unrealized": 0.1439
+      "markPrice": 0.72,
+      "unrealized": 0.3597
     },
     {
       "hypothesis": "H-GEO-4",
@@ -1672,8 +1582,8 @@
       "shares": 24.2424,
       "openedAt": "2026-08-02T13:00:24.989Z",
       "dteAtOpen": 59,
-      "markPrice": 0.05,
-      "unrealized": -8.7879
+      "markPrice": 0.0785,
+      "unrealized": -8.097
     },
     {
       "hypothesis": "H-GEO-4",
@@ -1690,8 +1600,8 @@
       "shares": 10.433,
       "openedAt": "2026-08-02T13:00:24.989Z",
       "dteAtOpen": 59,
-      "markPrice": 0.9585,
-      "unrealized": 0
+      "markPrice": 0.9655,
+      "unrealized": 0.0731
     },
     {
       "hypothesis": "H-GEO-4",
@@ -1708,8 +1618,8 @@
       "shares": 10.2145,
       "openedAt": "2026-08-02T13:00:24.989Z",
       "dteAtOpen": 60,
-      "markPrice": 0.9605,
-      "unrealized": -0.189
+      "markPrice": 0.969,
+      "unrealized": -0.1021
     },
     {
       "hypothesis": "H-GEO-4",
@@ -1728,24 +1638,6 @@
       "dteAtOpen": 58,
       "markPrice": 0.25,
       "unrealized": -2.9577
-    },
-    {
-      "hypothesis": "H-GEO-1",
-      "marketId": "2750289",
-      "eventId": "653438",
-      "question": "Will the Reserve Bank of India make no change to the policy repo rate after the August Meeting?",
-      "category": "RBI",
-      "clusterKey": "evt:653438",
-      "sideIdx": 0,
-      "sideLabel": "Yes",
-      "token": "49480175473250850952170652944799901959991820111075761311925395341255717228730",
-      "entryPrice": 0.962,
-      "costUsd": 10,
-      "shares": 10.395,
-      "openedAt": "2026-08-04T13:00:31.268Z",
-      "dteAtOpen": 0,
-      "markPrice": 0.9995,
-      "unrealized": 0.3898
     },
     {
       "hypothesis": "H-GEO-2",
@@ -1780,8 +1672,8 @@
       "shares": 10.3681,
       "openedAt": "2026-08-04T13:00:31.270Z",
       "dteAtOpen": 58,
-      "markPrice": 0.9595,
-      "unrealized": -0.0518
+      "markPrice": 0.9605,
+      "unrealized": -0.0414
     },
     {
       "hypothesis": "H-GEO-1",
@@ -1797,23 +1689,9 @@
       "costUsd": 10,
       "shares": 10.5208,
       "openedAt": "2026-08-05T13:00:25.207Z",
-      "dteAtOpen": 7
-    },
-    {
-      "hypothesis": "H-GEO-2",
-      "marketId": "1831351",
-      "eventId": "336406",
-      "question": "Will any AI model reach 1510 Overall Arena Score by September 30, 2026?",
-      "category": "Tech",
-      "clusterKey": "AI_CAP",
-      "sideIdx": 0,
-      "sideLabel": "Yes",
-      "token": "54274975046785035647018962351209441973728395165653924104773374336698564763879",
-      "entryPrice": 0.99,
-      "costUsd": 10,
-      "shares": 10.101,
-      "openedAt": "2026-08-05T13:00:25.208Z",
-      "dteAtOpen": 55
+      "dteAtOpen": 7,
+      "markPrice": 0.9545,
+      "unrealized": 0.0421
     },
     {
       "hypothesis": "H-GEO-2",
@@ -1829,7 +1707,105 @@
       "costUsd": 10,
       "shares": 10.101,
       "openedAt": "2026-08-05T13:00:25.208Z",
-      "dteAtOpen": 7
+      "dteAtOpen": 7,
+      "markPrice": 0.989,
+      "unrealized": -0.0101
+    },
+    {
+      "hypothesis": "H-GEO-1",
+      "marketId": "2760547",
+      "eventId": "656188",
+      "question": "Will the median home value in the US be between $433,000 and $440,000 on September 30?",
+      "category": "Parcl",
+      "clusterKey": "evt:656188",
+      "sideIdx": 1,
+      "sideLabel": "No",
+      "token": "71452627016680531602922472765884295550400130159487166347274899978981423889635",
+      "entryPrice": 0.972,
+      "costUsd": 10,
+      "shares": 10.2881,
+      "openedAt": "2026-08-06T13:00:25.834Z",
+      "dteAtOpen": 55
+    },
+    {
+      "hypothesis": "H-GEO-1",
+      "marketId": "1962606",
+      "eventId": "73902",
+      "question": "Will Variational launch a token by September 30, 2026?",
+      "category": "token launch",
+      "clusterKey": "evt:73902",
+      "sideIdx": 1,
+      "sideLabel": "No",
+      "token": "2774129669668937509704279535236313609067556690422161854235178483339012790218",
+      "entryPrice": 0.974,
+      "costUsd": 10,
+      "shares": 10.2669,
+      "openedAt": "2026-08-06T13:00:25.834Z",
+      "dteAtOpen": 56
+    },
+    {
+      "hypothesis": "H-GEO-2",
+      "marketId": "1831351",
+      "eventId": "336406",
+      "question": "Will any AI model reach 1510 Overall Arena Score by September 30, 2026?",
+      "category": "Tech",
+      "clusterKey": "AI_CAP",
+      "sideIdx": 0,
+      "sideLabel": "Yes",
+      "token": "54274975046785035647018962351209441973728395165653924104773374336698564763879",
+      "entryPrice": 0.99,
+      "costUsd": 10,
+      "shares": 10.101,
+      "openedAt": "2026-08-06T13:00:25.839Z",
+      "dteAtOpen": 54
+    },
+    {
+      "hypothesis": "H-GEO-2",
+      "marketId": "2732526",
+      "eventId": "648380",
+      "question": "Will Russia and Ukraine hold any diplomatic meeting by August 31, 2026?",
+      "category": "putin",
+      "clusterKey": "RU_UA",
+      "sideIdx": 1,
+      "sideLabel": "No",
+      "token": "32498948505314576966704761143540900095142072751411430571598289128995809645377",
+      "entryPrice": 0.725,
+      "costUsd": 10,
+      "shares": 13.7931,
+      "openedAt": "2026-08-06T13:00:25.839Z",
+      "dteAtOpen": 25
+    },
+    {
+      "hypothesis": "H-GEO-2",
+      "marketId": "2760544",
+      "eventId": "656188",
+      "question": "Will the median home value in the US be less than $419,000 on September 30?",
+      "category": "Parcl",
+      "clusterKey": "evt:656188",
+      "sideIdx": 0,
+      "sideLabel": "Yes",
+      "token": "19757627833014791260957208123232091667671730558100440497700609853961331777411",
+      "entryPrice": 0.4825,
+      "costUsd": 10,
+      "shares": 20.7254,
+      "openedAt": "2026-08-06T13:00:25.839Z",
+      "dteAtOpen": 55
+    },
+    {
+      "hypothesis": "H-GEO-4",
+      "marketId": "2760544",
+      "eventId": "656188",
+      "question": "Will the median home value in the US be less than $419,000 on September 30?",
+      "category": "Parcl",
+      "clusterKey": "evt:656188",
+      "sideIdx": 0,
+      "sideLabel": "Yes",
+      "token": "19757627833014791260957208123232091667671730558100440497700609853961331777411",
+      "entryPrice": 0.4825,
+      "costUsd": 10,
+      "shares": 20.7254,
+      "openedAt": "2026-08-06T13:00:25.843Z",
+      "dteAtOpen": 55
     }
   ],
   "closed": [
@@ -9580,6 +9556,151 @@
       "finalSidePrice": 1,
       "pnl": 0.101,
       "closedAt": "2026-08-05T13:00:20.666Z"
+    },
+    {
+      "hypothesis": "H-GEO-1",
+      "marketId": "2118272",
+      "eventId": "431896",
+      "question": "Will the Bank of Brazil decrease the target for the Selic rate by 50+ bps at the August meeting?",
+      "category": "Economy",
+      "clusterKey": "evt:431896",
+      "sideIdx": 1,
+      "sideLabel": "No",
+      "token": "32081313835696383264790852443146214737469410707418657089501403594221253203873",
+      "entryPrice": 0.9475,
+      "costUsd": 10,
+      "shares": 10.5541,
+      "openedAt": "2026-07-01T13:00:25.267Z",
+      "dteAtOpen": 33,
+      "markPrice": 0.9945,
+      "unrealized": 0.4961,
+      "finalSidePrice": 1,
+      "pnl": 0.5541,
+      "closedAt": "2026-08-06T13:00:05.540Z"
+    },
+    {
+      "hypothesis": "H-GEO-4",
+      "marketId": "2118271",
+      "eventId": "431896",
+      "question": "Will the Bank of Brazil decrease the target for the Selic rate by 25 bps at the August meeting?",
+      "category": "Economy",
+      "clusterKey": "evt:431896",
+      "sideIdx": 0,
+      "sideLabel": "Yes",
+      "token": "92627738454088898681124217233222155368027889520652411825112064915412845139298",
+      "entryPrice": 0.65,
+      "costUsd": 10,
+      "shares": 15.3846,
+      "openedAt": "2026-07-01T13:00:25.269Z",
+      "dteAtOpen": 33,
+      "markPrice": 0.9865,
+      "unrealized": 5.1769,
+      "finalSidePrice": 1,
+      "pnl": 5.3846,
+      "closedAt": "2026-08-06T13:00:06.218Z"
+    },
+    {
+      "hypothesis": "H-GEO-2",
+      "marketId": "2118271",
+      "eventId": "431896",
+      "question": "Will the Bank of Brazil decrease the target for the Selic rate by 25 bps at the August meeting?",
+      "category": "Economy",
+      "clusterKey": "evt:431896",
+      "sideIdx": 0,
+      "sideLabel": "Yes",
+      "token": "92627738454088898681124217233222155368027889520652411825112064915412845139298",
+      "entryPrice": 0.695,
+      "costUsd": 10,
+      "shares": 14.3885,
+      "openedAt": "2026-07-02T13:00:20.391Z",
+      "dteAtOpen": 32,
+      "markPrice": 0.9865,
+      "unrealized": 4.1943,
+      "finalSidePrice": 1,
+      "pnl": 4.3885,
+      "closedAt": "2026-08-06T13:00:07.074Z"
+    },
+    {
+      "hypothesis": "H-GEO-3",
+      "marketId": "2118271",
+      "eventId": "431896",
+      "question": "Will the Bank of Brazil decrease the target for the Selic rate by 25 bps at the August meeting?",
+      "category": "Economy",
+      "clusterKey": "evt:431896",
+      "sideIdx": 1,
+      "sideLabel": "No",
+      "token": "43128178005270252659574085247591314630407673044711059182157767015328834733270",
+      "entryPrice": 0.315,
+      "costUsd": 10,
+      "shares": 31.746,
+      "openedAt": "2026-07-02T13:00:20.392Z",
+      "dteAtOpen": 32,
+      "markPrice": 0.0135,
+      "unrealized": -9.5714,
+      "finalSidePrice": 0,
+      "pnl": -10,
+      "closedAt": "2026-08-06T13:00:07.960Z"
+    },
+    {
+      "hypothesis": "H-GEO-2",
+      "marketId": "2750289",
+      "eventId": "653438",
+      "question": "Will the Reserve Bank of India make no change to the policy repo rate after the August Meeting?",
+      "category": "RBI",
+      "clusterKey": "evt:653438",
+      "sideIdx": 0,
+      "sideLabel": "Yes",
+      "token": "49480175473250850952170652944799901959991820111075761311925395341255717228730",
+      "entryPrice": 0.9865,
+      "costUsd": 10,
+      "shares": 10.1368,
+      "openedAt": "2026-08-02T13:00:24.988Z",
+      "dteAtOpen": 2,
+      "markPrice": 0.9995,
+      "unrealized": 0.1317,
+      "finalSidePrice": 1,
+      "pnl": 0.1368,
+      "closedAt": "2026-08-06T13:00:18.637Z"
+    },
+    {
+      "hypothesis": "H-GEO-1",
+      "marketId": "2750289",
+      "eventId": "653438",
+      "question": "Will the Reserve Bank of India make no change to the policy repo rate after the August Meeting?",
+      "category": "RBI",
+      "clusterKey": "evt:653438",
+      "sideIdx": 0,
+      "sideLabel": "Yes",
+      "token": "49480175473250850952170652944799901959991820111075761311925395341255717228730",
+      "entryPrice": 0.962,
+      "costUsd": 10,
+      "shares": 10.395,
+      "openedAt": "2026-08-04T13:00:31.268Z",
+      "dteAtOpen": 0,
+      "markPrice": 0.9995,
+      "unrealized": 0.3898,
+      "finalSidePrice": 1,
+      "pnl": 0.395,
+      "closedAt": "2026-08-06T13:00:20.307Z"
+    },
+    {
+      "hypothesis": "H-GEO-2",
+      "marketId": "1831351",
+      "eventId": "336406",
+      "question": "Will any AI model reach 1510 Overall Arena Score by September 30, 2026?",
+      "category": "Tech",
+      "clusterKey": "AI_CAP",
+      "sideIdx": 0,
+      "sideLabel": "Yes",
+      "token": "54274975046785035647018962351209441973728395165653924104773374336698564763879",
+      "entryPrice": 0.99,
+      "costUsd": 10,
+      "shares": 10.101,
+      "openedAt": "2026-08-05T13:00:25.208Z",
+      "dteAtOpen": 55,
+      "finalSidePrice": 1,
+      "pnl": 0.101,
+      "closedAt": "2026-08-06T13:00:20.974Z"
     }
   ]
 }
