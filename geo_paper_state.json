@@ -16,80 +16,8 @@
       "shares": 17.8571,
       "openedAt": "2026-06-14T19:10:01.512Z",
       "dteAtOpen": 15,
-      "markPrice": 0.46,
-      "unrealized": -1.7857
-    },
-    {
-      "hypothesis": "H-GEO-1",
-      "marketId": "2296217",
-      "eventId": "499510",
-      "question": "Will Elon Musk tweet \"Hyperliquid\" by August 31, 2026?",
-      "category": "Crypto",
-      "clusterKey": "ELON",
-      "sideIdx": 1,
-      "sideLabel": "No",
-      "token": "81905629695376179467642152439122205490366546600283546015907818703618943938229",
-      "entryPrice": 0.947,
-      "costUsd": 10,
-      "shares": 10.5597,
-      "openedAt": "2026-07-01T13:00:25.267Z",
-      "dteAtOpen": 62,
-      "markPrice": 0.9845,
-      "unrealized": 0.396
-    },
-    {
-      "hypothesis": "H-GEO-1",
-      "marketId": "2641010",
-      "eventId": "386812",
-      "question": "Israel withdraws from Lebanon by August 31, 2026?",
-      "category": "Geopolitics",
-      "clusterKey": "evt:386812",
-      "sideIdx": 1,
-      "sideLabel": "No",
-      "token": "115247671653532140694042584569913131846576619985552728319343711884140198933524",
-      "entryPrice": 0.94,
-      "costUsd": 10,
-      "shares": 10.6383,
-      "openedAt": "2026-07-01T13:00:25.267Z",
-      "dteAtOpen": 60,
-      "markPrice": 0.9995,
-      "unrealized": 0.633
-    },
-    {
-      "hypothesis": "H-GEO-2",
-      "marketId": "2296217",
-      "eventId": "499510",
-      "question": "Will Elon Musk tweet \"Hyperliquid\" by August 31, 2026?",
-      "category": "Crypto",
-      "clusterKey": "ELON",
-      "sideIdx": 1,
-      "sideLabel": "No",
-      "token": "81905629695376179467642152439122205490366546600283546015907818703618943938229",
-      "entryPrice": 0.947,
-      "costUsd": 10,
-      "shares": 10.5597,
-      "openedAt": "2026-07-01T13:00:25.268Z",
-      "dteAtOpen": 62,
-      "markPrice": 0.9845,
-      "unrealized": 0.396
-    },
-    {
-      "hypothesis": "H-GEO-3",
-      "marketId": "2296217",
-      "eventId": "499510",
-      "question": "Will Elon Musk tweet \"Hyperliquid\" by August 31, 2026?",
-      "category": "Crypto",
-      "clusterKey": "ELON",
-      "sideIdx": 0,
-      "sideLabel": "Yes",
-      "token": "68289744998910670305974842833498900594551114258577984793455865900724045236320",
-      "entryPrice": 0.063,
-      "costUsd": 10,
-      "shares": 158.7302,
-      "openedAt": "2026-07-01T13:00:25.269Z",
-      "dteAtOpen": 62,
-      "markPrice": 0.0155,
-      "unrealized": -7.5397
+      "markPrice": 0.415,
+      "unrealized": -2.5893
     },
     {
       "hypothesis": "H-GEO-1",
@@ -124,8 +52,8 @@
       "shares": 11.976,
       "openedAt": "2026-07-02T13:00:20.391Z",
       "dteAtOpen": 90,
-      "markPrice": 0.9825,
-      "unrealized": 1.7664
+      "markPrice": 0.9835,
+      "unrealized": 1.7784
     },
     {
       "hypothesis": "H-GEO-2",
@@ -160,8 +88,8 @@
       "shares": 10.3306,
       "openedAt": "2026-07-02T13:00:20.391Z",
       "dteAtOpen": 89,
-      "markPrice": 0.968,
-      "unrealized": 0
+      "markPrice": 0.9835,
+      "unrealized": 0.1601
     },
     {
       "hypothesis": "H-GEO-2",
@@ -178,8 +106,8 @@
       "shares": 10.929,
       "openedAt": "2026-07-02T13:00:20.391Z",
       "dteAtOpen": 90,
-      "markPrice": 0.9725,
-      "unrealized": 0.6285
+      "markPrice": 0.973,
+      "unrealized": 0.6339
     },
     {
       "hypothesis": "H-GEO-2",
@@ -196,8 +124,8 @@
       "shares": 25.641,
       "openedAt": "2026-07-02T13:00:20.391Z",
       "dteAtOpen": 90,
-      "markPrice": 0.9585,
-      "unrealized": 14.5769
+      "markPrice": 0.978,
+      "unrealized": 15.0769
     },
     {
       "hypothesis": "H-GEO-3",
@@ -214,8 +142,8 @@
       "shares": 57.1429,
       "openedAt": "2026-07-02T13:00:20.392Z",
       "dteAtOpen": 90,
-      "markPrice": 0.0175,
-      "unrealized": -9
+      "markPrice": 0.0165,
+      "unrealized": -9.0571
     },
     {
       "hypothesis": "H-GEO-3",
@@ -250,8 +178,8 @@
       "shares": 238.0952,
       "openedAt": "2026-07-02T13:00:20.392Z",
       "dteAtOpen": 89,
-      "markPrice": 0.032,
-      "unrealized": -2.381
+      "markPrice": 0.0165,
+      "unrealized": -6.0714
     },
     {
       "hypothesis": "H-GEO-3",
@@ -268,8 +196,8 @@
       "shares": 105.2632,
       "openedAt": "2026-07-02T13:00:20.392Z",
       "dteAtOpen": 90,
-      "markPrice": 0.0275,
-      "unrealized": -7.1053
+      "markPrice": 0.027,
+      "unrealized": -7.1579
     },
     {
       "hypothesis": "H-GEO-3",
@@ -286,8 +214,8 @@
       "shares": 16.129,
       "openedAt": "2026-07-02T13:00:20.392Z",
       "dteAtOpen": 90,
-      "markPrice": 0.0415,
-      "unrealized": -9.3306
+      "markPrice": 0.022,
+      "unrealized": -9.6452
     },
     {
       "hypothesis": "H-GEO-4",
@@ -304,8 +232,8 @@
       "shares": 11.976,
       "openedAt": "2026-07-02T13:00:20.392Z",
       "dteAtOpen": 90,
-      "markPrice": 0.9825,
-      "unrealized": 1.7664
+      "markPrice": 0.9835,
+      "unrealized": 1.7784
     },
     {
       "hypothesis": "H-GEO-4",
@@ -322,8 +250,8 @@
       "shares": 25.641,
       "openedAt": "2026-07-02T13:00:20.392Z",
       "dteAtOpen": 90,
-      "markPrice": 0.9585,
-      "unrealized": 14.5769
+      "markPrice": 0.978,
+      "unrealized": 15.0769
     },
     {
       "hypothesis": "H-GEO-1",
@@ -340,8 +268,8 @@
       "shares": 10.4987,
       "openedAt": "2026-07-03T13:00:22.083Z",
       "dteAtOpen": 89,
-      "markPrice": 0.9595,
-      "unrealized": 0.0735
+      "markPrice": 0.97,
+      "unrealized": 0.1837
     },
     {
       "hypothesis": "H-GEO-1",
@@ -376,8 +304,8 @@
       "shares": 17.8571,
       "openedAt": "2026-07-03T13:00:22.084Z",
       "dteAtOpen": 90,
-      "markPrice": 0.93,
-      "unrealized": 6.6071
+      "markPrice": 0.935,
+      "unrealized": 6.6964
     },
     {
       "hypothesis": "H-GEO-2",
@@ -430,8 +358,8 @@
       "shares": 10.1368,
       "openedAt": "2026-07-03T13:00:22.085Z",
       "dteAtOpen": 90,
-      "markPrice": 0.988,
-      "unrealized": 0.0152
+      "markPrice": 0.9895,
+      "unrealized": 0.0304
     },
     {
       "hypothesis": "H-GEO-3",
@@ -448,8 +376,8 @@
       "shares": 22.2222,
       "openedAt": "2026-07-03T13:00:22.085Z",
       "dteAtOpen": 90,
-      "markPrice": 0.07,
-      "unrealized": -8.4444
+      "markPrice": 0.065,
+      "unrealized": -8.5556
     },
     {
       "hypothesis": "H-GEO-3",
@@ -502,8 +430,8 @@
       "shares": 425.5319,
       "openedAt": "2026-07-03T13:00:22.086Z",
       "dteAtOpen": 90,
-      "markPrice": 0.012,
-      "unrealized": -4.8936
+      "markPrice": 0.0105,
+      "unrealized": -5.5319
     },
     {
       "hypothesis": "H-GEO-4",
@@ -538,8 +466,8 @@
       "shares": 11.8343,
       "openedAt": "2026-07-03T13:00:22.086Z",
       "dteAtOpen": 89,
-      "markPrice": 0.9725,
-      "unrealized": 1.5089
+      "markPrice": 0.973,
+      "unrealized": 1.5148
     },
     {
       "hypothesis": "H-GEO-4",
@@ -610,8 +538,8 @@
       "shares": 12.5,
       "openedAt": "2026-07-04T13:00:23.436Z",
       "dteAtOpen": 89,
-      "markPrice": 0.93,
-      "unrealized": 1.625
+      "markPrice": 0.935,
+      "unrealized": 1.6875
     },
     {
       "hypothesis": "H-GEO-4",
@@ -628,8 +556,8 @@
       "shares": 31.9489,
       "openedAt": "2026-07-04T13:00:23.436Z",
       "dteAtOpen": 88,
-      "markPrice": 0.089,
-      "unrealized": -7.1565
+      "markPrice": 0.088,
+      "unrealized": -7.1885
     },
     {
       "hypothesis": "H-GEO-4",
@@ -700,8 +628,8 @@
       "shares": 11.1111,
       "openedAt": "2026-07-15T13:00:29.432Z",
       "dteAtOpen": 76,
-      "markPrice": 0.958,
-      "unrealized": 0.6444
+      "markPrice": 0.9585,
+      "unrealized": 0.65
     },
     {
       "hypothesis": "H-GEO-1",
@@ -718,8 +646,8 @@
       "shares": 10.2775,
       "openedAt": "2026-07-16T13:00:28.614Z",
       "dteAtOpen": 77,
-      "markPrice": 0.988,
-      "unrealized": 0.1542
+      "markPrice": 0.9895,
+      "unrealized": 0.1696
     },
     {
       "hypothesis": "H-GEO-2",
@@ -754,8 +682,8 @@
       "shares": 11.8343,
       "openedAt": "2026-07-16T13:00:28.615Z",
       "dteAtOpen": 77,
-      "markPrice": 0.939,
-      "unrealized": 1.1124
+      "markPrice": 0.941,
+      "unrealized": 1.1361
     },
     {
       "hypothesis": "H-GEO-4",
@@ -772,8 +700,8 @@
       "shares": 11.7233,
       "openedAt": "2026-07-16T13:00:28.617Z",
       "dteAtOpen": 77,
-      "markPrice": 0.705,
-      "unrealized": -1.7351
+      "markPrice": 0.758,
+      "unrealized": -1.1137
     },
     {
       "hypothesis": "H-GEO-1",
@@ -790,8 +718,8 @@
       "shares": 10.6383,
       "openedAt": "2026-07-19T13:00:25.251Z",
       "dteAtOpen": 61,
-      "markPrice": 0.12,
-      "unrealized": -8.7234
+      "markPrice": 0.11,
+      "unrealized": -8.8298
     },
     {
       "hypothesis": "H-GEO-2",
@@ -808,8 +736,8 @@
       "shares": 11.4286,
       "openedAt": "2026-07-19T13:00:25.251Z",
       "dteAtOpen": 53,
-      "markPrice": 0.9815,
-      "unrealized": 1.2172
+      "markPrice": 0.989,
+      "unrealized": 1.3029
     },
     {
       "hypothesis": "H-GEO-4",
@@ -844,8 +772,8 @@
       "shares": 10.3734,
       "openedAt": "2026-07-20T13:00:25.345Z",
       "dteAtOpen": 72,
-      "markPrice": 0.9825,
-      "unrealized": 0.1919
+      "markPrice": 0.9835,
+      "unrealized": 0.2022
     },
     {
       "hypothesis": "H-GEO-2",
@@ -862,8 +790,8 @@
       "shares": 12.0482,
       "openedAt": "2026-07-21T13:00:24.851Z",
       "dteAtOpen": 71,
-      "markPrice": 0.575,
-      "unrealized": -3.0723
+      "markPrice": 0.61,
+      "unrealized": -2.6506
     },
     {
       "hypothesis": "H-GEO-2",
@@ -880,26 +808,8 @@
       "shares": 18.1488,
       "openedAt": "2026-07-23T13:00:24.794Z",
       "dteAtOpen": 54,
-      "markPrice": 0.9065,
-      "unrealized": 6.4519
-    },
-    {
-      "hypothesis": "H-GEO-4",
-      "marketId": "2641010",
-      "eventId": "386812",
-      "question": "Israel withdraws from Lebanon by August 31, 2026?",
-      "category": "Geopolitics",
-      "clusterKey": "evt:386812",
-      "sideIdx": 1,
-      "sideLabel": "No",
-      "token": "115247671653532140694042584569913131846576619985552728319343711884140198933524",
-      "entryPrice": 0.9745,
-      "costUsd": 10,
-      "shares": 10.2617,
-      "openedAt": "2026-07-23T13:00:24.794Z",
-      "dteAtOpen": 38,
-      "markPrice": 0.9995,
-      "unrealized": 0.2566
+      "markPrice": 0.9245,
+      "unrealized": 6.7786
     },
     {
       "hypothesis": "H-GEO-4",
@@ -916,8 +826,8 @@
       "shares": 11.9048,
       "openedAt": "2026-07-24T13:00:25.261Z",
       "dteAtOpen": 48,
-      "markPrice": 0.9825,
-      "unrealized": 1.6965
+      "markPrice": 0.9895,
+      "unrealized": 1.7798
     },
     {
       "hypothesis": "H-GEO-1",
@@ -934,8 +844,8 @@
       "shares": 10.6101,
       "openedAt": "2026-08-01T13:00:24.609Z",
       "dteAtOpen": 60,
-      "markPrice": 0.983,
-      "unrealized": 0.4297
+      "markPrice": 0.987,
+      "unrealized": 0.4722
     },
     {
       "hypothesis": "H-GEO-1",
@@ -952,8 +862,8 @@
       "shares": 10.4275,
       "openedAt": "2026-08-01T13:00:24.609Z",
       "dteAtOpen": 60,
-      "markPrice": 0.9475,
-      "unrealized": -0.1199
+      "markPrice": 0.956,
+      "unrealized": -0.0313
     },
     {
       "hypothesis": "H-GEO-1",
@@ -970,8 +880,8 @@
       "shares": 10.304,
       "openedAt": "2026-08-01T13:00:24.609Z",
       "dteAtOpen": 61,
-      "markPrice": 0.9745,
-      "unrealized": 0.0412
+      "markPrice": 0.9755,
+      "unrealized": 0.0516
     },
     {
       "hypothesis": "H-GEO-1",
@@ -1006,8 +916,8 @@
       "shares": 10.3093,
       "openedAt": "2026-08-01T13:00:24.609Z",
       "dteAtOpen": 60,
-      "markPrice": 0.962,
-      "unrealized": -0.0825
+      "markPrice": 0.98,
+      "unrealized": 0.1031
     },
     {
       "hypothesis": "H-GEO-1",
@@ -1042,8 +952,8 @@
       "shares": 10.6952,
       "openedAt": "2026-08-01T13:00:24.609Z",
       "dteAtOpen": 61,
-      "markPrice": 0.9485,
-      "unrealized": 0.1444
+      "markPrice": 0.891,
+      "unrealized": -0.4706
     },
     {
       "hypothesis": "H-GEO-4",
@@ -1060,8 +970,8 @@
       "shares": 10.101,
       "openedAt": "2026-08-01T13:00:24.611Z",
       "dteAtOpen": 60,
-      "markPrice": 0.9655,
-      "unrealized": -0.2475
+      "markPrice": 0.976,
+      "unrealized": -0.1414
     },
     {
       "hypothesis": "H-GEO-4",
@@ -1078,8 +988,8 @@
       "shares": 10.1626,
       "openedAt": "2026-08-01T13:00:24.611Z",
       "dteAtOpen": 60,
-      "markPrice": 0.952,
-      "unrealized": -0.3252
+      "markPrice": 0.942,
+      "unrealized": -0.4268
     },
     {
       "hypothesis": "H-GEO-4",
@@ -1132,8 +1042,8 @@
       "shares": 10.5319,
       "openedAt": "2026-08-02T13:00:24.986Z",
       "dteAtOpen": 59,
-      "markPrice": 0.9725,
-      "unrealized": 0.2423
+      "markPrice": 0.973,
+      "unrealized": 0.2475
     },
     {
       "hypothesis": "H-GEO-1",
@@ -1150,8 +1060,8 @@
       "shares": 10.3788,
       "openedAt": "2026-08-02T13:00:24.986Z",
       "dteAtOpen": 58,
-      "markPrice": 0.958,
-      "unrealized": -0.0571
+      "markPrice": 0.9585,
+      "unrealized": -0.0519
     },
     {
       "hypothesis": "H-GEO-1",
@@ -1168,8 +1078,8 @@
       "shares": 10.5263,
       "openedAt": "2026-08-02T13:00:24.986Z",
       "dteAtOpen": 87,
-      "markPrice": 0.9655,
-      "unrealized": 0.1631
+      "markPrice": 0.9675,
+      "unrealized": 0.1842
     },
     {
       "hypothesis": "H-GEO-1",
@@ -1222,8 +1132,8 @@
       "shares": 10.2145,
       "openedAt": "2026-08-02T13:00:24.988Z",
       "dteAtOpen": 59,
-      "markPrice": 0.9905,
-      "unrealized": 0.1175
+      "markPrice": 0.9935,
+      "unrealized": 0.1481
     },
     {
       "hypothesis": "H-GEO-2",
@@ -1240,8 +1150,8 @@
       "shares": 15.8353,
       "openedAt": "2026-08-02T13:00:24.988Z",
       "dteAtOpen": 59,
-      "markPrice": 0.697,
-      "unrealized": 1.0372
+      "markPrice": 0.669,
+      "unrealized": 0.5938
     },
     {
       "hypothesis": "H-GEO-2",
@@ -1258,8 +1168,8 @@
       "shares": 16.3934,
       "openedAt": "2026-08-02T13:00:24.988Z",
       "dteAtOpen": 44,
-      "markPrice": 0.515,
-      "unrealized": -1.5574
+      "markPrice": 0.56,
+      "unrealized": -0.8197
     },
     {
       "hypothesis": "H-GEO-2",
@@ -1276,26 +1186,8 @@
       "shares": 13.4228,
       "openedAt": "2026-08-02T13:00:24.988Z",
       "dteAtOpen": 28,
-      "markPrice": 0.885,
-      "unrealized": 1.8792
-    },
-    {
-      "hypothesis": "H-GEO-2",
-      "marketId": "2686766",
-      "eventId": "634801",
-      "question": "Iran charges Hormuz fees by August 31?",
-      "category": "Iran",
-      "clusterKey": "HORMUZ",
-      "sideIdx": 1,
-      "sideLabel": "No",
-      "token": "104628309488587616237515900963758328926363798303475209280258444561216878013118",
-      "entryPrice": 0.79,
-      "costUsd": 10,
-      "shares": 12.6582,
-      "openedAt": "2026-08-02T13:00:24.988Z",
-      "dteAtOpen": 29,
-      "markPrice": 0.991,
-      "unrealized": 2.5443
+      "markPrice": 0.76,
+      "unrealized": 0.2013
     },
     {
       "hypothesis": "H-GEO-4",
@@ -1314,24 +1206,6 @@
       "dteAtOpen": 59,
       "markPrice": 0.595,
       "unrealized": -3
-    },
-    {
-      "hypothesis": "H-GEO-4",
-      "marketId": "2686766",
-      "eventId": "634801",
-      "question": "Iran charges Hormuz fees by August 31?",
-      "category": "Iran",
-      "clusterKey": "HORMUZ",
-      "sideIdx": 1,
-      "sideLabel": "No",
-      "token": "104628309488587616237515900963758328926363798303475209280258444561216878013118",
-      "entryPrice": 0.79,
-      "costUsd": 10,
-      "shares": 12.6582,
-      "openedAt": "2026-08-02T13:00:24.989Z",
-      "dteAtOpen": 29,
-      "markPrice": 0.991,
-      "unrealized": 2.5443
     },
     {
       "hypothesis": "H-GEO-4",
@@ -1366,8 +1240,8 @@
       "shares": 10.433,
       "openedAt": "2026-08-02T13:00:24.989Z",
       "dteAtOpen": 59,
-      "markPrice": 0.9475,
-      "unrealized": -0.1147
+      "markPrice": 0.956,
+      "unrealized": -0.0261
     },
     {
       "hypothesis": "H-GEO-4",
@@ -1384,8 +1258,8 @@
       "shares": 10.2145,
       "openedAt": "2026-08-02T13:00:24.989Z",
       "dteAtOpen": 60,
-      "markPrice": 0.939,
-      "unrealized": -0.4086
+      "markPrice": 0.941,
+      "unrealized": -0.3882
     },
     {
       "hypothesis": "H-GEO-4",
@@ -1402,8 +1276,8 @@
       "shares": 28.169,
       "openedAt": "2026-08-02T13:00:24.989Z",
       "dteAtOpen": 58,
-      "markPrice": 0.085,
-      "unrealized": -7.6056
+      "markPrice": 0.065,
+      "unrealized": -8.169
     },
     {
       "hypothesis": "H-GEO-2",
@@ -1420,8 +1294,8 @@
       "shares": 10.5042,
       "openedAt": "2026-08-04T13:00:31.269Z",
       "dteAtOpen": 57,
-      "markPrice": 0.876,
-      "unrealized": -0.7983
+      "markPrice": 0.898,
+      "unrealized": -0.5672
     },
     {
       "hypothesis": "H-GEO-4",
@@ -1438,8 +1312,8 @@
       "shares": 10.3681,
       "openedAt": "2026-08-04T13:00:31.270Z",
       "dteAtOpen": 58,
-      "markPrice": 0.969,
-      "unrealized": 0.0467
+      "markPrice": 0.9725,
+      "unrealized": 0.083
     },
     {
       "hypothesis": "H-GEO-1",
@@ -1456,8 +1330,8 @@
       "shares": 10.2881,
       "openedAt": "2026-08-06T13:00:25.834Z",
       "dteAtOpen": 55,
-      "markPrice": 0.984,
-      "unrealized": 0.1235
+      "markPrice": 0.983,
+      "unrealized": 0.1132
     },
     {
       "hypothesis": "H-GEO-1",
@@ -1474,8 +1348,8 @@
       "shares": 10.2669,
       "openedAt": "2026-08-06T13:00:25.834Z",
       "dteAtOpen": 56,
-      "markPrice": 0.939,
-      "unrealized": -0.3594
+      "markPrice": 0.941,
+      "unrealized": -0.3388
     },
     {
       "hypothesis": "H-GEO-2",
@@ -1492,8 +1366,8 @@
       "shares": 20.7254,
       "openedAt": "2026-08-06T13:00:25.839Z",
       "dteAtOpen": 55,
-      "markPrice": 0.569,
-      "unrealized": 1.7928
+      "markPrice": 0.5645,
+      "unrealized": 1.6995
     },
     {
       "hypothesis": "H-GEO-4",
@@ -1510,8 +1384,8 @@
       "shares": 20.7254,
       "openedAt": "2026-08-06T13:00:25.843Z",
       "dteAtOpen": 55,
-      "markPrice": 0.569,
-      "unrealized": 1.7928
+      "markPrice": 0.5645,
+      "unrealized": 1.6995
     },
     {
       "hypothesis": "H-GEO-1",
@@ -1528,8 +1402,8 @@
       "shares": 10.2722,
       "openedAt": "2026-08-08T13:00:24.366Z",
       "dteAtOpen": 54,
-      "markPrice": 0.969,
-      "unrealized": -0.0462
+      "markPrice": 0.974,
+      "unrealized": 0.0051
     },
     {
       "hypothesis": "H-GEO-1",
@@ -1546,8 +1420,8 @@
       "shares": 10.3093,
       "openedAt": "2026-08-08T13:00:24.366Z",
       "dteAtOpen": 53,
-      "markPrice": 0.961,
-      "unrealized": -0.0928
+      "markPrice": 0.96,
+      "unrealized": -0.1031
     },
     {
       "hypothesis": "H-GEO-2",
@@ -1582,8 +1456,8 @@
       "shares": 23.5294,
       "openedAt": "2026-08-08T13:00:24.368Z",
       "dteAtOpen": 41,
-      "markPrice": 0.88,
-      "unrealized": 10.7059
+      "markPrice": 0.89,
+      "unrealized": 10.9412
     },
     {
       "hypothesis": "H-GEO-4",
@@ -1600,8 +1474,8 @@
       "shares": 10.3306,
       "openedAt": "2026-08-08T13:00:24.369Z",
       "dteAtOpen": 54,
-      "markPrice": 0.9925,
-      "unrealized": 0.2531
+      "markPrice": 0.997,
+      "unrealized": 0.2996
     },
     {
       "hypothesis": "H-GEO-2",
@@ -1618,26 +1492,8 @@
       "shares": 11.4943,
       "openedAt": "2026-08-09T13:00:24.194Z",
       "dteAtOpen": 36,
-      "markPrice": 0.9465,
-      "unrealized": 0.8794
-    },
-    {
-      "hypothesis": "H-GEO-1",
-      "marketId": "2686766",
-      "eventId": "634801",
-      "question": "Iran charges Hormuz fees by August 31?",
-      "category": "Iran",
-      "clusterKey": "HORMUZ",
-      "sideIdx": 1,
-      "sideLabel": "No",
-      "token": "104628309488587616237515900963758328926363798303475209280258444561216878013118",
-      "entryPrice": 0.94,
-      "costUsd": 10,
-      "shares": 10.6383,
-      "openedAt": "2026-08-13T13:00:24.271Z",
-      "dteAtOpen": 18,
-      "markPrice": 0.991,
-      "unrealized": 0.5426
+      "markPrice": 0.946,
+      "unrealized": 0.8736
     },
     {
       "hypothesis": "H-GEO-1",
@@ -1672,8 +1528,8 @@
       "shares": 16.129,
       "openedAt": "2026-08-13T13:00:24.275Z",
       "dteAtOpen": 32,
-      "markPrice": 0.86,
-      "unrealized": 3.8709
+      "markPrice": 0.865,
+      "unrealized": 3.9516
     },
     {
       "hypothesis": "H-GEO-4",
@@ -1690,8 +1546,8 @@
       "shares": 10.7527,
       "openedAt": "2026-08-13T13:00:24.275Z",
       "dteAtOpen": 18,
-      "markPrice": 0.987,
-      "unrealized": 0.6129
+      "markPrice": 0.995,
+      "unrealized": 0.6989
     },
     {
       "hypothesis": "H-GEO-1",
@@ -1708,62 +1564,8 @@
       "shares": 10.627,
       "openedAt": "2026-08-15T13:00:23.992Z",
       "dteAtOpen": 16,
-      "markPrice": 0.987,
-      "unrealized": 0.4888
-    },
-    {
-      "hypothesis": "H-GEO-2",
-      "marketId": "2926628",
-      "eventId": "549546",
-      "question": "Will the next Google Gemini Pro model be released by August 31, 2026?",
-      "category": "AI",
-      "clusterKey": "GOOGLE",
-      "sideIdx": 1,
-      "sideLabel": "No",
-      "token": "46847307656882602122997465306414904346129309754935831590213955739893205462517",
-      "entryPrice": 0.826,
-      "costUsd": 10,
-      "shares": 12.1065,
-      "openedAt": "2026-08-15T13:00:23.994Z",
-      "dteAtOpen": 16,
-      "markPrice": 0.994,
-      "unrealized": 2.0339
-    },
-    {
-      "hypothesis": "H-GEO-1",
-      "marketId": "2954910",
-      "eventId": "712255",
-      "question": "Will Anthropic have the best Code Arena | WebDev AI at the end of August 2026?",
-      "category": "AI",
-      "clusterKey": "ANTHROPIC",
-      "sideIdx": 0,
-      "sideLabel": "Yes",
-      "token": "16039126049385941013352592711088546576885450528192228551620432314001202890440",
-      "entryPrice": 0.945,
-      "costUsd": 10,
-      "shares": 10.582,
-      "openedAt": "2026-08-17T13:00:23.240Z",
-      "dteAtOpen": 14,
-      "markPrice": 0.966,
-      "unrealized": 0.2222
-    },
-    {
-      "hypothesis": "H-GEO-2",
-      "marketId": "2954910",
-      "eventId": "712255",
-      "question": "Will Anthropic have the best Code Arena | WebDev AI at the end of August 2026?",
-      "category": "AI",
-      "clusterKey": "ANTHROPIC",
-      "sideIdx": 0,
-      "sideLabel": "Yes",
-      "token": "16039126049385941013352592711088546576885450528192228551620432314001202890440",
-      "entryPrice": 0.945,
-      "costUsd": 10,
-      "shares": 10.582,
-      "openedAt": "2026-08-17T13:00:23.241Z",
-      "dteAtOpen": 14,
-      "markPrice": 0.966,
-      "unrealized": 0.2222
+      "markPrice": 0.995,
+      "unrealized": 0.5739
     },
     {
       "hypothesis": "H-GEO-4",
@@ -1780,44 +1582,200 @@
       "shares": 24.8756,
       "openedAt": "2026-08-17T13:00:23.242Z",
       "dteAtOpen": 44,
-      "markPrice": 0.4045,
-      "unrealized": 0.0622
+      "markPrice": 0.305,
+      "unrealized": -2.4129
+    },
+    {
+      "hypothesis": "H-GEO-1",
+      "marketId": "2928823",
+      "eventId": "704507",
+      "question": "Will US crude oil reserves fall to 285M by August 31?",
+      "category": "Oil",
+      "clusterKey": "OIL",
+      "sideIdx": 1,
+      "sideLabel": "No",
+      "token": "13122689965897157872810892347348530986333395312232039021149752425473171894133",
+      "entryPrice": 0.9725,
+      "costUsd": 10,
+      "shares": 10.2828,
+      "openedAt": "2026-09-01T13:00:25.357Z",
+      "dteAtOpen": 7
+    },
+    {
+      "hypothesis": "H-GEO-1",
+      "marketId": "1429048",
+      "eventId": "228429",
+      "question": "Will Doug Mason win The Bachelorette Season 22?",
+      "category": "Culture",
+      "clusterKey": "evt:228429",
+      "sideIdx": 1,
+      "sideLabel": "No",
+      "token": "46411596895337300877619848044201786457090789822657467383348474597958119236832",
+      "entryPrice": 0.9645,
+      "costUsd": 10,
+      "shares": 10.3681,
+      "openedAt": "2026-09-01T13:00:25.357Z",
+      "dteAtOpen": 89
+    },
+    {
+      "hypothesis": "H-GEO-1",
+      "marketId": "2865403",
+      "eventId": "686075",
+      "question": "Will “Last Week Tonight With John Oliver” win Emmys 2026: Outstanding variety series?",
+      "category": "TV",
+      "clusterKey": "evt:686075",
+      "sideIdx": 1,
+      "sideLabel": "No",
+      "token": "40012081906022814539539577776489197189928282229322855308851367894610209654167",
+      "entryPrice": 0.951,
+      "costUsd": 10,
+      "shares": 10.5152,
+      "openedAt": "2026-09-01T13:00:25.357Z",
+      "dteAtOpen": 13
+    },
+    {
+      "hypothesis": "H-GEO-1",
+      "marketId": "3093530",
+      "eventId": "745626",
+      "question": "Will Tencent be the second-best Chinese AI company at the end of September 2026?",
+      "category": "AI",
+      "clusterKey": "evt:745626",
+      "sideIdx": 1,
+      "sideLabel": "No",
+      "token": "34266483435373530773338517188692200504553402745715540475187661024074246701308",
+      "entryPrice": 0.968,
+      "costUsd": 10,
+      "shares": 10.3306,
+      "openedAt": "2026-09-01T13:00:25.357Z",
+      "dteAtOpen": 30
     },
     {
       "hypothesis": "H-GEO-2",
-      "marketId": "2954909",
-      "eventId": "712255",
-      "question": "Will Moonshot have the best Code Arena | WebDev AI at the end of August 2026?",
-      "category": "AI",
-      "clusterKey": "evt:712255",
-      "sideIdx": 1,
-      "sideLabel": "No",
-      "token": "56798552488463279461179883824678893604147921102561273530124368616073779740239",
-      "entryPrice": 0.976,
+      "marketId": "2760558",
+      "eventId": "656190",
+      "question": "Will the median home value in Austin Metro be less than $446,000 on September 30?",
+      "category": "Parcl",
+      "clusterKey": "evt:656190",
+      "sideIdx": 0,
+      "sideLabel": "Yes",
+      "token": "45375031050419845435242290990551131727620811550146257949289405858100857691260",
+      "entryPrice": 0.9,
       "costUsd": 10,
-      "shares": 10.2459,
-      "openedAt": "2026-08-20T13:00:25.595Z",
-      "dteAtOpen": 11,
-      "markPrice": 0.9865,
-      "unrealized": 0.1076
+      "shares": 11.1111,
+      "openedAt": "2026-09-01T13:00:25.363Z",
+      "dteAtOpen": 29
+    },
+    {
+      "hypothesis": "H-GEO-2",
+      "marketId": "1831351",
+      "eventId": "336406",
+      "question": "Will any AI model reach 1510 Overall Arena Score by September 30, 2026?",
+      "category": "Tech",
+      "clusterKey": "AI_CAP",
+      "sideIdx": 0,
+      "sideLabel": "Yes",
+      "token": "54274975046785035647018962351209441973728395165653924104773374336698564763879",
+      "entryPrice": 0.99,
+      "costUsd": 10,
+      "shares": 10.101,
+      "openedAt": "2026-09-01T13:00:25.363Z",
+      "dteAtOpen": 28
+    },
+    {
+      "hypothesis": "H-GEO-2",
+      "marketId": "2428142",
+      "eventId": "555418",
+      "question": "Will Brazil's Q2 2026 GDP growth rate (QoQ) be between 0.3% and 0.5%?",
+      "category": "GDP",
+      "clusterKey": "evt:555418",
+      "sideIdx": 0,
+      "sideLabel": "Yes",
+      "token": "9566832548872075751160337479912530627042860464663565740009350832884626934099",
+      "entryPrice": 0.99,
+      "costUsd": 10,
+      "shares": 10.101,
+      "openedAt": "2026-09-01T13:00:25.363Z",
+      "dteAtOpen": 0
+    },
+    {
+      "hypothesis": "H-GEO-2",
+      "marketId": "1429091",
+      "eventId": "228429",
+      "question": "Will another contestant win The Bachelorette Season 22?",
+      "category": "Culture",
+      "clusterKey": "evt:228429",
+      "sideIdx": 0,
+      "sideLabel": "Yes",
+      "token": "39869583606487095184448764510176835186374053682252446299678121424563500313889",
+      "entryPrice": 0.89,
+      "costUsd": 10,
+      "shares": 11.236,
+      "openedAt": "2026-09-01T13:00:25.363Z",
+      "dteAtOpen": 89
+    },
+    {
+      "hypothesis": "H-GEO-2",
+      "marketId": "3093580",
+      "eventId": "745635",
+      "question": "Will Google be the second-best Math AI lab at the end of September 2026?",
+      "category": "AI",
+      "clusterKey": "GOOGLE",
+      "sideIdx": 0,
+      "sideLabel": "Yes",
+      "token": "11937936091315767542634484826137701566181674487198547288116365908388891880414",
+      "entryPrice": 0.84,
+      "costUsd": 10,
+      "shares": 11.9048,
+      "openedAt": "2026-09-01T13:00:25.363Z",
+      "dteAtOpen": 30
     },
     {
       "hypothesis": "H-GEO-4",
-      "marketId": "3008631",
-      "eventId": "727197",
-      "question": "Will Z.ai be the third-best Chinese AI company at the end of August 2026?",
-      "category": "AI",
-      "clusterKey": "evt:727197",
-      "sideIdx": 0,
-      "sideLabel": "Yes",
-      "token": "6628689874904077237400291704399922069679438487341936792384010377866892277583",
-      "entryPrice": 0.855,
+      "marketId": "2928823",
+      "eventId": "704507",
+      "question": "Will US crude oil reserves fall to 285M by August 31?",
+      "category": "Oil",
+      "clusterKey": "OIL",
+      "sideIdx": 1,
+      "sideLabel": "No",
+      "token": "13122689965897157872810892347348530986333395312232039021149752425473171894133",
+      "entryPrice": 0.9725,
       "costUsd": 10,
-      "shares": 11.6959,
-      "openedAt": "2026-08-20T13:00:25.598Z",
-      "dteAtOpen": 11,
-      "markPrice": 0.97,
-      "unrealized": 1.345
+      "shares": 10.2828,
+      "openedAt": "2026-09-01T13:00:25.365Z",
+      "dteAtOpen": 7
+    },
+    {
+      "hypothesis": "H-GEO-4",
+      "marketId": "3008543",
+      "eventId": "727187",
+      "question": "Will Mistral have the #1 AI model at the end of September 2026?",
+      "category": "AI",
+      "clusterKey": "AI_CAP",
+      "sideIdx": 1,
+      "sideLabel": "No",
+      "token": "62160650027608455603405984978055872935641227868601311574587484394864725709996",
+      "entryPrice": 0.99,
+      "costUsd": 10,
+      "shares": 10.101,
+      "openedAt": "2026-09-01T13:00:25.365Z",
+      "dteAtOpen": 30
+    },
+    {
+      "hypothesis": "H-GEO-4",
+      "marketId": "3093528",
+      "eventId": "745626",
+      "question": "Will MiniMax be the second-best Chinese AI company at the end of September 2026?",
+      "category": "AI",
+      "clusterKey": "evt:745626",
+      "sideIdx": 1,
+      "sideLabel": "No",
+      "token": "110878696889206160222113220162643845590515170896689561508697230976581261482644",
+      "entryPrice": 0.99,
+      "costUsd": 10,
+      "shares": 10.101,
+      "openedAt": "2026-09-01T13:00:25.365Z",
+      "dteAtOpen": 30
     }
   ],
   "closed": [
@@ -10165,6 +10123,279 @@
       "finalSidePrice": 0,
       "pnl": -10,
       "closedAt": "2026-08-20T13:00:18.143Z"
+    },
+    {
+      "hypothesis": "H-GEO-1",
+      "marketId": "2296217",
+      "eventId": "499510",
+      "question": "Will Elon Musk tweet \"Hyperliquid\" by August 31, 2026?",
+      "category": "Crypto",
+      "clusterKey": "ELON",
+      "sideIdx": 1,
+      "sideLabel": "No",
+      "token": "81905629695376179467642152439122205490366546600283546015907818703618943938229",
+      "entryPrice": 0.947,
+      "costUsd": 10,
+      "shares": 10.5597,
+      "openedAt": "2026-07-01T13:00:25.267Z",
+      "dteAtOpen": 62,
+      "markPrice": 0.9845,
+      "unrealized": 0.396,
+      "finalSidePrice": 1,
+      "pnl": 0.5597,
+      "closedAt": "2026-09-01T13:00:04.269Z"
+    },
+    {
+      "hypothesis": "H-GEO-1",
+      "marketId": "2641010",
+      "eventId": "386812",
+      "question": "Israel withdraws from Lebanon by August 31, 2026?",
+      "category": "Geopolitics",
+      "clusterKey": "evt:386812",
+      "sideIdx": 1,
+      "sideLabel": "No",
+      "token": "115247671653532140694042584569913131846576619985552728319343711884140198933524",
+      "entryPrice": 0.94,
+      "costUsd": 10,
+      "shares": 10.6383,
+      "openedAt": "2026-07-01T13:00:25.267Z",
+      "dteAtOpen": 60,
+      "markPrice": 0.9995,
+      "unrealized": 0.633,
+      "finalSidePrice": 1,
+      "pnl": 0.6383,
+      "closedAt": "2026-09-01T13:00:04.531Z"
+    },
+    {
+      "hypothesis": "H-GEO-2",
+      "marketId": "2296217",
+      "eventId": "499510",
+      "question": "Will Elon Musk tweet \"Hyperliquid\" by August 31, 2026?",
+      "category": "Crypto",
+      "clusterKey": "ELON",
+      "sideIdx": 1,
+      "sideLabel": "No",
+      "token": "81905629695376179467642152439122205490366546600283546015907818703618943938229",
+      "entryPrice": 0.947,
+      "costUsd": 10,
+      "shares": 10.5597,
+      "openedAt": "2026-07-01T13:00:25.268Z",
+      "dteAtOpen": 62,
+      "markPrice": 0.9845,
+      "unrealized": 0.396,
+      "finalSidePrice": 1,
+      "pnl": 0.5597,
+      "closedAt": "2026-09-01T13:00:04.707Z"
+    },
+    {
+      "hypothesis": "H-GEO-3",
+      "marketId": "2296217",
+      "eventId": "499510",
+      "question": "Will Elon Musk tweet \"Hyperliquid\" by August 31, 2026?",
+      "category": "Crypto",
+      "clusterKey": "ELON",
+      "sideIdx": 0,
+      "sideLabel": "Yes",
+      "token": "68289744998910670305974842833498900594551114258577984793455865900724045236320",
+      "entryPrice": 0.063,
+      "costUsd": 10,
+      "shares": 158.7302,
+      "openedAt": "2026-07-01T13:00:25.269Z",
+      "dteAtOpen": 62,
+      "markPrice": 0.0155,
+      "unrealized": -7.5397,
+      "finalSidePrice": 0,
+      "pnl": -10,
+      "closedAt": "2026-09-01T13:00:04.851Z"
+    },
+    {
+      "hypothesis": "H-GEO-4",
+      "marketId": "2641010",
+      "eventId": "386812",
+      "question": "Israel withdraws from Lebanon by August 31, 2026?",
+      "category": "Geopolitics",
+      "clusterKey": "evt:386812",
+      "sideIdx": 1,
+      "sideLabel": "No",
+      "token": "115247671653532140694042584569913131846576619985552728319343711884140198933524",
+      "entryPrice": 0.9745,
+      "costUsd": 10,
+      "shares": 10.2617,
+      "openedAt": "2026-07-23T13:00:24.794Z",
+      "dteAtOpen": 38,
+      "markPrice": 0.9995,
+      "unrealized": 0.2566,
+      "finalSidePrice": 1,
+      "pnl": 0.2617,
+      "closedAt": "2026-09-01T13:00:11.737Z"
+    },
+    {
+      "hypothesis": "H-GEO-2",
+      "marketId": "2686766",
+      "eventId": "634801",
+      "question": "Iran charges Hormuz fees by August 31?",
+      "category": "Iran",
+      "clusterKey": "HORMUZ",
+      "sideIdx": 1,
+      "sideLabel": "No",
+      "token": "104628309488587616237515900963758328926363798303475209280258444561216878013118",
+      "entryPrice": 0.79,
+      "costUsd": 10,
+      "shares": 12.6582,
+      "openedAt": "2026-08-02T13:00:24.988Z",
+      "dteAtOpen": 29,
+      "markPrice": 0.991,
+      "unrealized": 2.5443,
+      "finalSidePrice": 1,
+      "pnl": 2.6582,
+      "closedAt": "2026-09-01T13:00:15.620Z"
+    },
+    {
+      "hypothesis": "H-GEO-4",
+      "marketId": "2686766",
+      "eventId": "634801",
+      "question": "Iran charges Hormuz fees by August 31?",
+      "category": "Iran",
+      "clusterKey": "HORMUZ",
+      "sideIdx": 1,
+      "sideLabel": "No",
+      "token": "104628309488587616237515900963758328926363798303475209280258444561216878013118",
+      "entryPrice": 0.79,
+      "costUsd": 10,
+      "shares": 12.6582,
+      "openedAt": "2026-08-02T13:00:24.989Z",
+      "dteAtOpen": 29,
+      "markPrice": 0.991,
+      "unrealized": 2.5443,
+      "finalSidePrice": 1,
+      "pnl": 2.6582,
+      "closedAt": "2026-09-01T13:00:15.979Z"
+    },
+    {
+      "hypothesis": "H-GEO-1",
+      "marketId": "2686766",
+      "eventId": "634801",
+      "question": "Iran charges Hormuz fees by August 31?",
+      "category": "Iran",
+      "clusterKey": "HORMUZ",
+      "sideIdx": 1,
+      "sideLabel": "No",
+      "token": "104628309488587616237515900963758328926363798303475209280258444561216878013118",
+      "entryPrice": 0.94,
+      "costUsd": 10,
+      "shares": 10.6383,
+      "openedAt": "2026-08-13T13:00:24.271Z",
+      "dteAtOpen": 18,
+      "markPrice": 0.991,
+      "unrealized": 0.5426,
+      "finalSidePrice": 1,
+      "pnl": 0.6383,
+      "closedAt": "2026-09-01T13:00:18.741Z"
+    },
+    {
+      "hypothesis": "H-GEO-2",
+      "marketId": "2926628",
+      "eventId": "549546",
+      "question": "Will the next Google Gemini Pro model be released by August 31, 2026?",
+      "category": "AI",
+      "clusterKey": "GOOGLE",
+      "sideIdx": 1,
+      "sideLabel": "No",
+      "token": "46847307656882602122997465306414904346129309754935831590213955739893205462517",
+      "entryPrice": 0.826,
+      "costUsd": 10,
+      "shares": 12.1065,
+      "openedAt": "2026-08-15T13:00:23.994Z",
+      "dteAtOpen": 16,
+      "markPrice": 0.994,
+      "unrealized": 2.0339,
+      "finalSidePrice": 1,
+      "pnl": 2.1065,
+      "closedAt": "2026-09-01T13:00:19.571Z"
+    },
+    {
+      "hypothesis": "H-GEO-1",
+      "marketId": "2954910",
+      "eventId": "712255",
+      "question": "Will Anthropic have the best Code Arena | WebDev AI at the end of August 2026?",
+      "category": "AI",
+      "clusterKey": "ANTHROPIC",
+      "sideIdx": 0,
+      "sideLabel": "Yes",
+      "token": "16039126049385941013352592711088546576885450528192228551620432314001202890440",
+      "entryPrice": 0.945,
+      "costUsd": 10,
+      "shares": 10.582,
+      "openedAt": "2026-08-17T13:00:23.240Z",
+      "dteAtOpen": 14,
+      "markPrice": 0.966,
+      "unrealized": 0.2222,
+      "finalSidePrice": 1,
+      "pnl": 0.582,
+      "closedAt": "2026-09-01T13:00:19.739Z"
+    },
+    {
+      "hypothesis": "H-GEO-2",
+      "marketId": "2954910",
+      "eventId": "712255",
+      "question": "Will Anthropic have the best Code Arena | WebDev AI at the end of August 2026?",
+      "category": "AI",
+      "clusterKey": "ANTHROPIC",
+      "sideIdx": 0,
+      "sideLabel": "Yes",
+      "token": "16039126049385941013352592711088546576885450528192228551620432314001202890440",
+      "entryPrice": 0.945,
+      "costUsd": 10,
+      "shares": 10.582,
+      "openedAt": "2026-08-17T13:00:23.241Z",
+      "dteAtOpen": 14,
+      "markPrice": 0.966,
+      "unrealized": 0.2222,
+      "finalSidePrice": 1,
+      "pnl": 0.582,
+      "closedAt": "2026-09-01T13:00:19.870Z"
+    },
+    {
+      "hypothesis": "H-GEO-2",
+      "marketId": "2954909",
+      "eventId": "712255",
+      "question": "Will Moonshot have the best Code Arena | WebDev AI at the end of August 2026?",
+      "category": "AI",
+      "clusterKey": "evt:712255",
+      "sideIdx": 1,
+      "sideLabel": "No",
+      "token": "56798552488463279461179883824678893604147921102561273530124368616073779740239",
+      "entryPrice": 0.976,
+      "costUsd": 10,
+      "shares": 10.2459,
+      "openedAt": "2026-08-20T13:00:25.595Z",
+      "dteAtOpen": 11,
+      "markPrice": 0.9865,
+      "unrealized": 0.1076,
+      "finalSidePrice": 1,
+      "pnl": 0.2459,
+      "closedAt": "2026-09-01T13:00:20.189Z"
+    },
+    {
+      "hypothesis": "H-GEO-4",
+      "marketId": "3008631",
+      "eventId": "727197",
+      "question": "Will Z.ai be the third-best Chinese AI company at the end of August 2026?",
+      "category": "AI",
+      "clusterKey": "evt:727197",
+      "sideIdx": 0,
+      "sideLabel": "Yes",
+      "token": "6628689874904077237400291704399922069679438487341936792384010377866892277583",
+      "entryPrice": 0.855,
+      "costUsd": 10,
+      "shares": 11.6959,
+      "openedAt": "2026-08-20T13:00:25.598Z",
+      "dteAtOpen": 11,
+      "markPrice": 0.97,
+      "unrealized": 1.345,
+      "finalSidePrice": 1,
+      "pnl": 1.6959,
+      "closedAt": "2026-09-01T13:00:20.352Z"
     }
   ]
 }
