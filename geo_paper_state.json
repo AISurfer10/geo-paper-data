@@ -2,42 +2,6 @@
   "created": "2026-06-14T19:09:56.300Z",
   "open": [
     {
-      "hypothesis": "H-GEO-2",
-      "marketId": "2126460",
-      "eventId": "435099",
-      "question": "Will Crude Oil reach a new all-time high by September 30?",
-      "category": "Geopolitics",
-      "clusterKey": "OIL",
-      "sideIdx": 1,
-      "sideLabel": "No",
-      "token": "39031589714572342966258305943349573328412863219523008865771008806225362230155",
-      "entryPrice": 0.968,
-      "costUsd": 10,
-      "shares": 10.3306,
-      "openedAt": "2026-07-02T13:00:20.391Z",
-      "dteAtOpen": 89,
-      "markPrice": 0.9995,
-      "unrealized": 0.3254
-    },
-    {
-      "hypothesis": "H-GEO-3",
-      "marketId": "2126460",
-      "eventId": "435099",
-      "question": "Will Crude Oil reach a new all-time high by September 30?",
-      "category": "Geopolitics",
-      "clusterKey": "OIL",
-      "sideIdx": 0,
-      "sideLabel": "Yes",
-      "token": "99854297587081815138313853193420814111300083263132357130852297048771575220765",
-      "entryPrice": 0.042,
-      "costUsd": 10,
-      "shares": 238.0952,
-      "openedAt": "2026-07-02T13:00:20.392Z",
-      "dteAtOpen": 89,
-      "markPrice": 0.0005,
-      "unrealized": -9.881
-    },
-    {
       "hypothesis": "H-GEO-1",
       "marketId": "693874",
       "eventId": "86426",
@@ -52,8 +16,8 @@
       "shares": 10.4987,
       "openedAt": "2026-07-03T13:00:22.083Z",
       "dteAtOpen": 89,
-      "markPrice": 0.9985,
-      "unrealized": 0.483
+      "markPrice": 0.9995,
+      "unrealized": 0.4935
     },
     {
       "hypothesis": "H-GEO-2",
@@ -70,8 +34,8 @@
       "shares": 14.2857,
       "openedAt": "2026-07-03T13:00:22.085Z",
       "dteAtOpen": 89,
-      "markPrice": 0.994,
-      "unrealized": 4.2
+      "markPrice": 0.9995,
+      "unrealized": 4.2786
     },
     {
       "hypothesis": "H-GEO-3",
@@ -88,8 +52,8 @@
       "shares": 32.2581,
       "openedAt": "2026-07-03T13:00:22.086Z",
       "dteAtOpen": 89,
-      "markPrice": 0.006,
-      "unrealized": -9.8065
+      "markPrice": 0.0005,
+      "unrealized": -9.9839
     },
     {
       "hypothesis": "H-GEO-4",
@@ -124,8 +88,8 @@
       "shares": 10.5263,
       "openedAt": "2026-08-02T13:00:24.986Z",
       "dteAtOpen": 87,
-      "markPrice": 0.9955,
-      "unrealized": 0.4789
+      "markPrice": 0.9945,
+      "unrealized": 0.4684
     },
     {
       "hypothesis": "H-GEO-1",
@@ -147,60 +111,6 @@
     },
     {
       "hypothesis": "H-GEO-1",
-      "marketId": "2853702",
-      "eventId": "682614",
-      "question": "Will Haley Thogmartin win Big Brother season 28?",
-      "category": "TV",
-      "clusterKey": "evt:682614",
-      "sideIdx": 1,
-      "sideLabel": "No",
-      "token": "39277799370279671136927833389421852579774088627048060555237465044097163256350",
-      "entryPrice": 0.9735,
-      "costUsd": 10,
-      "shares": 10.2722,
-      "openedAt": "2026-08-08T13:00:24.366Z",
-      "dteAtOpen": 54,
-      "markPrice": 0.9995,
-      "unrealized": 0.2671
-    },
-    {
-      "hypothesis": "H-GEO-2",
-      "marketId": "2853698",
-      "eventId": "682614",
-      "question": "Will Ashley Trail win Big Brother season 28?",
-      "category": "TV",
-      "clusterKey": "evt:682614",
-      "sideIdx": 1,
-      "sideLabel": "No",
-      "token": "91565066621868937766439271316007101040075844997864140620506560210930489422478",
-      "entryPrice": 0.99,
-      "costUsd": 10,
-      "shares": 10.101,
-      "openedAt": "2026-08-08T13:00:24.367Z",
-      "dteAtOpen": 54,
-      "markPrice": 0.9995,
-      "unrealized": 0.0959
-    },
-    {
-      "hypothesis": "H-GEO-4",
-      "marketId": "2853703",
-      "eventId": "682614",
-      "question": "Will Jason De Puy win Big Brother season 28?",
-      "category": "TV",
-      "clusterKey": "evt:682614",
-      "sideIdx": 1,
-      "sideLabel": "No",
-      "token": "64350435425591214658631720192290778924098672787541431306312331291013270026241",
-      "entryPrice": 0.968,
-      "costUsd": 10,
-      "shares": 10.3306,
-      "openedAt": "2026-08-08T13:00:24.369Z",
-      "dteAtOpen": 54,
-      "markPrice": 0.9995,
-      "unrealized": 0.3254
-    },
-    {
-      "hypothesis": "H-GEO-1",
       "marketId": "1429048",
       "eventId": "228429",
       "question": "Will Doug Mason win The Bachelorette Season 22?",
@@ -214,8 +124,8 @@
       "shares": 10.3681,
       "openedAt": "2026-09-01T13:00:25.357Z",
       "dteAtOpen": 89,
-      "markPrice": 0.9755,
-      "unrealized": 0.1141
+      "markPrice": 0.9765,
+      "unrealized": 0.1244
     },
     {
       "hypothesis": "H-GEO-2",
@@ -232,26 +142,8 @@
       "shares": 11.236,
       "openedAt": "2026-09-01T13:00:25.363Z",
       "dteAtOpen": 89,
-      "markPrice": 0.915,
-      "unrealized": 0.2809
-    },
-    {
-      "hypothesis": "H-GEO-2",
-      "marketId": "2676954",
-      "eventId": "531973",
-      "question": "Will Ukraine re-enter Kamianske by September 30?",
-      "category": "Geopolitics",
-      "clusterKey": "RU_UA",
-      "sideIdx": 1,
-      "sideLabel": "No",
-      "token": "52139955003026150846237116807005259480093960970320923786056529093649400773784",
-      "entryPrice": 0.92,
-      "costUsd": 10,
-      "shares": 10.8696,
-      "openedAt": "2026-09-02T13:00:25.295Z",
-      "dteAtOpen": 29,
-      "markPrice": 0.9995,
-      "unrealized": 0.8642
+      "markPrice": 0.925,
+      "unrealized": 0.3933
     },
     {
       "hypothesis": "H-GEO-4",
@@ -268,26 +160,8 @@
       "shares": 11.4286,
       "openedAt": "2026-09-05T13:00:24.483Z",
       "dteAtOpen": 85,
-      "markPrice": 0.915,
-      "unrealized": 0.4572
-    },
-    {
-      "hypothesis": "H-GEO-2",
-      "marketId": "3223053",
-      "eventId": "772804",
-      "question": "Will the Ornn RTX 5090 Index be at least $0.60 on September 30, 2026?",
-      "category": "AI",
-      "clusterKey": "evt:772804",
-      "sideIdx": 0,
-      "sideLabel": "Yes",
-      "token": "85054868081347623800742436194092794241500316690304871202660550332648317307254",
-      "entryPrice": 0.815,
-      "costUsd": 10,
-      "shares": 12.2699,
-      "openedAt": "2026-09-15T13:00:32.915Z",
-      "dteAtOpen": 15,
-      "markPrice": 0.9735,
-      "unrealized": 1.9447
+      "markPrice": 0.925,
+      "unrealized": 0.5715
     },
     {
       "hypothesis": "H-GEO-1",
@@ -304,42 +178,8 @@
       "shares": 10.6383,
       "openedAt": "2026-09-18T13:00:34.505Z",
       "dteAtOpen": 74,
-      "markPrice": 0.9605,
-      "unrealized": 0.2181
-    },
-    {
-      "hypothesis": "H-GEO-2",
-      "marketId": "3223013",
-      "eventId": "772786",
-      "question": "Will the Ornn B200 Index be at least $7.50 on September 30, 2026?",
-      "category": "AI",
-      "clusterKey": "evt:772786",
-      "sideIdx": 0,
-      "sideLabel": "Yes",
-      "token": "13697707356142374133494541414909830340380578332815691018510580888153211373553",
-      "entryPrice": 0.9865,
-      "costUsd": 10,
-      "shares": 10.1368,
-      "openedAt": "2026-09-29T13:00:31.476Z",
-      "dteAtOpen": 1,
-      "markPrice": 0.969,
-      "unrealized": -0.1774
-    },
-    {
-      "hypothesis": "H-GEO-1",
-      "marketId": "4027997",
-      "eventId": "941961",
-      "question": "Will London have less than 30mm of precipitation in September?",
-      "category": "Weather",
-      "clusterKey": "evt:941961",
-      "sideIdx": 0,
-      "sideLabel": "Yes",
-      "token": "18391150329894342873974153397988466044182123097717878715616594056781414271423",
-      "entryPrice": 0.975,
-      "costUsd": 10,
-      "shares": 10.2564,
-      "openedAt": "2026-10-01T13:00:31.156Z",
-      "dteAtOpen": 68
+      "markPrice": 0.983,
+      "unrealized": 0.4574
     },
     {
       "hypothesis": "H-GEO-1",
@@ -355,23 +195,9 @@
       "costUsd": 10,
       "shares": 10.2987,
       "openedAt": "2026-10-01T13:00:31.156Z",
-      "dteAtOpen": 31
-    },
-    {
-      "hypothesis": "H-GEO-1",
-      "marketId": "4027989",
-      "eventId": "941960",
-      "question": "Will Seoul have less than 75mm of precipitation in September?",
-      "category": "Weather",
-      "clusterKey": "evt:941960",
-      "sideIdx": 0,
-      "sideLabel": "Yes",
-      "token": "62342192426127336064111445853199341661730750369290721475620962844349668458646",
-      "entryPrice": 0.9645,
-      "costUsd": 10,
-      "shares": 10.3681,
-      "openedAt": "2026-10-01T13:00:31.156Z",
-      "dteAtOpen": 68
+      "dteAtOpen": 31,
+      "markPrice": 0.9875,
+      "unrealized": 0.17
     },
     {
       "hypothesis": "H-GEO-1",
@@ -387,7 +213,9 @@
       "costUsd": 10,
       "shares": 10.3093,
       "openedAt": "2026-10-01T13:00:31.156Z",
-      "dteAtOpen": 61
+      "dteAtOpen": 61,
+      "markPrice": 0.9905,
+      "unrealized": 0.2114
     },
     {
       "hypothesis": "H-GEO-1",
@@ -403,7 +231,9 @@
       "costUsd": 10,
       "shares": 10.6383,
       "openedAt": "2026-10-01T13:00:31.156Z",
-      "dteAtOpen": 31
+      "dteAtOpen": 31,
+      "markPrice": 0.935,
+      "unrealized": -0.0532
     },
     {
       "hypothesis": "H-GEO-1",
@@ -419,7 +249,9 @@
       "costUsd": 10,
       "shares": 10.5263,
       "openedAt": "2026-10-01T13:00:31.156Z",
-      "dteAtOpen": 30
+      "dteAtOpen": 30,
+      "markPrice": 0.943,
+      "unrealized": -0.0737
     },
     {
       "hypothesis": "H-GEO-1",
@@ -435,7 +267,9 @@
       "costUsd": 10,
       "shares": 10.5541,
       "openedAt": "2026-10-01T13:00:31.156Z",
-      "dteAtOpen": 29
+      "dteAtOpen": 29,
+      "markPrice": 0.8665,
+      "unrealized": -0.8549
     },
     {
       "hypothesis": "H-GEO-1",
@@ -451,7 +285,9 @@
       "costUsd": 10,
       "shares": 10.4439,
       "openedAt": "2026-10-01T13:00:31.156Z",
-      "dteAtOpen": 30
+      "dteAtOpen": 30,
+      "markPrice": 0.956,
+      "unrealized": -0.0156
     },
     {
       "hypothesis": "H-GEO-1",
@@ -467,7 +303,9 @@
       "costUsd": 10,
       "shares": 10.6496,
       "openedAt": "2026-10-01T13:00:31.156Z",
-      "dteAtOpen": 30
+      "dteAtOpen": 30,
+      "markPrice": 0.972,
+      "unrealized": 0.3514
     },
     {
       "hypothesis": "H-GEO-1",
@@ -483,7 +321,9 @@
       "costUsd": 10,
       "shares": 10.4712,
       "openedAt": "2026-10-01T13:00:31.156Z",
-      "dteAtOpen": 31
+      "dteAtOpen": 31,
+      "markPrice": 0.9685,
+      "unrealized": 0.1414
     },
     {
       "hypothesis": "H-GEO-1",
@@ -499,7 +339,9 @@
       "costUsd": 10,
       "shares": 10.395,
       "openedAt": "2026-10-01T13:00:31.156Z",
-      "dteAtOpen": 31
+      "dteAtOpen": 31,
+      "markPrice": 0.915,
+      "unrealized": -0.4886
     },
     {
       "hypothesis": "H-GEO-1",
@@ -515,7 +357,9 @@
       "costUsd": 10,
       "shares": 10.4167,
       "openedAt": "2026-10-01T13:00:31.156Z",
-      "dteAtOpen": 31
+      "dteAtOpen": 31,
+      "markPrice": 0.96,
+      "unrealized": 0
     },
     {
       "hypothesis": "H-GEO-1",
@@ -531,7 +375,9 @@
       "costUsd": 10,
       "shares": 10.5152,
       "openedAt": "2026-10-01T13:00:31.156Z",
-      "dteAtOpen": 31
+      "dteAtOpen": 31,
+      "markPrice": 0.9385,
+      "unrealized": -0.1315
     },
     {
       "hypothesis": "H-GEO-1",
@@ -547,7 +393,9 @@
       "costUsd": 10,
       "shares": 10.5932,
       "openedAt": "2026-10-01T13:00:31.156Z",
-      "dteAtOpen": 30
+      "dteAtOpen": 30,
+      "markPrice": 0.903,
+      "unrealized": -0.4343
     },
     {
       "hypothesis": "H-GEO-1",
@@ -563,7 +411,9 @@
       "costUsd": 10,
       "shares": 10.5042,
       "openedAt": "2026-10-01T13:00:31.156Z",
-      "dteAtOpen": 61
+      "dteAtOpen": 61,
+      "markPrice": 0.9675,
+      "unrealized": 0.1628
     },
     {
       "hypothesis": "H-GEO-1",
@@ -579,7 +429,9 @@
       "costUsd": 10,
       "shares": 10.4932,
       "openedAt": "2026-10-01T13:00:31.156Z",
-      "dteAtOpen": 30
+      "dteAtOpen": 30,
+      "markPrice": 0.9465,
+      "unrealized": -0.0682
     },
     {
       "hypothesis": "H-GEO-1",
@@ -595,7 +447,9 @@
       "costUsd": 10,
       "shares": 10.5263,
       "openedAt": "2026-10-01T13:00:31.156Z",
-      "dteAtOpen": 31
+      "dteAtOpen": 31,
+      "markPrice": 0.955,
+      "unrealized": 0.0526
     },
     {
       "hypothesis": "H-GEO-1",
@@ -611,7 +465,9 @@
       "costUsd": 10,
       "shares": 10.2722,
       "openedAt": "2026-10-01T13:00:31.156Z",
-      "dteAtOpen": 30
+      "dteAtOpen": 30,
+      "markPrice": 0.9675,
+      "unrealized": -0.0616
     },
     {
       "hypothesis": "H-GEO-1",
@@ -627,7 +483,9 @@
       "costUsd": 10,
       "shares": 10.3093,
       "openedAt": "2026-10-01T13:00:31.156Z",
-      "dteAtOpen": 31
+      "dteAtOpen": 31,
+      "markPrice": 0.9775,
+      "unrealized": 0.0773
     },
     {
       "hypothesis": "H-GEO-1",
@@ -643,7 +501,9 @@
       "costUsd": 10,
       "shares": 10.2617,
       "openedAt": "2026-10-01T13:00:31.156Z",
-      "dteAtOpen": 31
+      "dteAtOpen": 31,
+      "markPrice": 0.9705,
+      "unrealized": -0.041
     },
     {
       "hypothesis": "H-GEO-1",
@@ -659,7 +519,9 @@
       "costUsd": 10,
       "shares": 10.3413,
       "openedAt": "2026-10-01T13:00:31.156Z",
-      "dteAtOpen": 31
+      "dteAtOpen": 31,
+      "markPrice": 0.9625,
+      "unrealized": -0.0465
     },
     {
       "hypothesis": "H-GEO-1",
@@ -675,7 +537,9 @@
       "costUsd": 10,
       "shares": 10.4167,
       "openedAt": "2026-10-01T13:00:31.156Z",
-      "dteAtOpen": 31
+      "dteAtOpen": 31,
+      "markPrice": 0.955,
+      "unrealized": -0.0521
     },
     {
       "hypothesis": "H-GEO-1",
@@ -691,7 +555,9 @@
       "costUsd": 10,
       "shares": 10.2775,
       "openedAt": "2026-10-01T13:00:31.156Z",
-      "dteAtOpen": 79
+      "dteAtOpen": 79,
+      "markPrice": 0.9585,
+      "unrealized": -0.149
     },
     {
       "hypothesis": "H-GEO-1",
@@ -707,23 +573,9 @@
       "costUsd": 10,
       "shares": 10.2987,
       "openedAt": "2026-10-01T13:00:31.156Z",
-      "dteAtOpen": 31
-    },
-    {
-      "hypothesis": "H-GEO-2",
-      "marketId": "4027997",
-      "eventId": "941961",
-      "question": "Will London have less than 30mm of precipitation in September?",
-      "category": "Weather",
-      "clusterKey": "evt:941961",
-      "sideIdx": 0,
-      "sideLabel": "Yes",
-      "token": "18391150329894342873974153397988466044182123097717878715616594056781414271423",
-      "entryPrice": 0.975,
-      "costUsd": 10,
-      "shares": 10.2564,
-      "openedAt": "2026-10-01T13:00:31.158Z",
-      "dteAtOpen": 68
+      "dteAtOpen": 31,
+      "markPrice": 0.967,
+      "unrealized": -0.0412
     },
     {
       "hypothesis": "H-GEO-2",
@@ -739,23 +591,9 @@
       "costUsd": 10,
       "shares": 10.2987,
       "openedAt": "2026-10-01T13:00:31.158Z",
-      "dteAtOpen": 31
-    },
-    {
-      "hypothesis": "H-GEO-2",
-      "marketId": "4028033",
-      "eventId": "941972",
-      "question": "Will NYC have between 5 and 6 inches of precipitation in September?",
-      "category": "Weather",
-      "clusterKey": "evt:941972",
-      "sideIdx": 0,
-      "sideLabel": "Yes",
-      "token": "54922813894028898979496243324213557291836664228962229714429657760435160435671",
-      "entryPrice": 0.9755,
-      "costUsd": 10,
-      "shares": 10.2512,
-      "openedAt": "2026-10-01T13:00:31.158Z",
-      "dteAtOpen": 68
+      "dteAtOpen": 31,
+      "markPrice": 0.9875,
+      "unrealized": 0.17
     },
     {
       "hypothesis": "H-GEO-2",
@@ -771,23 +609,9 @@
       "costUsd": 10,
       "shares": 12.5,
       "openedAt": "2026-10-01T13:00:31.158Z",
-      "dteAtOpen": 31
-    },
-    {
-      "hypothesis": "H-GEO-2",
-      "marketId": "4027989",
-      "eventId": "941960",
-      "question": "Will Seoul have less than 75mm of precipitation in September?",
-      "category": "Weather",
-      "clusterKey": "evt:941960",
-      "sideIdx": 0,
-      "sideLabel": "Yes",
-      "token": "62342192426127336064111445853199341661730750369290721475620962844349668458646",
-      "entryPrice": 0.9645,
-      "costUsd": 10,
-      "shares": 10.3681,
-      "openedAt": "2026-10-01T13:00:31.158Z",
-      "dteAtOpen": 68
+      "dteAtOpen": 31,
+      "markPrice": 0.795,
+      "unrealized": -0.0625
     },
     {
       "hypothesis": "H-GEO-2",
@@ -803,23 +627,9 @@
       "costUsd": 10,
       "shares": 13.3779,
       "openedAt": "2026-10-01T13:00:31.158Z",
-      "dteAtOpen": 31
-    },
-    {
-      "hypothesis": "H-GEO-2",
-      "marketId": "3916931",
-      "eventId": "918353",
-      "question": "Will the total domestic gross for Spider-Man: Brand New Day be between 940m and 950m by September 30?",
-      "category": "Movies",
-      "clusterKey": "evt:918353",
-      "sideIdx": 1,
-      "sideLabel": "No",
-      "token": "78664013968060654806517748971431759285083401364586512625282094708059625331030",
-      "entryPrice": 0.99,
-      "costUsd": 10,
-      "shares": 10.101,
-      "openedAt": "2026-10-01T13:00:31.158Z",
-      "dteAtOpen": 31
+      "dteAtOpen": 31,
+      "markPrice": 0.673,
+      "unrealized": -0.9967
     },
     {
       "hypothesis": "H-GEO-2",
@@ -835,23 +645,9 @@
       "costUsd": 10,
       "shares": 11.7647,
       "openedAt": "2026-10-01T13:00:31.158Z",
-      "dteAtOpen": 35
-    },
-    {
-      "hypothesis": "H-GEO-2",
-      "marketId": "3552743",
-      "eventId": "840763",
-      "question": "Will there be a power grid emergency in the Mid-Atlantic before October 1?",
-      "category": "energy",
-      "clusterKey": "evt:840763",
-      "sideIdx": 0,
-      "sideLabel": "Yes",
-      "token": "89848033064659169147771346554566990226954480363416456196163491675736348078912",
-      "entryPrice": 0.99,
-      "costUsd": 10,
-      "shares": 10.101,
-      "openedAt": "2026-10-01T13:00:31.158Z",
-      "dteAtOpen": 1
+      "dteAtOpen": 35,
+      "markPrice": 0.735,
+      "unrealized": -1.3529
     },
     {
       "hypothesis": "H-GEO-2",
@@ -867,7 +663,9 @@
       "costUsd": 10,
       "shares": 10.8696,
       "openedAt": "2026-10-01T13:00:31.158Z",
-      "dteAtOpen": 31
+      "dteAtOpen": 31,
+      "markPrice": 0.915,
+      "unrealized": -0.0543
     },
     {
       "hypothesis": "H-GEO-2",
@@ -883,7 +681,9 @@
       "costUsd": 10,
       "shares": 16.9492,
       "openedAt": "2026-10-01T13:00:31.158Z",
-      "dteAtOpen": 61
+      "dteAtOpen": 61,
+      "markPrice": 0.605,
+      "unrealized": 0.2543
     },
     {
       "hypothesis": "H-GEO-2",
@@ -899,7 +699,9 @@
       "costUsd": 10,
       "shares": 14.9813,
       "openedAt": "2026-10-01T13:00:31.158Z",
-      "dteAtOpen": 31
+      "dteAtOpen": 31,
+      "markPrice": 0.5755,
+      "unrealized": -1.3783
     },
     {
       "hypothesis": "H-GEO-2",
@@ -915,7 +717,9 @@
       "costUsd": 10,
       "shares": 17.2414,
       "openedAt": "2026-10-01T13:00:31.158Z",
-      "dteAtOpen": 30
+      "dteAtOpen": 30,
+      "markPrice": 0.525,
+      "unrealized": -0.9483
     },
     {
       "hypothesis": "H-GEO-2",
@@ -931,7 +735,9 @@
       "costUsd": 10,
       "shares": 19.9005,
       "openedAt": "2026-10-01T13:00:31.158Z",
-      "dteAtOpen": 62
+      "dteAtOpen": 62,
+      "markPrice": 0.3985,
+      "unrealized": -2.0697
     },
     {
       "hypothesis": "H-GEO-2",
@@ -947,7 +753,9 @@
       "costUsd": 10,
       "shares": 14.0845,
       "openedAt": "2026-10-01T13:00:31.158Z",
-      "dteAtOpen": 29
+      "dteAtOpen": 29,
+      "markPrice": 0.655,
+      "unrealized": -0.7747
     },
     {
       "hypothesis": "H-GEO-2",
@@ -963,7 +771,9 @@
       "costUsd": 10,
       "shares": 23.5018,
       "openedAt": "2026-10-01T13:00:31.158Z",
-      "dteAtOpen": 30
+      "dteAtOpen": 30,
+      "markPrice": 0.4145,
+      "unrealized": -0.2585
     },
     {
       "hypothesis": "H-GEO-2",
@@ -979,7 +789,9 @@
       "costUsd": 10,
       "shares": 17.2712,
       "openedAt": "2026-10-01T13:00:31.158Z",
-      "dteAtOpen": 32
+      "dteAtOpen": 32,
+      "markPrice": 0.6115,
+      "unrealized": 0.5613
     },
     {
       "hypothesis": "H-GEO-2",
@@ -995,7 +807,9 @@
       "costUsd": 10,
       "shares": 15.873,
       "openedAt": "2026-10-01T13:00:31.158Z",
-      "dteAtOpen": 31
+      "dteAtOpen": 31,
+      "markPrice": 0.605,
+      "unrealized": -0.3968
     },
     {
       "hypothesis": "H-GEO-2",
@@ -1011,7 +825,9 @@
       "costUsd": 10,
       "shares": 11.5607,
       "openedAt": "2026-10-01T13:00:31.158Z",
-      "dteAtOpen": 31
+      "dteAtOpen": 31,
+      "markPrice": 0.85,
+      "unrealized": -0.1734
     },
     {
       "hypothesis": "H-GEO-2",
@@ -1027,7 +843,9 @@
       "costUsd": 10,
       "shares": 10.101,
       "openedAt": "2026-10-01T13:00:31.158Z",
-      "dteAtOpen": 31
+      "dteAtOpen": 31,
+      "markPrice": 0.988,
+      "unrealized": -0.0202
     },
     {
       "hypothesis": "H-GEO-2",
@@ -1043,7 +861,9 @@
       "costUsd": 10,
       "shares": 10.989,
       "openedAt": "2026-10-01T13:00:31.158Z",
-      "dteAtOpen": 30
+      "dteAtOpen": 30,
+      "markPrice": 0.915,
+      "unrealized": 0.0549
     },
     {
       "hypothesis": "H-GEO-2",
@@ -1059,7 +879,9 @@
       "costUsd": 10,
       "shares": 13.0719,
       "openedAt": "2026-10-01T13:00:31.158Z",
-      "dteAtOpen": 34
+      "dteAtOpen": 34,
+      "markPrice": 0.765,
+      "unrealized": 0
     },
     {
       "hypothesis": "H-GEO-2",
@@ -1075,23 +897,9 @@
       "costUsd": 10,
       "shares": 22.4467,
       "openedAt": "2026-10-01T13:00:31.158Z",
-      "dteAtOpen": 31
-    },
-    {
-      "hypothesis": "H-GEO-4",
-      "marketId": "4027989",
-      "eventId": "941960",
-      "question": "Will Seoul have less than 75mm of precipitation in September?",
-      "category": "Weather",
-      "clusterKey": "evt:941960",
-      "sideIdx": 0,
-      "sideLabel": "Yes",
-      "token": "62342192426127336064111445853199341661730750369290721475620962844349668458646",
-      "entryPrice": 0.9645,
-      "costUsd": 10,
-      "shares": 10.3681,
-      "openedAt": "2026-10-01T13:00:31.160Z",
-      "dteAtOpen": 68
+      "dteAtOpen": 31,
+      "markPrice": 0.5495,
+      "unrealized": 2.3345
     },
     {
       "hypothesis": "H-GEO-4",
@@ -1107,7 +915,9 @@
       "costUsd": 10,
       "shares": 13.3779,
       "openedAt": "2026-10-01T13:00:31.160Z",
-      "dteAtOpen": 31
+      "dteAtOpen": 31,
+      "markPrice": 0.673,
+      "unrealized": -0.9967
     },
     {
       "hypothesis": "H-GEO-4",
@@ -1123,23 +933,9 @@
       "costUsd": 10,
       "shares": 12.5078,
       "openedAt": "2026-10-01T13:00:31.160Z",
-      "dteAtOpen": 30
-    },
-    {
-      "hypothesis": "H-GEO-4",
-      "marketId": "4046394",
-      "eventId": "944633",
-      "question": "Will OpenAI's valuation hit (HIGH) $975B by September 30?",
-      "category": "OpenAI",
-      "clusterKey": "OPENAI",
-      "sideIdx": 0,
-      "sideLabel": "Yes",
-      "token": "14377096391718492099143746193592022743008833092424423069345417814805534605306",
-      "entryPrice": 0.99,
-      "costUsd": 10,
-      "shares": 10.101,
-      "openedAt": "2026-10-01T13:00:31.160Z",
-      "dteAtOpen": 0
+      "dteAtOpen": 30,
+      "markPrice": 0.702,
+      "unrealized": -1.2195
     },
     {
       "hypothesis": "H-GEO-4",
@@ -1155,7 +951,9 @@
       "costUsd": 10,
       "shares": 11.5607,
       "openedAt": "2026-10-01T13:00:31.160Z",
-      "dteAtOpen": 31
+      "dteAtOpen": 31,
+      "markPrice": 0.78,
+      "unrealized": -0.9827
     },
     {
       "hypothesis": "H-GEO-4",
@@ -1171,23 +969,9 @@
       "costUsd": 10,
       "shares": 14.0845,
       "openedAt": "2026-10-01T13:00:31.160Z",
-      "dteAtOpen": 29
-    },
-    {
-      "hypothesis": "H-GEO-4",
-      "marketId": "3552739",
-      "eventId": "840763",
-      "question": "Will there be a power grid emergency in California before October 1?",
-      "category": "energy",
-      "clusterKey": "evt:840763",
-      "sideIdx": 1,
-      "sideLabel": "No",
-      "token": "99881099164537022411936304010602590742350816461678078618796678307655402379908",
-      "entryPrice": 0.99,
-      "costUsd": 10,
-      "shares": 10.101,
-      "openedAt": "2026-10-01T13:00:31.160Z",
-      "dteAtOpen": 1
+      "dteAtOpen": 29,
+      "markPrice": 0.655,
+      "unrealized": -0.7747
     },
     {
       "hypothesis": "H-GEO-4",
@@ -1203,23 +987,9 @@
       "costUsd": 10,
       "shares": 15.873,
       "openedAt": "2026-10-01T13:00:31.160Z",
-      "dteAtOpen": 31
-    },
-    {
-      "hypothesis": "H-GEO-4",
-      "marketId": "3491786",
-      "eventId": "828358",
-      "question": "Will the Danube River return to normal levels between September 15 and September 30, 2026?",
-      "category": "Europe",
-      "clusterKey": "evt:828358",
-      "sideIdx": 1,
-      "sideLabel": "No",
-      "token": "72323517147059051309197904752731505379953993032060099917425660183120276123137",
-      "entryPrice": 0.99,
-      "costUsd": 10,
-      "shares": 10.101,
-      "openedAt": "2026-10-01T13:00:31.160Z",
-      "dteAtOpen": 32
+      "dteAtOpen": 31,
+      "markPrice": 0.605,
+      "unrealized": -0.3968
     },
     {
       "hypothesis": "H-GEO-4",
@@ -1235,7 +1005,9 @@
       "costUsd": 10,
       "shares": 10.101,
       "openedAt": "2026-10-01T13:00:31.160Z",
-      "dteAtOpen": 31
+      "dteAtOpen": 31,
+      "markPrice": 0.992,
+      "unrealized": 0.0202
     },
     {
       "hypothesis": "H-GEO-4",
@@ -1251,7 +1023,9 @@
       "costUsd": 10,
       "shares": 10.989,
       "openedAt": "2026-10-01T13:00:31.160Z",
-      "dteAtOpen": 20
+      "dteAtOpen": 20,
+      "markPrice": 0.815,
+      "unrealized": -1.044
     },
     {
       "hypothesis": "H-GEO-4",
@@ -1267,7 +1041,9 @@
       "costUsd": 10,
       "shares": 11.1732,
       "openedAt": "2026-10-01T13:00:31.160Z",
-      "dteAtOpen": 30
+      "dteAtOpen": 30,
+      "markPrice": 0.825,
+      "unrealized": -0.7821
     },
     {
       "hypothesis": "H-GEO-4",
@@ -1283,23 +1059,9 @@
       "costUsd": 10,
       "shares": 10.101,
       "openedAt": "2026-10-01T13:00:31.160Z",
-      "dteAtOpen": 31
-    },
-    {
-      "hypothesis": "H-GEO-4",
-      "marketId": "3916930",
-      "eventId": "918353",
-      "question": "Will the total domestic gross for Spider-Man: Brand New Day be less than 940m by September 30?",
-      "category": "Movies",
-      "clusterKey": "evt:918353",
-      "sideIdx": 1,
-      "sideLabel": "No",
-      "token": "11239352570777865804102314231477208588206997437207649771448190472009617869146",
-      "entryPrice": 0.99,
-      "costUsd": 10,
-      "shares": 10.101,
-      "openedAt": "2026-10-01T13:00:31.161Z",
-      "dteAtOpen": 31
+      "dteAtOpen": 31,
+      "markPrice": 0.985,
+      "unrealized": -0.0505
     },
     {
       "hypothesis": "H-GEO-4",
@@ -1315,7 +1077,9 @@
       "costUsd": 10,
       "shares": 48.6618,
       "openedAt": "2026-10-01T13:00:31.161Z",
-      "dteAtOpen": 31
+      "dteAtOpen": 31,
+      "markPrice": 0.0225,
+      "unrealized": -8.9051
     },
     {
       "hypothesis": "H-GEO-4",
@@ -1331,7 +1095,9 @@
       "costUsd": 10,
       "shares": 10.101,
       "openedAt": "2026-10-01T13:00:31.161Z",
-      "dteAtOpen": 30
+      "dteAtOpen": 30,
+      "markPrice": 0.994,
+      "unrealized": 0.0404
     },
     {
       "hypothesis": "H-GEO-4",
@@ -1347,7 +1113,9 @@
       "costUsd": 10,
       "shares": 10.101,
       "openedAt": "2026-10-01T13:00:31.161Z",
-      "dteAtOpen": 31
+      "dteAtOpen": 31,
+      "markPrice": 0.992,
+      "unrealized": 0.0202
     },
     {
       "hypothesis": "H-GEO-4",
@@ -1363,7 +1131,9 @@
       "costUsd": 10,
       "shares": 88.8889,
       "openedAt": "2026-10-01T13:00:31.161Z",
-      "dteAtOpen": 30
+      "dteAtOpen": 30,
+      "markPrice": 0.074,
+      "unrealized": -3.4222
     },
     {
       "hypothesis": "H-GEO-4",
@@ -1379,7 +1149,9 @@
       "costUsd": 10,
       "shares": 82.9876,
       "openedAt": "2026-10-01T13:00:31.161Z",
-      "dteAtOpen": 31
+      "dteAtOpen": 31,
+      "markPrice": 0.0795,
+      "unrealized": -3.4025
     },
     {
       "hypothesis": "H-GEO-4",
@@ -1395,7 +1167,9 @@
       "costUsd": 10,
       "shares": 10.101,
       "openedAt": "2026-10-01T13:00:31.161Z",
-      "dteAtOpen": 31
+      "dteAtOpen": 31,
+      "markPrice": 0.983,
+      "unrealized": -0.0707
     },
     {
       "hypothesis": "H-GEO-4",
@@ -1411,7 +1185,9 @@
       "costUsd": 10,
       "shares": 10.5152,
       "openedAt": "2026-10-01T13:00:31.161Z",
-      "dteAtOpen": 31
+      "dteAtOpen": 31,
+      "markPrice": 0.9385,
+      "unrealized": -0.1315
     },
     {
       "hypothesis": "H-GEO-4",
@@ -1427,7 +1203,9 @@
       "costUsd": 10,
       "shares": 97.0874,
       "openedAt": "2026-10-01T13:00:31.161Z",
-      "dteAtOpen": 60
+      "dteAtOpen": 60,
+      "markPrice": 0.111,
+      "unrealized": 0.7767
     },
     {
       "hypothesis": "H-GEO-4",
@@ -1443,7 +1221,9 @@
       "costUsd": 10,
       "shares": 10.1626,
       "openedAt": "2026-10-01T13:00:31.161Z",
-      "dteAtOpen": 27
+      "dteAtOpen": 27,
+      "markPrice": 0.9795,
+      "unrealized": -0.0457
     },
     {
       "hypothesis": "H-GEO-4",
@@ -1459,7 +1239,9 @@
       "costUsd": 10,
       "shares": 10.3093,
       "openedAt": "2026-10-01T13:00:31.161Z",
-      "dteAtOpen": 31
+      "dteAtOpen": 31,
+      "markPrice": 0.9775,
+      "unrealized": 0.0773
     },
     {
       "hypothesis": "H-GEO-4",
@@ -1475,7 +1257,9 @@
       "costUsd": 10,
       "shares": 10.3788,
       "openedAt": "2026-10-01T13:00:31.161Z",
-      "dteAtOpen": 29
+      "dteAtOpen": 29,
+      "markPrice": 0.9585,
+      "unrealized": -0.0519
     },
     {
       "hypothesis": "H-GEO-4",
@@ -1491,7 +1275,9 @@
       "costUsd": 10,
       "shares": 10.4167,
       "openedAt": "2026-10-01T13:00:31.161Z",
-      "dteAtOpen": 31
+      "dteAtOpen": 31,
+      "markPrice": 0.955,
+      "unrealized": -0.0521
     },
     {
       "hypothesis": "H-GEO-4",
@@ -1507,7 +1293,313 @@
       "costUsd": 10,
       "shares": 10.2775,
       "openedAt": "2026-10-01T13:00:31.161Z",
-      "dteAtOpen": 79
+      "dteAtOpen": 79,
+      "markPrice": 0.9585,
+      "unrealized": -0.149
+    },
+    {
+      "hypothesis": "H-GEO-1",
+      "marketId": "3684965",
+      "eventId": "867974",
+      "question": "Will \"Digger\" score at least 60 on the Rotten Tomatoes Tomatometer?",
+      "category": "Movies",
+      "clusterKey": "evt:867974",
+      "sideIdx": 1,
+      "sideLabel": "No",
+      "token": "41105127152669155344300210248449483424094357171949612431426028097219233680041",
+      "entryPrice": 0.959,
+      "costUsd": 10,
+      "shares": 10.4275,
+      "openedAt": "2026-10-02T13:00:29.931Z",
+      "dteAtOpen": 3
+    },
+    {
+      "hypothesis": "H-GEO-1",
+      "marketId": "3211313",
+      "eventId": "769870",
+      "question": "Will Man I Need – Olivia Dean be the #2 song in the US for 2026?",
+      "category": "Music",
+      "clusterKey": "evt:769870",
+      "sideIdx": 1,
+      "sideLabel": "No",
+      "token": "112555238554569766218442767636905072694642858825834193003193502328528042717723",
+      "entryPrice": 0.9375,
+      "costUsd": 10,
+      "shares": 10.6667,
+      "openedAt": "2026-10-02T13:00:29.931Z",
+      "dteAtOpen": 89
+    },
+    {
+      "hypothesis": "H-GEO-1",
+      "marketId": "4177248",
+      "eventId": "956597",
+      "question": "Will Cash Cat be the first to hit a $1B FDV?",
+      "category": "ansem",
+      "clusterKey": "evt:956597",
+      "sideIdx": 1,
+      "sideLabel": "No",
+      "token": "98118128517033645157141966242723100896840168262223238036943581722777278598997",
+      "entryPrice": 0.9695,
+      "costUsd": 10,
+      "shares": 10.3146,
+      "openedAt": "2026-10-02T13:00:29.931Z",
+      "dteAtOpen": 85
+    },
+    {
+      "hypothesis": "H-GEO-2",
+      "marketId": "3684965",
+      "eventId": "867974",
+      "question": "Will \"Digger\" score at least 60 on the Rotten Tomatoes Tomatometer?",
+      "category": "Movies",
+      "clusterKey": "evt:867974",
+      "sideIdx": 1,
+      "sideLabel": "No",
+      "token": "41105127152669155344300210248449483424094357171949612431426028097219233680041",
+      "entryPrice": 0.959,
+      "costUsd": 10,
+      "shares": 10.4275,
+      "openedAt": "2026-10-02T13:00:29.936Z",
+      "dteAtOpen": 3
+    },
+    {
+      "hypothesis": "H-GEO-2",
+      "marketId": "677024",
+      "eventId": "79104",
+      "question": "Will the 10-year Treasury yield hit 5.0% before 2027?",
+      "category": "Economy",
+      "clusterKey": "evt:79104",
+      "sideIdx": 0,
+      "sideLabel": "Yes",
+      "token": "22397766228589110871783272985290872433765236471932774952155419500943165057456",
+      "entryPrice": 0.99,
+      "costUsd": 10,
+      "shares": 10.101,
+      "openedAt": "2026-10-02T13:00:29.936Z",
+      "dteAtOpen": 89
+    },
+    {
+      "hypothesis": "H-GEO-2",
+      "marketId": "687555",
+      "eventId": "83771",
+      "question": "Tim Cook out as Apple CEO before 2027?",
+      "category": "Business",
+      "clusterKey": "evt:83771",
+      "sideIdx": 0,
+      "sideLabel": "Yes",
+      "token": "61206972151251876144604293020080604222328714471900617903057651992345445705297",
+      "entryPrice": 0.99,
+      "costUsd": 10,
+      "shares": 10.101,
+      "openedAt": "2026-10-02T13:00:29.936Z",
+      "dteAtOpen": 89
+    },
+    {
+      "hypothesis": "H-GEO-2",
+      "marketId": "1130865",
+      "eventId": "149775",
+      "question": "Will Bad Bunny have a #1 song on the Billboard Hot 100 in 2026?",
+      "category": "Music",
+      "clusterKey": "evt:149775",
+      "sideIdx": 0,
+      "sideLabel": "Yes",
+      "token": "80520053865929834216971002598127835874664933517617426252802594938594081356107",
+      "entryPrice": 0.99,
+      "costUsd": 10,
+      "shares": 10.101,
+      "openedAt": "2026-10-02T13:00:29.936Z",
+      "dteAtOpen": 89
+    },
+    {
+      "hypothesis": "H-GEO-2",
+      "marketId": "3211313",
+      "eventId": "769870",
+      "question": "Will Man I Need – Olivia Dean be the #2 song in the US for 2026?",
+      "category": "Music",
+      "clusterKey": "evt:769870",
+      "sideIdx": 1,
+      "sideLabel": "No",
+      "token": "112555238554569766218442767636905072694642858825834193003193502328528042717723",
+      "entryPrice": 0.9375,
+      "costUsd": 10,
+      "shares": 10.6667,
+      "openedAt": "2026-10-02T13:00:29.936Z",
+      "dteAtOpen": 89
+    },
+    {
+      "hypothesis": "H-GEO-2",
+      "marketId": "1343083",
+      "eventId": "199727",
+      "question": "Will USD/KRW hit 1400 (Low) in 2026?",
+      "category": "USD/KRW",
+      "clusterKey": "evt:199727",
+      "sideIdx": 0,
+      "sideLabel": "Yes",
+      "token": "12039849233910261062508329981936453676314447662707840172136795319984481079501",
+      "entryPrice": 0.99,
+      "costUsd": 10,
+      "shares": 10.101,
+      "openedAt": "2026-10-02T13:00:29.936Z",
+      "dteAtOpen": 89
+    },
+    {
+      "hypothesis": "H-GEO-2",
+      "marketId": "1327144",
+      "eventId": "197683",
+      "question": "Will the U.S. 30-year Fixed-Rate Mortgage hit 6.50% (HIGH) by December 31, 2026?",
+      "category": "Finance",
+      "clusterKey": "evt:197683",
+      "sideIdx": 0,
+      "sideLabel": "Yes",
+      "token": "55210066770096850917669718735156777829888879061159012684866112567927405533210",
+      "entryPrice": 0.99,
+      "costUsd": 10,
+      "shares": 10.101,
+      "openedAt": "2026-10-02T13:00:29.936Z",
+      "dteAtOpen": 89
+    },
+    {
+      "hypothesis": "H-GEO-2",
+      "marketId": "4177250",
+      "eventId": "956597",
+      "question": "Will NetNet be the first to hit a $1B FDV?",
+      "category": "ansem",
+      "clusterKey": "evt:956597",
+      "sideIdx": 1,
+      "sideLabel": "No",
+      "token": "28874356581999335568169607036204594308452372548051107522831812769598416672691",
+      "entryPrice": 0.99,
+      "costUsd": 10,
+      "shares": 10.101,
+      "openedAt": "2026-10-02T13:00:29.936Z",
+      "dteAtOpen": 85
+    },
+    {
+      "hypothesis": "H-GEO-2",
+      "marketId": "676999",
+      "eventId": "79103",
+      "question": "Will Beyoncé release a new song in 2026?",
+      "category": "Culture",
+      "clusterKey": "evt:79103",
+      "sideIdx": 0,
+      "sideLabel": "Yes",
+      "token": "100507524913925806266839238565682064196226605621113926773088560910400596064617",
+      "entryPrice": 0.99,
+      "costUsd": 10,
+      "shares": 10.101,
+      "openedAt": "2026-10-02T13:00:29.938Z",
+      "dteAtOpen": 89
+    },
+    {
+      "hypothesis": "H-GEO-2",
+      "marketId": "1327347",
+      "eventId": "197703",
+      "question": "Will Le Sserafim release a song in 2026?",
+      "category": "Music",
+      "clusterKey": "evt:197703",
+      "sideIdx": 0,
+      "sideLabel": "Yes",
+      "token": "25555228606292263755783901210088066010557620913335747060779931779865308110540",
+      "entryPrice": 0.99,
+      "costUsd": 10,
+      "shares": 10.101,
+      "openedAt": "2026-10-02T13:00:29.938Z",
+      "dteAtOpen": 89
+    },
+    {
+      "hypothesis": "H-GEO-4",
+      "marketId": "3247825",
+      "eventId": "778706",
+      "question": "No change in Bank of England’s interest rates after November 2026 meeting?",
+      "category": "BOE",
+      "clusterKey": "FED",
+      "sideIdx": 1,
+      "sideLabel": "No",
+      "token": "79934336077161650812225830596913338079161180731104288839239363861075812221958",
+      "entryPrice": 0.765,
+      "costUsd": 10,
+      "shares": 13.0719,
+      "openedAt": "2026-10-02T13:00:29.939Z",
+      "dteAtOpen": 34
+    },
+    {
+      "hypothesis": "H-GEO-4",
+      "marketId": "3592098",
+      "eventId": "850712",
+      "question": "Next OpenAI GPT Terra (5.7+) released by October 31, 2026?",
+      "category": "AI",
+      "clusterKey": "OPENAI",
+      "sideIdx": 1,
+      "sideLabel": "No",
+      "token": "68396348946348137091826801962495751530326184412624183643914214639896975312779",
+      "entryPrice": 0.88,
+      "costUsd": 10,
+      "shares": 11.3636,
+      "openedAt": "2026-10-02T13:00:29.939Z",
+      "dteAtOpen": 30
+    },
+    {
+      "hypothesis": "H-GEO-4",
+      "marketId": "4177250",
+      "eventId": "956597",
+      "question": "Will NetNet be the first to hit a $1B FDV?",
+      "category": "ansem",
+      "clusterKey": "evt:956597",
+      "sideIdx": 1,
+      "sideLabel": "No",
+      "token": "28874356581999335568169607036204594308452372548051107522831812769598416672691",
+      "entryPrice": 0.99,
+      "costUsd": 10,
+      "shares": 10.101,
+      "openedAt": "2026-10-02T13:00:29.939Z",
+      "dteAtOpen": 85
+    },
+    {
+      "hypothesis": "H-GEO-4",
+      "marketId": "1130878",
+      "eventId": "149775",
+      "question": "Will Peso Pluma have a #1 song on the Billboard Hot 100 in 2026?",
+      "category": "Music",
+      "clusterKey": "evt:149775",
+      "sideIdx": 1,
+      "sideLabel": "No",
+      "token": "55489667571461258687921010651135020652912757964142356575481848003983299970076",
+      "entryPrice": 0.915,
+      "costUsd": 10,
+      "shares": 10.929,
+      "openedAt": "2026-10-02T13:00:29.940Z",
+      "dteAtOpen": 89
+    },
+    {
+      "hypothesis": "H-GEO-4",
+      "marketId": "3491788",
+      "eventId": "828358",
+      "question": "Will the Danube River fail to return to normal levels by November 1, 2026?",
+      "category": "Europe",
+      "clusterKey": "evt:828358",
+      "sideIdx": 0,
+      "sideLabel": "Yes",
+      "token": "16571768774529771053834180768889530739279226357826426438662459965204508103912",
+      "entryPrice": 0.6165,
+      "costUsd": 10,
+      "shares": 16.2206,
+      "openedAt": "2026-10-02T13:00:29.940Z",
+      "dteAtOpen": 31
+    },
+    {
+      "hypothesis": "H-GEO-4",
+      "marketId": "3251557",
+      "eventId": "779111",
+      "question": "Will Germany GDP growth in Q3 2026 be at least 1.3%?",
+      "category": "GDP",
+      "clusterKey": "evt:779111",
+      "sideIdx": 0,
+      "sideLabel": "Yes",
+      "token": "51428380888558386954554804007495706447700006849650608685012940717390977530925",
+      "entryPrice": 0.45,
+      "costUsd": 10,
+      "shares": 22.2222,
+      "openedAt": "2026-10-02T13:00:29.940Z",
+      "dteAtOpen": 28
     }
   ],
   "closed": [
@@ -12561,6 +12653,402 @@
       "finalSidePrice": 1,
       "pnl": 0.101,
       "closedAt": "2026-10-01T13:00:24.842Z"
+    },
+    {
+      "hypothesis": "H-GEO-2",
+      "marketId": "2126460",
+      "eventId": "435099",
+      "question": "Will Crude Oil reach a new all-time high by September 30?",
+      "category": "Geopolitics",
+      "clusterKey": "OIL",
+      "sideIdx": 1,
+      "sideLabel": "No",
+      "token": "39031589714572342966258305943349573328412863219523008865771008806225362230155",
+      "entryPrice": 0.968,
+      "costUsd": 10,
+      "shares": 10.3306,
+      "openedAt": "2026-07-02T13:00:20.391Z",
+      "dteAtOpen": 89,
+      "markPrice": 0.9995,
+      "unrealized": 0.3254,
+      "finalSidePrice": 1,
+      "pnl": 0.3306,
+      "closedAt": "2026-10-02T13:00:06.994Z"
+    },
+    {
+      "hypothesis": "H-GEO-3",
+      "marketId": "2126460",
+      "eventId": "435099",
+      "question": "Will Crude Oil reach a new all-time high by September 30?",
+      "category": "Geopolitics",
+      "clusterKey": "OIL",
+      "sideIdx": 0,
+      "sideLabel": "Yes",
+      "token": "99854297587081815138313853193420814111300083263132357130852297048771575220765",
+      "entryPrice": 0.042,
+      "costUsd": 10,
+      "shares": 238.0952,
+      "openedAt": "2026-07-02T13:00:20.392Z",
+      "dteAtOpen": 89,
+      "markPrice": 0.0005,
+      "unrealized": -9.881,
+      "finalSidePrice": 0,
+      "pnl": -10,
+      "closedAt": "2026-10-02T13:00:07.269Z"
+    },
+    {
+      "hypothesis": "H-GEO-1",
+      "marketId": "2853702",
+      "eventId": "682614",
+      "question": "Will Haley Thogmartin win Big Brother season 28?",
+      "category": "TV",
+      "clusterKey": "evt:682614",
+      "sideIdx": 1,
+      "sideLabel": "No",
+      "token": "39277799370279671136927833389421852579774088627048060555237465044097163256350",
+      "entryPrice": 0.9735,
+      "costUsd": 10,
+      "shares": 10.2722,
+      "openedAt": "2026-08-08T13:00:24.366Z",
+      "dteAtOpen": 54,
+      "markPrice": 0.9995,
+      "unrealized": 0.2671,
+      "finalSidePrice": 1,
+      "pnl": 0.2722,
+      "closedAt": "2026-10-02T13:00:09.259Z"
+    },
+    {
+      "hypothesis": "H-GEO-2",
+      "marketId": "2853698",
+      "eventId": "682614",
+      "question": "Will Ashley Trail win Big Brother season 28?",
+      "category": "TV",
+      "clusterKey": "evt:682614",
+      "sideIdx": 1,
+      "sideLabel": "No",
+      "token": "91565066621868937766439271316007101040075844997864140620506560210930489422478",
+      "entryPrice": 0.99,
+      "costUsd": 10,
+      "shares": 10.101,
+      "openedAt": "2026-08-08T13:00:24.367Z",
+      "dteAtOpen": 54,
+      "markPrice": 0.9995,
+      "unrealized": 0.0959,
+      "finalSidePrice": 1,
+      "pnl": 0.101,
+      "closedAt": "2026-10-02T13:00:09.506Z"
+    },
+    {
+      "hypothesis": "H-GEO-4",
+      "marketId": "2853703",
+      "eventId": "682614",
+      "question": "Will Jason De Puy win Big Brother season 28?",
+      "category": "TV",
+      "clusterKey": "evt:682614",
+      "sideIdx": 1,
+      "sideLabel": "No",
+      "token": "64350435425591214658631720192290778924098672787541431306312331291013270026241",
+      "entryPrice": 0.968,
+      "costUsd": 10,
+      "shares": 10.3306,
+      "openedAt": "2026-08-08T13:00:24.369Z",
+      "dteAtOpen": 54,
+      "markPrice": 0.9995,
+      "unrealized": 0.3254,
+      "finalSidePrice": 1,
+      "pnl": 0.3306,
+      "closedAt": "2026-10-02T13:00:09.708Z"
+    },
+    {
+      "hypothesis": "H-GEO-2",
+      "marketId": "2676954",
+      "eventId": "531973",
+      "question": "Will Ukraine re-enter Kamianske by September 30?",
+      "category": "Geopolitics",
+      "clusterKey": "RU_UA",
+      "sideIdx": 1,
+      "sideLabel": "No",
+      "token": "52139955003026150846237116807005259480093960970320923786056529093649400773784",
+      "entryPrice": 0.92,
+      "costUsd": 10,
+      "shares": 10.8696,
+      "openedAt": "2026-09-02T13:00:25.295Z",
+      "dteAtOpen": 29,
+      "markPrice": 0.9995,
+      "unrealized": 0.8642,
+      "finalSidePrice": 1,
+      "pnl": 0.8696,
+      "closedAt": "2026-10-02T13:00:10.300Z"
+    },
+    {
+      "hypothesis": "H-GEO-2",
+      "marketId": "3223053",
+      "eventId": "772804",
+      "question": "Will the Ornn RTX 5090 Index be at least $0.60 on September 30, 2026?",
+      "category": "AI",
+      "clusterKey": "evt:772804",
+      "sideIdx": 0,
+      "sideLabel": "Yes",
+      "token": "85054868081347623800742436194092794241500316690304871202660550332648317307254",
+      "entryPrice": 0.815,
+      "costUsd": 10,
+      "shares": 12.2699,
+      "openedAt": "2026-09-15T13:00:32.915Z",
+      "dteAtOpen": 15,
+      "markPrice": 0.9735,
+      "unrealized": 1.9447,
+      "finalSidePrice": 1,
+      "pnl": 2.2699,
+      "closedAt": "2026-10-02T13:00:10.670Z"
+    },
+    {
+      "hypothesis": "H-GEO-2",
+      "marketId": "3223013",
+      "eventId": "772786",
+      "question": "Will the Ornn B200 Index be at least $7.50 on September 30, 2026?",
+      "category": "AI",
+      "clusterKey": "evt:772786",
+      "sideIdx": 0,
+      "sideLabel": "Yes",
+      "token": "13697707356142374133494541414909830340380578332815691018510580888153211373553",
+      "entryPrice": 0.9865,
+      "costUsd": 10,
+      "shares": 10.1368,
+      "openedAt": "2026-09-29T13:00:31.476Z",
+      "dteAtOpen": 1,
+      "markPrice": 0.969,
+      "unrealized": -0.1774,
+      "finalSidePrice": 1,
+      "pnl": 0.1368,
+      "closedAt": "2026-10-02T13:00:11.020Z"
+    },
+    {
+      "hypothesis": "H-GEO-1",
+      "marketId": "4027997",
+      "eventId": "941961",
+      "question": "Will London have less than 30mm of precipitation in September?",
+      "category": "Weather",
+      "clusterKey": "evt:941961",
+      "sideIdx": 0,
+      "sideLabel": "Yes",
+      "token": "18391150329894342873974153397988466044182123097717878715616594056781414271423",
+      "entryPrice": 0.975,
+      "costUsd": 10,
+      "shares": 10.2564,
+      "openedAt": "2026-10-01T13:00:31.156Z",
+      "dteAtOpen": 68,
+      "finalSidePrice": 1,
+      "pnl": 0.2564,
+      "closedAt": "2026-10-02T13:00:11.214Z"
+    },
+    {
+      "hypothesis": "H-GEO-1",
+      "marketId": "4027989",
+      "eventId": "941960",
+      "question": "Will Seoul have less than 75mm of precipitation in September?",
+      "category": "Weather",
+      "clusterKey": "evt:941960",
+      "sideIdx": 0,
+      "sideLabel": "Yes",
+      "token": "62342192426127336064111445853199341661730750369290721475620962844349668458646",
+      "entryPrice": 0.9645,
+      "costUsd": 10,
+      "shares": 10.3681,
+      "openedAt": "2026-10-01T13:00:31.156Z",
+      "dteAtOpen": 68,
+      "finalSidePrice": 1,
+      "pnl": 0.3681,
+      "closedAt": "2026-10-02T13:00:11.584Z"
+    },
+    {
+      "hypothesis": "H-GEO-2",
+      "marketId": "4027997",
+      "eventId": "941961",
+      "question": "Will London have less than 30mm of precipitation in September?",
+      "category": "Weather",
+      "clusterKey": "evt:941961",
+      "sideIdx": 0,
+      "sideLabel": "Yes",
+      "token": "18391150329894342873974153397988466044182123097717878715616594056781414271423",
+      "entryPrice": 0.975,
+      "costUsd": 10,
+      "shares": 10.2564,
+      "openedAt": "2026-10-01T13:00:31.158Z",
+      "dteAtOpen": 68,
+      "finalSidePrice": 1,
+      "pnl": 0.2564,
+      "closedAt": "2026-10-02T13:00:15.392Z"
+    },
+    {
+      "hypothesis": "H-GEO-2",
+      "marketId": "4028033",
+      "eventId": "941972",
+      "question": "Will NYC have between 5 and 6 inches of precipitation in September?",
+      "category": "Weather",
+      "clusterKey": "evt:941972",
+      "sideIdx": 0,
+      "sideLabel": "Yes",
+      "token": "54922813894028898979496243324213557291836664228962229714429657760435160435671",
+      "entryPrice": 0.9755,
+      "costUsd": 10,
+      "shares": 10.2512,
+      "openedAt": "2026-10-01T13:00:31.158Z",
+      "dteAtOpen": 68,
+      "finalSidePrice": 1,
+      "pnl": 0.2512,
+      "closedAt": "2026-10-02T13:00:15.722Z"
+    },
+    {
+      "hypothesis": "H-GEO-2",
+      "marketId": "4027989",
+      "eventId": "941960",
+      "question": "Will Seoul have less than 75mm of precipitation in September?",
+      "category": "Weather",
+      "clusterKey": "evt:941960",
+      "sideIdx": 0,
+      "sideLabel": "Yes",
+      "token": "62342192426127336064111445853199341661730750369290721475620962844349668458646",
+      "entryPrice": 0.9645,
+      "costUsd": 10,
+      "shares": 10.3681,
+      "openedAt": "2026-10-01T13:00:31.158Z",
+      "dteAtOpen": 68,
+      "finalSidePrice": 1,
+      "pnl": 0.3681,
+      "closedAt": "2026-10-02T13:00:16.037Z"
+    },
+    {
+      "hypothesis": "H-GEO-2",
+      "marketId": "3916931",
+      "eventId": "918353",
+      "question": "Will the total domestic gross for Spider-Man: Brand New Day be between 940m and 950m by September 30?",
+      "category": "Movies",
+      "clusterKey": "evt:918353",
+      "sideIdx": 1,
+      "sideLabel": "No",
+      "token": "78664013968060654806517748971431759285083401364586512625282094708059625331030",
+      "entryPrice": 0.99,
+      "costUsd": 10,
+      "shares": 10.101,
+      "openedAt": "2026-10-01T13:00:31.158Z",
+      "dteAtOpen": 31,
+      "finalSidePrice": 1,
+      "pnl": 0.101,
+      "closedAt": "2026-10-02T13:00:16.385Z"
+    },
+    {
+      "hypothesis": "H-GEO-2",
+      "marketId": "3552743",
+      "eventId": "840763",
+      "question": "Will there be a power grid emergency in the Mid-Atlantic before October 1?",
+      "category": "energy",
+      "clusterKey": "evt:840763",
+      "sideIdx": 0,
+      "sideLabel": "Yes",
+      "token": "89848033064659169147771346554566990226954480363416456196163491675736348078912",
+      "entryPrice": 0.99,
+      "costUsd": 10,
+      "shares": 10.101,
+      "openedAt": "2026-10-01T13:00:31.158Z",
+      "dteAtOpen": 1,
+      "finalSidePrice": 1,
+      "pnl": 0.101,
+      "closedAt": "2026-10-02T13:00:16.782Z"
+    },
+    {
+      "hypothesis": "H-GEO-4",
+      "marketId": "4027989",
+      "eventId": "941960",
+      "question": "Will Seoul have less than 75mm of precipitation in September?",
+      "category": "Weather",
+      "clusterKey": "evt:941960",
+      "sideIdx": 0,
+      "sideLabel": "Yes",
+      "token": "62342192426127336064111445853199341661730750369290721475620962844349668458646",
+      "entryPrice": 0.9645,
+      "costUsd": 10,
+      "shares": 10.3681,
+      "openedAt": "2026-10-01T13:00:31.160Z",
+      "dteAtOpen": 68,
+      "finalSidePrice": 1,
+      "pnl": 0.3681,
+      "closedAt": "2026-10-02T13:00:19.212Z"
+    },
+    {
+      "hypothesis": "H-GEO-4",
+      "marketId": "4046394",
+      "eventId": "944633",
+      "question": "Will OpenAI's valuation hit (HIGH) $975B by September 30?",
+      "category": "OpenAI",
+      "clusterKey": "OPENAI",
+      "sideIdx": 0,
+      "sideLabel": "Yes",
+      "token": "14377096391718492099143746193592022743008833092424423069345417814805534605306",
+      "entryPrice": 0.99,
+      "costUsd": 10,
+      "shares": 10.101,
+      "openedAt": "2026-10-01T13:00:31.160Z",
+      "dteAtOpen": 0,
+      "finalSidePrice": 1,
+      "pnl": 0.101,
+      "closedAt": "2026-10-02T13:00:19.730Z"
+    },
+    {
+      "hypothesis": "H-GEO-4",
+      "marketId": "3552739",
+      "eventId": "840763",
+      "question": "Will there be a power grid emergency in California before October 1?",
+      "category": "energy",
+      "clusterKey": "evt:840763",
+      "sideIdx": 1,
+      "sideLabel": "No",
+      "token": "99881099164537022411936304010602590742350816461678078618796678307655402379908",
+      "entryPrice": 0.99,
+      "costUsd": 10,
+      "shares": 10.101,
+      "openedAt": "2026-10-01T13:00:31.160Z",
+      "dteAtOpen": 1,
+      "finalSidePrice": 1,
+      "pnl": 0.101,
+      "closedAt": "2026-10-02T13:00:20.196Z"
+    },
+    {
+      "hypothesis": "H-GEO-4",
+      "marketId": "3491786",
+      "eventId": "828358",
+      "question": "Will the Danube River return to normal levels between September 15 and September 30, 2026?",
+      "category": "Europe",
+      "clusterKey": "evt:828358",
+      "sideIdx": 1,
+      "sideLabel": "No",
+      "token": "72323517147059051309197904752731505379953993032060099917425660183120276123137",
+      "entryPrice": 0.99,
+      "costUsd": 10,
+      "shares": 10.101,
+      "openedAt": "2026-10-01T13:00:31.160Z",
+      "dteAtOpen": 32,
+      "finalSidePrice": 1,
+      "pnl": 0.101,
+      "closedAt": "2026-10-02T13:00:20.496Z"
+    },
+    {
+      "hypothesis": "H-GEO-4",
+      "marketId": "3916930",
+      "eventId": "918353",
+      "question": "Will the total domestic gross for Spider-Man: Brand New Day be less than 940m by September 30?",
+      "category": "Movies",
+      "clusterKey": "evt:918353",
+      "sideIdx": 1,
+      "sideLabel": "No",
+      "token": "11239352570777865804102314231477208588206997437207649771448190472009617869146",
+      "entryPrice": 0.99,
+      "costUsd": 10,
+      "shares": 10.101,
+      "openedAt": "2026-10-01T13:00:31.161Z",
+      "dteAtOpen": 31,
+      "finalSidePrice": 1,
+      "pnl": 0.101,
+      "closedAt": "2026-10-02T13:00:21.420Z"
     }
   ]
 }
