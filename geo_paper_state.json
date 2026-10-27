@@ -16,8 +16,8 @@
       "shares": 10.5263,
       "openedAt": "2026-08-02T13:00:24.986Z",
       "dteAtOpen": 87,
-      "markPrice": 0.9985,
-      "unrealized": 0.5105
+      "markPrice": 0.9995,
+      "unrealized": 0.521
     },
     {
       "hypothesis": "H-GEO-1",
@@ -70,8 +70,8 @@
       "shares": 11.236,
       "openedAt": "2026-09-01T13:00:25.363Z",
       "dteAtOpen": 89,
-      "markPrice": 0.915,
-      "unrealized": 0.2809
+      "markPrice": 0.91,
+      "unrealized": 0.2248
     },
     {
       "hypothesis": "H-GEO-4",
@@ -88,8 +88,8 @@
       "shares": 11.4286,
       "openedAt": "2026-09-05T13:00:24.483Z",
       "dteAtOpen": 85,
-      "markPrice": 0.915,
-      "unrealized": 0.4572
+      "markPrice": 0.91,
+      "unrealized": 0.4
     },
     {
       "hypothesis": "H-GEO-1",
@@ -106,8 +106,8 @@
       "shares": 10.2987,
       "openedAt": "2026-10-01T13:00:31.156Z",
       "dteAtOpen": 31,
-      "markPrice": 0.9975,
-      "unrealized": 0.273
+      "markPrice": 0.998,
+      "unrealized": 0.2781
     },
     {
       "hypothesis": "H-GEO-1",
@@ -142,8 +142,8 @@
       "shares": 10.6383,
       "openedAt": "2026-10-01T13:00:31.156Z",
       "dteAtOpen": 31,
-      "markPrice": 0.9715,
-      "unrealized": 0.3351
+      "markPrice": 0.9705,
+      "unrealized": 0.3245
     },
     {
       "hypothesis": "H-GEO-1",
@@ -160,8 +160,8 @@
       "shares": 10.5263,
       "openedAt": "2026-10-01T13:00:31.156Z",
       "dteAtOpen": 30,
-      "markPrice": 0.97,
-      "unrealized": 0.2105
+      "markPrice": 0.9825,
+      "unrealized": 0.3421
     },
     {
       "hypothesis": "H-GEO-1",
@@ -178,8 +178,8 @@
       "shares": 10.5541,
       "openedAt": "2026-10-01T13:00:31.156Z",
       "dteAtOpen": 29,
-      "markPrice": 0.9985,
-      "unrealized": 0.5383
+      "markPrice": 0.998,
+      "unrealized": 0.533
     },
     {
       "hypothesis": "H-GEO-1",
@@ -214,8 +214,8 @@
       "shares": 10.6496,
       "openedAt": "2026-10-01T13:00:31.156Z",
       "dteAtOpen": 30,
-      "markPrice": 0.968,
-      "unrealized": 0.3088
+      "markPrice": 0.969,
+      "unrealized": 0.3195
     },
     {
       "hypothesis": "H-GEO-1",
@@ -250,8 +250,8 @@
       "shares": 10.395,
       "openedAt": "2026-10-01T13:00:31.156Z",
       "dteAtOpen": 31,
-      "markPrice": 0.9485,
-      "unrealized": -0.1403
+      "markPrice": 0.9545,
+      "unrealized": -0.078
     },
     {
       "hypothesis": "H-GEO-1",
@@ -268,8 +268,8 @@
       "shares": 10.4167,
       "openedAt": "2026-10-01T13:00:31.156Z",
       "dteAtOpen": 31,
-      "markPrice": 0.9895,
-      "unrealized": 0.3073
+      "markPrice": 0.99,
+      "unrealized": 0.3125
     },
     {
       "hypothesis": "H-GEO-1",
@@ -286,8 +286,8 @@
       "shares": 10.5152,
       "openedAt": "2026-10-01T13:00:31.156Z",
       "dteAtOpen": 31,
-      "markPrice": 0.974,
-      "unrealized": 0.2418
+      "markPrice": 0.9495,
+      "unrealized": -0.0158
     },
     {
       "hypothesis": "H-GEO-1",
@@ -304,8 +304,8 @@
       "shares": 10.5932,
       "openedAt": "2026-10-01T13:00:31.156Z",
       "dteAtOpen": 30,
-      "markPrice": 0.904,
-      "unrealized": -0.4237
+      "markPrice": 0.6325,
+      "unrealized": -3.2998
     },
     {
       "hypothesis": "H-GEO-1",
@@ -340,8 +340,8 @@
       "shares": 10.5263,
       "openedAt": "2026-10-01T13:00:31.156Z",
       "dteAtOpen": 31,
-      "markPrice": 0.9645,
-      "unrealized": 0.1526
+      "markPrice": 0.9655,
+      "unrealized": 0.1631
     },
     {
       "hypothesis": "H-GEO-1",
@@ -358,8 +358,8 @@
       "shares": 10.2722,
       "openedAt": "2026-10-01T13:00:31.156Z",
       "dteAtOpen": 30,
-      "markPrice": 0.945,
-      "unrealized": -0.2928
+      "markPrice": 0.9785,
+      "unrealized": 0.0513
     },
     {
       "hypothesis": "H-GEO-1",
@@ -376,8 +376,8 @@
       "shares": 10.3093,
       "openedAt": "2026-10-01T13:00:31.156Z",
       "dteAtOpen": 31,
-      "markPrice": 0.9865,
-      "unrealized": 0.1701
+      "markPrice": 0.988,
+      "unrealized": 0.1856
     },
     {
       "hypothesis": "H-GEO-1",
@@ -430,8 +430,8 @@
       "shares": 10.4167,
       "openedAt": "2026-10-01T13:00:31.156Z",
       "dteAtOpen": 31,
-      "markPrice": 0.985,
-      "unrealized": 0.2604
+      "markPrice": 0.9855,
+      "unrealized": 0.2657
     },
     {
       "hypothesis": "H-GEO-1",
@@ -448,8 +448,8 @@
       "shares": 10.2775,
       "openedAt": "2026-10-01T13:00:31.156Z",
       "dteAtOpen": 79,
-      "markPrice": 0.9785,
-      "unrealized": 0.0565
+      "markPrice": 0.977,
+      "unrealized": 0.0411
     },
     {
       "hypothesis": "H-GEO-1",
@@ -466,8 +466,8 @@
       "shares": 10.2987,
       "openedAt": "2026-10-01T13:00:31.156Z",
       "dteAtOpen": 31,
-      "markPrice": 0.9965,
-      "unrealized": 0.2627
+      "markPrice": 0.997,
+      "unrealized": 0.2678
     },
     {
       "hypothesis": "H-GEO-2",
@@ -484,8 +484,8 @@
       "shares": 10.2987,
       "openedAt": "2026-10-01T13:00:31.158Z",
       "dteAtOpen": 31,
-      "markPrice": 0.9975,
-      "unrealized": 0.273
+      "markPrice": 0.998,
+      "unrealized": 0.2781
     },
     {
       "hypothesis": "H-GEO-2",
@@ -502,8 +502,8 @@
       "shares": 12.5,
       "openedAt": "2026-10-01T13:00:31.158Z",
       "dteAtOpen": 31,
-      "markPrice": 0.895,
-      "unrealized": 1.1875
+      "markPrice": 0.905,
+      "unrealized": 1.3125
     },
     {
       "hypothesis": "H-GEO-2",
@@ -520,8 +520,8 @@
       "shares": 13.3779,
       "openedAt": "2026-10-01T13:00:31.158Z",
       "dteAtOpen": 31,
-      "markPrice": 0.8525,
-      "unrealized": 1.4047
+      "markPrice": 0.8825,
+      "unrealized": 1.806
     },
     {
       "hypothesis": "H-GEO-2",
@@ -556,8 +556,8 @@
       "shares": 10.8696,
       "openedAt": "2026-10-01T13:00:31.158Z",
       "dteAtOpen": 31,
-      "markPrice": 0.9475,
-      "unrealized": 0.2989
+      "markPrice": 0.916,
+      "unrealized": -0.0434
     },
     {
       "hypothesis": "H-GEO-2",
@@ -574,8 +574,8 @@
       "shares": 14.9813,
       "openedAt": "2026-10-01T13:00:31.158Z",
       "dteAtOpen": 31,
-      "markPrice": 0.9325,
-      "unrealized": 3.9701
+      "markPrice": 0.904,
+      "unrealized": 3.5431
     },
     {
       "hypothesis": "H-GEO-2",
@@ -592,8 +592,8 @@
       "shares": 17.2414,
       "openedAt": "2026-10-01T13:00:31.158Z",
       "dteAtOpen": 30,
-      "markPrice": 0.205,
-      "unrealized": -6.4655
+      "markPrice": 0.255,
+      "unrealized": -5.6034
     },
     {
       "hypothesis": "H-GEO-2",
@@ -610,8 +610,8 @@
       "shares": 14.0845,
       "openedAt": "2026-10-01T13:00:31.158Z",
       "dteAtOpen": 29,
-      "markPrice": 0.65,
-      "unrealized": -0.8451
+      "markPrice": 0.67,
+      "unrealized": -0.5634
     },
     {
       "hypothesis": "H-GEO-2",
@@ -628,8 +628,8 @@
       "shares": 23.5018,
       "openedAt": "2026-10-01T13:00:31.158Z",
       "dteAtOpen": 30,
-      "markPrice": 0.6475,
-      "unrealized": 5.2174
+      "markPrice": 0.82,
+      "unrealized": 9.2715
     },
     {
       "hypothesis": "H-GEO-2",
@@ -646,8 +646,8 @@
       "shares": 17.2712,
       "openedAt": "2026-10-01T13:00:31.158Z",
       "dteAtOpen": 32,
-      "markPrice": 0.9725,
-      "unrealized": 6.7962
+      "markPrice": 0.985,
+      "unrealized": 7.0121
     },
     {
       "hypothesis": "H-GEO-2",
@@ -664,8 +664,8 @@
       "shares": 15.873,
       "openedAt": "2026-10-01T13:00:31.158Z",
       "dteAtOpen": 31,
-      "markPrice": 0.585,
-      "unrealized": -0.7143
+      "markPrice": 0.6185,
+      "unrealized": -0.1825
     },
     {
       "hypothesis": "H-GEO-2",
@@ -682,8 +682,8 @@
       "shares": 11.5607,
       "openedAt": "2026-10-01T13:00:31.158Z",
       "dteAtOpen": 31,
-      "markPrice": 0.951,
-      "unrealized": 0.9942
+      "markPrice": 0.96,
+      "unrealized": 1.0983
     },
     {
       "hypothesis": "H-GEO-2",
@@ -700,8 +700,8 @@
       "shares": 10.101,
       "openedAt": "2026-10-01T13:00:31.158Z",
       "dteAtOpen": 31,
-      "markPrice": 0.987,
-      "unrealized": -0.0303
+      "markPrice": 0.9615,
+      "unrealized": -0.2879
     },
     {
       "hypothesis": "H-GEO-2",
@@ -718,8 +718,8 @@
       "shares": 10.989,
       "openedAt": "2026-10-01T13:00:31.158Z",
       "dteAtOpen": 30,
-      "markPrice": 0.6845,
-      "unrealized": -2.478
+      "markPrice": 0.855,
+      "unrealized": -0.6044
     },
     {
       "hypothesis": "H-GEO-2",
@@ -736,8 +736,8 @@
       "shares": 13.0719,
       "openedAt": "2026-10-01T13:00:31.158Z",
       "dteAtOpen": 34,
-      "markPrice": 0.261,
-      "unrealized": -6.5882
+      "markPrice": 0.4615,
+      "unrealized": -3.9673
     },
     {
       "hypothesis": "H-GEO-2",
@@ -754,8 +754,8 @@
       "shares": 22.4467,
       "openedAt": "2026-10-01T13:00:31.158Z",
       "dteAtOpen": 31,
-      "markPrice": 0.7145,
-      "unrealized": 6.0382
+      "markPrice": 0.779,
+      "unrealized": 7.486
     },
     {
       "hypothesis": "H-GEO-4",
@@ -772,8 +772,8 @@
       "shares": 13.3779,
       "openedAt": "2026-10-01T13:00:31.160Z",
       "dteAtOpen": 31,
-      "markPrice": 0.8525,
-      "unrealized": 1.4047
+      "markPrice": 0.8825,
+      "unrealized": 1.806
     },
     {
       "hypothesis": "H-GEO-4",
@@ -790,8 +790,8 @@
       "shares": 12.5078,
       "openedAt": "2026-10-01T13:00:31.160Z",
       "dteAtOpen": 30,
-      "markPrice": 0.9425,
-      "unrealized": 1.7886
+      "markPrice": 0.9475,
+      "unrealized": 1.8511
     },
     {
       "hypothesis": "H-GEO-4",
@@ -808,8 +808,8 @@
       "shares": 11.5607,
       "openedAt": "2026-10-01T13:00:31.160Z",
       "dteAtOpen": 31,
-      "markPrice": 0.797,
-      "unrealized": -0.7861
+      "markPrice": 0.798,
+      "unrealized": -0.7746
     },
     {
       "hypothesis": "H-GEO-4",
@@ -826,8 +826,8 @@
       "shares": 14.0845,
       "openedAt": "2026-10-01T13:00:31.160Z",
       "dteAtOpen": 29,
-      "markPrice": 0.65,
-      "unrealized": -0.8451
+      "markPrice": 0.67,
+      "unrealized": -0.5634
     },
     {
       "hypothesis": "H-GEO-4",
@@ -844,8 +844,8 @@
       "shares": 15.873,
       "openedAt": "2026-10-01T13:00:31.160Z",
       "dteAtOpen": 31,
-      "markPrice": 0.585,
-      "unrealized": -0.7143
+      "markPrice": 0.6185,
+      "unrealized": -0.1825
     },
     {
       "hypothesis": "H-GEO-4",
@@ -862,8 +862,8 @@
       "shares": 10.101,
       "openedAt": "2026-10-01T13:00:31.160Z",
       "dteAtOpen": 31,
-      "markPrice": 0.9825,
-      "unrealized": -0.0758
+      "markPrice": 0.9855,
+      "unrealized": -0.0455
     },
     {
       "hypothesis": "H-GEO-4",
@@ -880,8 +880,8 @@
       "shares": 11.1732,
       "openedAt": "2026-10-01T13:00:31.160Z",
       "dteAtOpen": 30,
-      "markPrice": 0.9105,
-      "unrealized": 0.1732
+      "markPrice": 0.965,
+      "unrealized": 0.7821
     },
     {
       "hypothesis": "H-GEO-4",
@@ -898,8 +898,8 @@
       "shares": 10.101,
       "openedAt": "2026-10-01T13:00:31.160Z",
       "dteAtOpen": 31,
-      "markPrice": 0.996,
-      "unrealized": 0.0606
+      "markPrice": 0.9965,
+      "unrealized": 0.0656
     },
     {
       "hypothesis": "H-GEO-4",
@@ -970,8 +970,8 @@
       "shares": 88.8889,
       "openedAt": "2026-10-01T13:00:31.161Z",
       "dteAtOpen": 30,
-      "markPrice": 0.0045,
-      "unrealized": -9.6
+      "markPrice": 0.0025,
+      "unrealized": -9.7778
     },
     {
       "hypothesis": "H-GEO-4",
@@ -1024,26 +1024,8 @@
       "shares": 10.5152,
       "openedAt": "2026-10-01T13:00:31.161Z",
       "dteAtOpen": 31,
-      "markPrice": 0.974,
-      "unrealized": 0.2418
-    },
-    {
-      "hypothesis": "H-GEO-4",
-      "marketId": "3083659",
-      "eventId": "743876",
-      "question": "Will South Korea GDP growth in Q3 2026 be between 4.0% and 4.4%?",
-      "category": "GDP",
-      "clusterKey": "evt:743876",
-      "sideIdx": 1,
-      "sideLabel": "No",
-      "token": "19624746600875123937863513931100280050051579760577839372965261120320573382106",
-      "entryPrice": 0.984,
-      "costUsd": 10,
-      "shares": 10.1626,
-      "openedAt": "2026-10-01T13:00:31.161Z",
-      "dteAtOpen": 27,
-      "markPrice": 0.976,
-      "unrealized": -0.0813
+      "markPrice": 0.9495,
+      "unrealized": -0.0158
     },
     {
       "hypothesis": "H-GEO-4",
@@ -1060,8 +1042,8 @@
       "shares": 10.3093,
       "openedAt": "2026-10-01T13:00:31.161Z",
       "dteAtOpen": 31,
-      "markPrice": 0.9865,
-      "unrealized": 0.1701
+      "markPrice": 0.988,
+      "unrealized": 0.1856
     },
     {
       "hypothesis": "H-GEO-4",
@@ -1078,8 +1060,8 @@
       "shares": 10.3788,
       "openedAt": "2026-10-01T13:00:31.161Z",
       "dteAtOpen": 29,
-      "markPrice": 0.678,
-      "unrealized": -2.9632
+      "markPrice": 0.628,
+      "unrealized": -3.4821
     },
     {
       "hypothesis": "H-GEO-4",
@@ -1096,8 +1078,8 @@
       "shares": 10.4167,
       "openedAt": "2026-10-01T13:00:31.161Z",
       "dteAtOpen": 31,
-      "markPrice": 0.985,
-      "unrealized": 0.2604
+      "markPrice": 0.9855,
+      "unrealized": 0.2657
     },
     {
       "hypothesis": "H-GEO-4",
@@ -1114,8 +1096,8 @@
       "shares": 10.2775,
       "openedAt": "2026-10-01T13:00:31.161Z",
       "dteAtOpen": 79,
-      "markPrice": 0.9785,
-      "unrealized": 0.0565
+      "markPrice": 0.977,
+      "unrealized": 0.0411
     },
     {
       "hypothesis": "H-GEO-1",
@@ -1132,8 +1114,8 @@
       "shares": 10.6667,
       "openedAt": "2026-10-02T13:00:29.931Z",
       "dteAtOpen": 89,
-      "markPrice": 0.3425,
-      "unrealized": -6.3467
+      "markPrice": 0.349,
+      "unrealized": -6.2773
     },
     {
       "hypothesis": "H-GEO-1",
@@ -1150,8 +1132,8 @@
       "shares": 10.3146,
       "openedAt": "2026-10-02T13:00:29.931Z",
       "dteAtOpen": 85,
-      "markPrice": 0.962,
-      "unrealized": -0.0774
+      "markPrice": 0.965,
+      "unrealized": -0.0464
     },
     {
       "hypothesis": "H-GEO-2",
@@ -1168,8 +1150,8 @@
       "shares": 10.6667,
       "openedAt": "2026-10-02T13:00:29.936Z",
       "dteAtOpen": 89,
-      "markPrice": 0.3425,
-      "unrealized": -6.3467
+      "markPrice": 0.349,
+      "unrealized": -6.2773
     },
     {
       "hypothesis": "H-GEO-2",
@@ -1186,8 +1168,8 @@
       "shares": 10.101,
       "openedAt": "2026-10-02T13:00:29.936Z",
       "dteAtOpen": 85,
-      "markPrice": 0.997,
-      "unrealized": 0.0707
+      "markPrice": 0.9985,
+      "unrealized": 0.0858
     },
     {
       "hypothesis": "H-GEO-4",
@@ -1204,26 +1186,8 @@
       "shares": 13.0719,
       "openedAt": "2026-10-02T13:00:29.939Z",
       "dteAtOpen": 34,
-      "markPrice": 0.972,
-      "unrealized": 2.7059
-    },
-    {
-      "hypothesis": "H-GEO-4",
-      "marketId": "3592098",
-      "eventId": "850712",
-      "question": "Next OpenAI GPT Terra (5.7+) released by October 31, 2026?",
-      "category": "AI",
-      "clusterKey": "OPENAI",
-      "sideIdx": 1,
-      "sideLabel": "No",
-      "token": "68396348946348137091826801962495751530326184412624183643914214639896975312779",
-      "entryPrice": 0.88,
-      "costUsd": 10,
-      "shares": 11.3636,
-      "openedAt": "2026-10-02T13:00:29.939Z",
-      "dteAtOpen": 30,
-      "markPrice": 0.465,
-      "unrealized": -4.7159
+      "markPrice": 0.974,
+      "unrealized": 2.732
     },
     {
       "hypothesis": "H-GEO-4",
@@ -1240,8 +1204,8 @@
       "shares": 10.101,
       "openedAt": "2026-10-02T13:00:29.939Z",
       "dteAtOpen": 85,
-      "markPrice": 0.997,
-      "unrealized": 0.0707
+      "markPrice": 0.9985,
+      "unrealized": 0.0858
     },
     {
       "hypothesis": "H-GEO-4",
@@ -1258,8 +1222,8 @@
       "shares": 10.929,
       "openedAt": "2026-10-02T13:00:29.940Z",
       "dteAtOpen": 89,
-      "markPrice": 0.9325,
-      "unrealized": 0.1913
+      "markPrice": 0.9535,
+      "unrealized": 0.4208
     },
     {
       "hypothesis": "H-GEO-4",
@@ -1276,8 +1240,8 @@
       "shares": 16.2206,
       "openedAt": "2026-10-02T13:00:29.940Z",
       "dteAtOpen": 31,
-      "markPrice": 0.9725,
-      "unrealized": 5.7745
+      "markPrice": 0.985,
+      "unrealized": 5.9773
     },
     {
       "hypothesis": "H-GEO-4",
@@ -1294,8 +1258,8 @@
       "shares": 22.2222,
       "openedAt": "2026-10-02T13:00:29.940Z",
       "dteAtOpen": 28,
-      "markPrice": 0.135,
-      "unrealized": -7
+      "markPrice": 0.12,
+      "unrealized": -7.3333
     },
     {
       "hypothesis": "H-GEO-1",
@@ -1312,8 +1276,8 @@
       "shares": 10.4987,
       "openedAt": "2026-10-03T13:00:33.196Z",
       "dteAtOpen": 90,
-      "markPrice": 0.9385,
-      "unrealized": -0.147
+      "markPrice": 0.955,
+      "unrealized": 0.0263
     },
     {
       "hypothesis": "H-GEO-2",
@@ -1330,8 +1294,8 @@
       "shares": 10.1163,
       "openedAt": "2026-10-03T13:00:33.205Z",
       "dteAtOpen": 90,
-      "markPrice": 0.979,
-      "unrealized": -0.0961
+      "markPrice": 0.9775,
+      "unrealized": -0.1113
     },
     {
       "hypothesis": "H-GEO-2",
@@ -1348,8 +1312,8 @@
       "shares": 11.8977,
       "openedAt": "2026-10-03T13:00:33.205Z",
       "dteAtOpen": 90,
-      "markPrice": 0.9365,
-      "unrealized": 1.1422
+      "markPrice": 0.9345,
+      "unrealized": 1.1184
     },
     {
       "hypothesis": "H-GEO-4",
@@ -1366,8 +1330,8 @@
       "shares": 10.7527,
       "openedAt": "2026-10-03T13:00:33.209Z",
       "dteAtOpen": 28,
-      "markPrice": 0.3765,
-      "unrealized": -5.9516
+      "markPrice": 0.3175,
+      "unrealized": -6.586
     },
     {
       "hypothesis": "H-GEO-1",
@@ -1384,8 +1348,8 @@
       "shares": 10.582,
       "openedAt": "2026-10-06T13:00:30.743Z",
       "dteAtOpen": 25,
-      "markPrice": 0.3765,
-      "unrealized": -6.0159
+      "markPrice": 0.3175,
+      "unrealized": -6.6402
     },
     {
       "hypothesis": "H-GEO-1",
@@ -1402,8 +1366,8 @@
       "shares": 10.6383,
       "openedAt": "2026-10-09T13:00:30.915Z",
       "dteAtOpen": 82,
-      "markPrice": 0.775,
-      "unrealized": -1.7553
+      "markPrice": 0.8,
+      "unrealized": -1.4894
     },
     {
       "hypothesis": "H-GEO-4",
@@ -1420,8 +1384,8 @@
       "shares": 11.6279,
       "openedAt": "2026-10-09T13:00:30.922Z",
       "dteAtOpen": 82,
-      "markPrice": 0.615,
-      "unrealized": -2.8488
+      "markPrice": 0.79,
+      "unrealized": -0.814
     },
     {
       "hypothesis": "H-GEO-1",
@@ -1438,8 +1402,8 @@
       "shares": 10.4167,
       "openedAt": "2026-10-14T13:00:33.820Z",
       "dteAtOpen": 55,
-      "markPrice": 0.9195,
-      "unrealized": -0.4218
+      "markPrice": 0.9035,
+      "unrealized": -0.5885
     },
     {
       "hypothesis": "H-GEO-2",
@@ -1456,8 +1420,8 @@
       "shares": 10.101,
       "openedAt": "2026-10-16T13:00:36.323Z",
       "dteAtOpen": 77,
-      "markPrice": 0.98,
-      "unrealized": -0.101
+      "markPrice": 0.9795,
+      "unrealized": -0.1061
     },
     {
       "hypothesis": "H-GEO-2",
@@ -1492,8 +1456,8 @@
       "shares": 12.9032,
       "openedAt": "2026-10-19T13:00:29.013Z",
       "dteAtOpen": 74,
-      "markPrice": 0.735,
-      "unrealized": -0.5161
+      "markPrice": 0.785,
+      "unrealized": 0.129
     },
     {
       "hypothesis": "H-GEO-2",
@@ -1528,8 +1492,8 @@
       "shares": 10.1885,
       "openedAt": "2026-10-23T13:00:37.409Z",
       "dteAtOpen": 8,
-      "markPrice": 0.977,
-      "unrealized": -0.0458
+      "markPrice": 0.9655,
+      "unrealized": -0.163
     },
     {
       "hypothesis": "H-GEO-2",
@@ -1546,8 +1510,24 @@
       "shares": 10.101,
       "openedAt": "2026-10-24T13:00:36.082Z",
       "dteAtOpen": 7,
-      "markPrice": 0.997,
-      "unrealized": 0.0707
+      "markPrice": 0.9965,
+      "unrealized": 0.0656
+    },
+    {
+      "hypothesis": "H-GEO-2",
+      "marketId": "4936090",
+      "eventId": "1078054",
+      "question": "Will Silver (XAGUSD) hit (HIGH) $64 in October?",
+      "category": "Finance",
+      "clusterKey": "SILVER",
+      "sideIdx": 1,
+      "sideLabel": "No",
+      "token": "111165427470654755459536333605616716256218361394782651322981664612209118480963",
+      "entryPrice": 0.99,
+      "costUsd": 10,
+      "shares": 10.101,
+      "openedAt": "2026-10-27T13:00:31.967Z",
+      "dteAtOpen": 5
     },
     {
       "hypothesis": "H-GEO-2",
@@ -1562,8 +1542,8 @@
       "entryPrice": 0.99,
       "costUsd": 10,
       "shares": 10.101,
-      "openedAt": "2026-10-26T13:00:32.740Z",
-      "dteAtOpen": 67
+      "openedAt": "2026-10-27T13:00:31.967Z",
+      "dteAtOpen": 66
     },
     {
       "hypothesis": "H-GEO-2",
@@ -1578,8 +1558,8 @@
       "entryPrice": 0.99,
       "costUsd": 10,
       "shares": 10.101,
-      "openedAt": "2026-10-26T13:00:32.740Z",
-      "dteAtOpen": 67
+      "openedAt": "2026-10-27T13:00:31.967Z",
+      "dteAtOpen": 66
     },
     {
       "hypothesis": "H-GEO-2",
@@ -1594,24 +1574,40 @@
       "entryPrice": 0.99,
       "costUsd": 10,
       "shares": 10.101,
-      "openedAt": "2026-10-26T13:00:32.740Z",
-      "dteAtOpen": 67
+      "openedAt": "2026-10-27T13:00:31.967Z",
+      "dteAtOpen": 66
     },
     {
-      "hypothesis": "H-GEO-2",
-      "marketId": "701862",
-      "eventId": "89588",
-      "question": "Will Pump.fun reach $0.0054 by December 31, 2026?",
-      "category": "Recurring",
-      "clusterKey": "evt:89588",
-      "sideIdx": 0,
-      "sideLabel": "Yes",
-      "token": "66201897555571330397579607914231436406480436673337828550151839189418801844843",
-      "entryPrice": 0.99,
+      "hypothesis": "H-GEO-4",
+      "marketId": "2361365",
+      "eventId": "527199",
+      "question": "Will Iceland participate in Eurovision 2027?",
+      "category": "Culture",
+      "clusterKey": "evt:527199",
+      "sideIdx": 1,
+      "sideLabel": "No",
+      "token": "101714788625046591009685493878099823251681804413189781381135291268614576056334",
+      "entryPrice": 0.83,
       "costUsd": 10,
-      "shares": 10.101,
-      "openedAt": "2026-10-26T13:00:32.740Z",
-      "dteAtOpen": 67
+      "shares": 12.0482,
+      "openedAt": "2026-10-27T13:00:31.971Z",
+      "dteAtOpen": 64
+    },
+    {
+      "hypothesis": "H-GEO-4",
+      "marketId": "4935851",
+      "eventId": "1078039",
+      "question": "Will Netflix, Inc. (NFLX) hit (HIGH) $75 in October?",
+      "category": "Finance",
+      "clusterKey": "evt:1078039",
+      "sideIdx": 1,
+      "sideLabel": "No",
+      "token": "113591433953066831826949242360790849294885362798860624927412809260966990974644",
+      "entryPrice": 0.981,
+      "costUsd": 10,
+      "shares": 10.1937,
+      "openedAt": "2026-10-27T13:00:31.972Z",
+      "dteAtOpen": 5
     }
   ],
   "closed": [
@@ -16526,6 +16522,124 @@
       "finalSidePrice": 1,
       "pnl": 0.101,
       "closedAt": "2026-10-26T13:00:23.928Z"
+    },
+    {
+      "hypothesis": "H-GEO-4",
+      "marketId": "3083659",
+      "eventId": "743876",
+      "question": "Will South Korea GDP growth in Q3 2026 be between 4.0% and 4.4%?",
+      "category": "GDP",
+      "clusterKey": "evt:743876",
+      "sideIdx": 1,
+      "sideLabel": "No",
+      "token": "19624746600875123937863513931100280050051579760577839372965261120320573382106",
+      "entryPrice": 0.984,
+      "costUsd": 10,
+      "shares": 10.1626,
+      "openedAt": "2026-10-01T13:00:31.161Z",
+      "dteAtOpen": 27,
+      "markPrice": 0.976,
+      "unrealized": -0.0813,
+      "finalSidePrice": 1,
+      "pnl": 0.1626,
+      "closedAt": "2026-10-27T13:00:18.475Z"
+    },
+    {
+      "hypothesis": "H-GEO-4",
+      "marketId": "3592098",
+      "eventId": "850712",
+      "question": "Next OpenAI GPT Terra (5.7+) released by October 31, 2026?",
+      "category": "AI",
+      "clusterKey": "OPENAI",
+      "sideIdx": 1,
+      "sideLabel": "No",
+      "token": "68396348946348137091826801962495751530326184412624183643914214639896975312779",
+      "entryPrice": 0.88,
+      "costUsd": 10,
+      "shares": 11.3636,
+      "openedAt": "2026-10-02T13:00:29.939Z",
+      "dteAtOpen": 30,
+      "markPrice": 0.465,
+      "unrealized": -4.7159,
+      "finalSidePrice": 0,
+      "pnl": -10,
+      "closedAt": "2026-10-27T13:00:20.179Z"
+    },
+    {
+      "hypothesis": "H-GEO-2",
+      "marketId": "677025",
+      "eventId": "79104",
+      "question": "Will the 10-year Treasury yield hit 5.2% before 2027?",
+      "category": "Economy",
+      "clusterKey": "evt:79104",
+      "sideIdx": 0,
+      "sideLabel": "Yes",
+      "token": "70090363170367815297146294007692529992906189341824085184699164213923074932193",
+      "entryPrice": 0.99,
+      "costUsd": 10,
+      "shares": 10.101,
+      "openedAt": "2026-10-26T13:00:32.740Z",
+      "dteAtOpen": 67,
+      "finalSidePrice": 1,
+      "pnl": 0.101,
+      "closedAt": "2026-10-27T13:00:23.492Z"
+    },
+    {
+      "hypothesis": "H-GEO-2",
+      "marketId": "701839",
+      "eventId": "89583",
+      "question": "Will Zcash reach $1100 by December 31, 2026?",
+      "category": "Recurring",
+      "clusterKey": "evt:89583",
+      "sideIdx": 0,
+      "sideLabel": "Yes",
+      "token": "3722836422692936304992580981468153782826758866300628663281470712838025741217",
+      "entryPrice": 0.99,
+      "costUsd": 10,
+      "shares": 10.101,
+      "openedAt": "2026-10-26T13:00:32.740Z",
+      "dteAtOpen": 67,
+      "finalSidePrice": 1,
+      "pnl": 0.101,
+      "closedAt": "2026-10-27T13:00:23.674Z"
+    },
+    {
+      "hypothesis": "H-GEO-2",
+      "marketId": "701926",
+      "eventId": "89603",
+      "question": "Will UNI reach $9.50 by December 31, 2026?",
+      "category": "Recurring",
+      "clusterKey": "evt:89603",
+      "sideIdx": 0,
+      "sideLabel": "Yes",
+      "token": "65275872048469562543325889647997185660951091139866978660611554374357496044929",
+      "entryPrice": 0.99,
+      "costUsd": 10,
+      "shares": 10.101,
+      "openedAt": "2026-10-26T13:00:32.740Z",
+      "dteAtOpen": 67,
+      "finalSidePrice": 1,
+      "pnl": 0.101,
+      "closedAt": "2026-10-27T13:00:23.882Z"
+    },
+    {
+      "hypothesis": "H-GEO-2",
+      "marketId": "701862",
+      "eventId": "89588",
+      "question": "Will Pump.fun reach $0.0054 by December 31, 2026?",
+      "category": "Recurring",
+      "clusterKey": "evt:89588",
+      "sideIdx": 0,
+      "sideLabel": "Yes",
+      "token": "66201897555571330397579607914231436406480436673337828550151839189418801844843",
+      "entryPrice": 0.99,
+      "costUsd": 10,
+      "shares": 10.101,
+      "openedAt": "2026-10-26T13:00:32.740Z",
+      "dteAtOpen": 67,
+      "finalSidePrice": 1,
+      "pnl": 0.101,
+      "closedAt": "2026-10-27T13:00:24.062Z"
     }
   ]
 }
